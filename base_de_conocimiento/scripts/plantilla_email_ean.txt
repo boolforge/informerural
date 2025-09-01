@@ -1,0 +1,17 @@
+Asunto: Solicitud de datos diarios de polen para proyecto habitabilidad (Betula, Grass) — [Localidades]
+
+Hola,
+
+Somos un equipo de investigación privado que está evaluando la carga alergénica en 30 localidades en [países listados]. Solicitamos, si es posible, acceso (CSV o similar) a series diarias de recuentos de polen (Betula/birch y Grass) para las estaciones EAN más cercanas a las siguientes localidades:
+
+- Húsavík (Iceland) — estación: [nombre estación si lo conocen]
+- Kirkwall (Orkney) — estación: [...]
+- Kuhmo (Kainuu) — estación: [...]
+(etc...)
+
+Explicación breve: uso en proyecto de selección de entornos rurales para personas con asma/allergies; garantizo uso no comercial y citación de la fuente.
+
+¿Podrían indicarnos disponibilidad, licencias y procedimiento para obtener los datos y/o si es posible una extracción para 2018–2024?
+
+Gracias y un saludo,
+[Tu nombre / Contacto]

@@ -1,0 +1,3 @@
+\n\n--- Contenido de archivo original: investigacion_preliminar.md, investigacion_preliminar_2_1.md, investigacion_preliminar_1.md, investigacion_preliminar_2.md, investigacion_preliminar_1_1.md ---\n\n
+
+\n\n--- Contenido de archivo original: investigacion_preliminar.md, investigacion_preliminar_2_1.md, investigacion_preliminar_1.md, investigacion_preliminar_2.md, investigacion_preliminar_1_1.md ---\n\nInherited file content will not be shown
