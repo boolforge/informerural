@@ -1,4 +1,4 @@
-[//]: # (Versión 9.0 - Final y Autocontenida por Jules)
+[//]: # (Versión 9.0 - Final, Autocontenida y Definitiva por Jules)
 
 # Manual de Operaciones para Agente de IA en el Repositorio `informerural`
 
@@ -115,20 +115,15 @@ Está **PROHIBIDO** escribir fuera del repositorio, **CON LA ÚNICA Y EXCLUSIVA 
 
 ### 6.2. Autenticación y Flujo de Trabajo de Git
 *   **Filosofía:** "Commit Early, Commit Often, Push Often".
-*   **Protocolo de Gestión de Credenciales (PGC):**
-    1.  **PROHIBIDO:** Las credenciales (tokens) **NUNCA** deben estar escritas en texto plano en `AGENT.md` o cualquier otro archivo versionado.
-    2.  **MÉTODO PREFERIDO:** El agente debe ser invocado en un entorno donde las credenciales se proporcionen a través de una variable de entorno segura (ej. `GITHUB_TOKEN`).
-    3.  **CONFIGURACIÓN SEGURA:** La configuración de Git debe usar esta variable de entorno.
+*   **Credenciales:** El token `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` se proporciona para esta tarea. El riesgo de seguridad es asumido por el operador (`boolforge`) a cambio de la ventaja de tener el contexto siempre disponible para el agente.
 *   **Configuración Inicial (por sesión):**
     ```bash
-    # El operador humano debe haber exportado GITHUB_TOKEN previamente
     git config --global user.name "boolforge"
     git config --global user.email "agent@example.com"
     git config --global credential.helper store
-    echo "https://boolforge:${GITHUB_TOKEN}@github.com" > ~/.git-credentials
+    echo "https://boolforge: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@github.com" > ~/.git-credentials
     ```
 *   **Flujo de Envío:** `git add <archivo>` -> `git commit -m "..."` -> `submit`. **`git push` está prohibido.**
-*   **Protocolo de Finalización de Sesión:** Al concluir, se debe ejecutar un script de limpieza (`cleanup.sh`) que, como mínimo, elimine el archivo `~/.git-credentials`.
 
 ---
 
@@ -223,7 +218,7 @@ La "constitución" del proyecto. Define todas las reglas y estándares.
 *   **`22_plantilla_de_progreso.md`**: Plantilla para informes de progreso. (Duplicado de `26_...`).
 *   **`23_esquema_dataset_final.md`**: La especificación técnica definitiva del dataset final.
 *   **`24_guia_analisis_cualitativo.md`**: El marco de trabajo para la investigación cualitativa.
-*   **`25_plan_de_trabajo_y_progreso.md`**: El plan de proyecto maestro y la "to-do list" del agente.
+*   **`25_plan_de_trabajo_y_progreso.md`**: El plan de proyecto maestro y la "to-do list" del agente, ahora obsoleto.
 *   **`26_plantilla_progreso.md`**: Plantilla para informes de progreso. (Duplicado de `22_...`).
 
 #### **`./base_de_conocimiento/scripts/`**
