@@ -1,0 +1,55 @@
+# -----------------------------------------------------------------
+# CONFIGURACIÓN CENTRAL DEL PROYECTO INFORMERURAL
+# -----------------------------------------------------------------
+# Este archivo contiene los parámetros clave que gobiernan el análisis.
+# Modificar este archivo permite ajustar el comportamiento del agente
+# sin necesidad de alterar los protocolos en AGENT.md.
+# -----------------------------------------------------------------
+
+# -- Parámetros Geográficos --
+# Lista de países a incluir en el análisis.
+paises_objetivo:
+  - Irlanda
+  - Reino Unido
+  - Islandia
+  - Noruega
+  - Suecia
+  - Finlandia
+  - Dinamarca
+  - Países Bajos
+  - Bélgica
+  - Luxemburgo
+  - Suiza
+  - Austria
+  - Alemania
+  - Nueva Zelanda
+  - Japón
+
+# -- Ponderación de Índices (Método AHP/MCDA) --
+# Pesos base para los 8 índices compuestos. La suma debe ser 1.0.
+ponderacion_indices:
+  IR: 0.22   # Índice Respiratorio
+  IPSS: 0.15 # Índice de Progresismo y Seguridad Social
+  IAS: 0.14  # Índice de Acceso Sanitario
+  IAR: 0.14  # Índice de Asequibilidad Rural
+  ISBT: 0.10 # Índice de Sostenibilidad y Bajo Turismo
+  RFC: 0.10  # Riesgo Físico-Climático
+  ICT: 0.08  # Conectividad y Trabajo
+  IAC: 0.07  # Índice de Aceptación Cultural
+
+# -- Filtros Duros (Hard Filters) --
+# Umbrales para el descarte automático de localidades.
+filtros_duros:
+  pm25_max_ug_m3: 7.0
+  humedad_relativa_max_pct: 75.0
+  dew_point_max_c: 12.0
+  airbnb_max_por_residente: 0.1
+  pernoctaciones_max_por_residente: 5.0
+  extrema_derecha_max_crecimiento_pp: 5.0
+  extrema_derecha_max_cuota_pct: 15.0
+  coste_suelo_max_percentil_pais: 75
+  tiempo_max_urgencias_min: 60
+
+# -- Parámetros de Análisis de Polen --
+# Umbral de granos/m³ para considerar un día de alta carga alergénica.
+polen_umbral_sintomas_granos_m3: 50.0
