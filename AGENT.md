@@ -64,7 +64,7 @@ Este es el perfil por defecto. Sus necesidades son complejas y deben analizarse 
 *   **Intersección Clave 3 (Valores x Sociedad):** La combinación de valores progresistas y turismofobia exige un entorno no solo físicamente seguro, sino también psicológicamente seguro y auténtico.
 
 ### 2.2. Arquetipos Secundarios (Extensibilidad del Sistema)
-El sistema debe ser adaptable. Para estos arquetipos, los pesos de los índices y los datos requeridos cambiarían (ver `PLAN_V6.md` para detalles).
+El sistema debe ser adaptable. Para estos arquetipos, los pesos de los índices y los datos requeridos cambiarían (ver [PLAN_V6.md](./PLAN_V6.md) para detalles).
 *   **El Tecnólogo Resiliente:** Prioriza `ICT` (conectividad) sobre todo lo demás.
 *   **La Familia Arraigada:** Prioriza `IAS` (sanidad) y `IPSS` (seguridad comunitaria).
 *   **El Productor Sostenible:** Prioriza `IAR` (coste de la tierra) y `RFC` (riesgo climático).
@@ -78,12 +78,12 @@ Este protocolo es de **cumplimiento obligatorio** para mitigar los modos de fall
 ### 3.1. Principios Cognitivos
 *   **Principio de Atomicidad:** Descomponga cada tarea en el paso más pequeño y lógicamente indivisible posible.
 *   **Principio de Verificación Empírica:** Nunca asuma el éxito de una acción. Siempre verifíquelo con una herramienta de solo lectura.
-*   **Principio de Desarrollo Orientado a Herramientas (Tool-First):** Antes de realizar una tarea manual repetitiva (más de dos veces), deténgase y evalúe si puede diseñar una herramienta conceptual para automatizarla. Documente este diseño en `scripts/README.md`. Priorice la creación de herramientas específicas y altamente especializadas.
-*   **Principio de Caching de Contexto:** Al inicio de una sesión, lea los archivos críticos (`AGENT.md`, `config.yaml`, `dependencies.md`) una sola vez y guárdelos en un contexto interno para minimizar lecturas redundantes.
+*   **Principio de Desarrollo Orientado a Herramientas (Tool-First):** Este principio tiene dos vertientes. Primero, ante tareas manuales repetitivas (más de dos ejecuciones), el agente debe detenerse y diseñar una herramienta para automatizar el proceso. Segundo, y más importante, ante operaciones de sistema complejas o un entorno de ejecución que demuestre ser inestable, se debe priorizar la construcción de un script robusto y autocontenido sobre el uso de herramientas nativas directas. El `refactor_kit` es el arquetipo de este principio, nacido de la necesidad de superar la fragilidad del entorno.
+*   **Principio de Caching de Contexto:** Al inicio de una sesión, lea los archivos críticos (`AGENT.md`, [config.yaml](./base_de_conocimiento/config.yaml), [dependencies.md](./base_de_conocimiento/dependencies.md)) una sola vez y guárdelos en un contexto interno para minimizar lecturas redundantes.
 
 ### 3.2. El Bucle de Trabajo Obligatorio: `Leer -> Planificar -> Actuar -> Verificar -> Registrar -> Checkpoint`
 Se añade un sexto paso obligatorio al final de cada ciclo:
-6.  **CHECKPOINT:** Ejecutar el script `update_checkpoint.py` para guardar la última acción completada y el siguiente paso planificado en `checkpoint.json`. Al inicio de la sesión, el PAC debe incluir la lectura de este archivo para recuperar el estado.
+6.  **CHECKPOINT:** Ejecutar el script `update_checkpoint.py` para guardar la última acción completada y el siguiente paso planificado en [checkpoint.json](./checkpoint.json). Al inicio de la sesión, el PAC debe incluir la lectura de este archivo para recuperar el estado.
 
 ### 3.3. Excepción para Micro-Tareas
 Se permite agrupar hasta 5 acciones triviales (ej. corrección de typos) en un solo ciclo, detallándolas en una entrada de bitácora resumida.
@@ -94,7 +94,7 @@ Se permite agrupar hasta 5 acciones triviales (ej. corrección de typos) en un s
 Usted **DEBE** mantener un registro forense de cada acción en `logs/bitacora_agente.md`. **Cualquier acción no registrada en esta bitácora se considerará como no realizada y es una violación directa del protocolo, constituyendo un fracaso categórico.**
 *   **Ubicación:** `logs/bitacora_agente.md`
 *   **Propósito:** La bitácora es su caja negra. Permite la transparencia total, la trazabilidad y la depuración de errores.
-*   **Plantillas:** Use las plantillas completa (operaciones críticas) y resumida (micro-tareas) definidas en `PLAN_V6.md` y en la propia bitácora.
+*   **Plantillas:** Use las plantillas completa (operaciones críticas) y resumida (micro-tareas) definidas en [PLAN_V6.md](./PLAN_V6.md) y en la propia bitácora.
 
 ---
 
@@ -128,12 +128,12 @@ Está **PROHIBIDO** escribir fuera del repositorio, **CON LA ÚNICA Y EXCLUSIVA 
 ---
 
 ## 7. El Protocolo de Investigación
-Consulte **siempre** `base_de_conocimiento/metodologia/27_master_plan_jules.md` para las tareas pendientes. El archivo `25_...` está obsoleto.
+Consulte **siempre** [27_master_plan_jules.md](./base_de_conocimiento/metodologia/27_master_plan_jules.md) para las tareas pendientes. El archivo `25_...` está obsoleto.
 
 ---
 
 ## 8. Suite de Herramientas y Scripts
-Consulte el manual didáctico completo en `base_de_conocimiento/scripts/README.md`.
+Consulte el manual didáctico completo en [scripts/README.md](./base_de_conocimiento/scripts/README.md).
 
 ---
 
@@ -142,20 +142,20 @@ Esta es la descripción detallada de **CADA** archivo relevante en el repositori
 
 ### **`./` (Raíz)**
 *   **`AGENT.md`**: (Este documento) La directiva maestra que gobierna su comportamiento.
-*   **`PLAN_V6.md`**: El documento de planificación ultra-detallado que condujo a la creación de esta versión del `AGENT.md`.
-*   **`checkpoint.json`**: Un archivo de estado simple para la persistencia entre acciones.
+*   **[PLAN_V6.md](./PLAN_V6.md)**: El documento de planificación ultra-detallado que condujo a la creación de esta versión del `AGENT.md`.
+*   **[checkpoint.json](./checkpoint.json)**: Un archivo de estado simple para la persistencia entre acciones.
 
 ### **`./logs/`**
-*   **`bitacora_agente.md`**: Su registro de actividad obligatorio, donde cada acción, comando y resultado es documentado.
-*   **`incidents/`**: Directorio para almacenar informes de errores detallados cuando el Protocolo de Manejo de Fallos requiere una escalada humana.
+*   **[bitacora_agente.md](./logs/bitacora_agente.md)**: Su registro de actividad obligatorio, donde cada acción, comando y resultado es documentado.
+*   **[incidents/](./logs/incidents/)**: Directorio para almacenar informes de errores detallados cuando el Protocolo de Manejo de Fallos requiere una escalada humana.
 
 ### **`./base_de_conocimiento/`**
 Directorio principal que contiene toda la inteligencia del proyecto.
-*   **`audits/manus_forensic_review.md`**: El informe de auditoría que justifica esta versión del `AGENT.md`.
-*   **`config.yaml`**: Fichero de configuración central para parámetros del proyecto.
-*   **`dependencies.md`**: Documento crítico que detalla todas las dependencias técnicas.
-*   **`ejemplo_informe_final.md`**: Una plantilla y ejemplo del informe final para una localidad.
-*   **`indice.md`**: La tabla de contenidos principal de la base de conocimiento, proporcionando una visión general y enlaces a los documentos clave.
+*   **[audits/manus_forensic_review.md](./base_de_conocimiento/audits/manus_forensic_review.md)**: El informe de auditoría que justifica esta versión del `AGENT.md`.
+*   **[config.yaml](./base_de_conocimiento/config.yaml)**: Fichero de configuración central para parámetros del proyecto.
+*   **[dependencies.md](./base_de_conocimiento/dependencies.md)**: Documento crítico que detalla todas las dependencias técnicas.
+*   **[ejemplo_informe_final.md](./base_de_conocimiento/ejemplo_informe_final.md)**: Una plantilla y ejemplo del informe final para una localidad.
+*   **[indice.md](./base_de_conocimiento/indice.md)**: La tabla de contenidos principal de la base de conocimiento, proporcionando una visión general y enlaces a los documentos clave.
 
 #### **`./base_de_conocimiento/configuracion/`**
 *   **`cdsapirc`**: Archivo de configuración que contiene la URL y la clave de API para el Copernicus Atmosphere Data Store (CDS), utilizado para la descarga programática de datos climáticos y de calidad del aire.
