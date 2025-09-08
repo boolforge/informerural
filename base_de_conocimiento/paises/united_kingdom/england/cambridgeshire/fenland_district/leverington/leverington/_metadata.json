@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Leverington",
+  "geoname_id": 2644566,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.68211",
+    "lon": "0.13673"
+  },
+  "fuente_oficial": "http://www.geonames.org/2644566"
+}

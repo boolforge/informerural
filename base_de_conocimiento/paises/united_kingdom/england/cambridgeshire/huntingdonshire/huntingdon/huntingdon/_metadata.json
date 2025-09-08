@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Huntingdon",
+  "geoname_id": 2646393,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 23937,
+  "centroide": {
+    "lat": "52.33049",
+    "lon": "-0.18651"
+  },
+  "fuente_oficial": "http://www.geonames.org/2646393"
+}

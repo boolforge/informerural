@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Seer Green",
+  "geoname_id": 7521859,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 2200,
+  "centroide": {
+    "lat": "51.61796",
+    "lon": "-0.60592"
+  },
+  "fuente_oficial": "http://www.geonames.org/7521859"
+}

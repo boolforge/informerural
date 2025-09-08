@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Saxon Street",
+  "geoname_id": 12266386,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.20819",
+    "lon": "0.45099"
+  },
+  "fuente_oficial": "http://www.geonames.org/12266386"
+}

@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Tunley",
+  "geoname_id": 12265622,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.33287",
+    "lon": "-2.44225"
+  },
+  "fuente_oficial": "http://www.geonames.org/12265622"
+}

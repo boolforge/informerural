@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Swingbrow",
+  "geoname_id": 13281266,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.47786",
+    "lon": "0.02868"
+  },
+  "fuente_oficial": "http://www.geonames.org/13281266"
+}

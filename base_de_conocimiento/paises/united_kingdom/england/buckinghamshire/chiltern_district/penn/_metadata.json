@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Penn",
+  "geoname_id": 7292885,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "ADM4"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.63482",
+    "lon": "-0.66792"
+  },
+  "fuente_oficial": "http://www.geonames.org/7292885"
+}

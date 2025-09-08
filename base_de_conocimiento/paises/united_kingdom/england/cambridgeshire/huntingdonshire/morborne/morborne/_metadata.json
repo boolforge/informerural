@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Morborne",
+  "geoname_id": 2642238,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.50993",
+    "lon": "-0.32101"
+  },
+  "fuente_oficial": "http://www.geonames.org/2642238"
+}

@@ -2,7 +2,7 @@
 
 **Propietario:** Agente Jules
 **Fecha de Creación:** 2025-09-06
-**Propósito:** Priorizar y gestionar la implementación de la suite de herramientas conceptuales diseñadas en `PLAN_V6.md` y documentadas en `scripts/README.md`.
+**Propósito:** Priorizar y gestionar la implementación de la suite de herramientas conceptuales documentadas en `scripts/README.md`.
 
 ---
 

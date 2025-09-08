@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Leighton",
+  "geoname_id": 7298795,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "ADM4"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.37016",
+    "lon": "-0.36398"
+  },
+  "fuente_oficial": "http://www.geonames.org/7298795"
+}

@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Dorney",
+  "geoname_id": 2651091,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 278,
+  "centroide": {
+    "lat": "51.50308",
+    "lon": "-0.6621"
+  },
+  "fuente_oficial": "http://www.geonames.org/2651091"
+}

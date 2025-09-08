@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Knotting and Souldrop",
+  "geoname_id": 7290872,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "ADM3"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.25175",
+    "lon": "-0.55158"
+  },
+  "fuente_oficial": "http://www.geonames.org/7290872"
+}

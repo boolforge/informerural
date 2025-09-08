@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Four Oaks",
+  "geoname_id": 2649131,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.58198",
+    "lon": "-1.8324"
+  },
+  "fuente_oficial": "http://www.geonames.org/2649131"
+}

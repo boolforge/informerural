@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Sawtry",
+  "geoname_id": 7299851,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "ADM4"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.42496",
+    "lon": "-0.2784"
+  },
+  "fuente_oficial": "http://www.geonames.org/7299851"
+}

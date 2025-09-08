@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Murrow",
+  "geoname_id": 2641951,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 792,
+  "centroide": {
+    "lat": "52.64257",
+    "lon": "0.02738"
+  },
+  "fuente_oficial": "http://www.geonames.org/2641951"
+}

@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "West Blatchington",
+  "geoname_id": 8063670,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "50.845",
+    "lon": "-0.1857"
+  },
+  "fuente_oficial": "http://www.geonames.org/8063670"
+}

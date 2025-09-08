@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Cheddington",
+  "geoname_id": 2653280,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 1634,
+  "centroide": {
+    "lat": "51.84784",
+    "lon": "-0.66429"
+  },
+  "fuente_oficial": "http://www.geonames.org/2653280"
+}

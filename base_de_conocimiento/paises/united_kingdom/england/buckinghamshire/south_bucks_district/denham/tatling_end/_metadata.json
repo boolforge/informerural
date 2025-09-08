@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Tatling End",
+  "geoname_id": 12264769,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.57387",
+    "lon": "-0.52961"
+  },
+  "fuente_oficial": "http://www.geonames.org/12264769"
+}

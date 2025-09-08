@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Binfield",
+  "geoname_id": 2655644,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPLA3"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.43159",
+    "lon": "-0.7881"
+  },
+  "fuente_oficial": "http://www.geonames.org/2655644"
+}

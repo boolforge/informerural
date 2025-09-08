@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Lighthazles",
+  "geoname_id": 13280161,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "53.68586",
+    "lon": "-1.96218"
+  },
+  "fuente_oficial": "http://www.geonames.org/13280161"
+}

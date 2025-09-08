@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Wheeler End",
+  "geoname_id": 12264858,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.63042",
+    "lon": "-0.84167"
+  },
+  "fuente_oficial": "http://www.geonames.org/12264858"
+}

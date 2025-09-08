@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Farnham Common",
+  "geoname_id": 7287967,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.55476",
+    "lon": "-0.61544"
+  },
+  "fuente_oficial": "http://www.geonames.org/7287967"
+}

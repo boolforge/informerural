@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Cublington",
+  "geoname_id": 2651789,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 328,
+  "centroide": {
+    "lat": "51.89238",
+    "lon": "-0.77951"
+  },
+  "fuente_oficial": "http://www.geonames.org/2651789"
+}

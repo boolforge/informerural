@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Princes Risborough",
+  "geoname_id": 7299805,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "ADM4"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.72751",
+    "lon": "-0.81911"
+  },
+  "fuente_oficial": "http://www.geonames.org/7299805"
+}

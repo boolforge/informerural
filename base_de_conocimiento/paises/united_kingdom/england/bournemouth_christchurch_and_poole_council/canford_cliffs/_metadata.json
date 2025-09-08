@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Canford Cliffs",
+  "geoname_id": 2653895,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "50.70363",
+    "lon": "-1.92089"
+  },
+  "fuente_oficial": "http://www.geonames.org/2653895"
+}

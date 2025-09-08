@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Hyde End",
+  "geoname_id": 13275660,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.70207",
+    "lon": "-0.67089"
+  },
+  "fuente_oficial": "http://www.geonames.org/13275660"
+}

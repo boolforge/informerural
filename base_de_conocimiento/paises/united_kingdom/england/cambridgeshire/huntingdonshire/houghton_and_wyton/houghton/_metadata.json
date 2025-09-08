@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Houghton",
+  "geoname_id": 11153730,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 1391,
+  "centroide": {
+    "lat": "52.33282",
+    "lon": "-0.12068"
+  },
+  "fuente_oficial": "http://www.geonames.org/11153730"
+}

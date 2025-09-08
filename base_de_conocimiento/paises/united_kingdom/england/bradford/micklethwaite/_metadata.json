@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Micklethwaite",
+  "geoname_id": 12265527,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "53.8699",
+    "lon": "-1.84379"
+  },
+  "fuente_oficial": "http://www.geonames.org/12265527"
+}

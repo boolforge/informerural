@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Ditton Green",
+  "geoname_id": 12265873,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.19772",
+    "lon": "0.42988"
+  },
+  "fuente_oficial": "http://www.geonames.org/12265873"
+}

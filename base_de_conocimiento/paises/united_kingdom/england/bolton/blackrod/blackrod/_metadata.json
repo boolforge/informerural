@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Blackrod",
+  "geoname_id": 2655454,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 5086,
+  "centroide": {
+    "lat": "53.59229",
+    "lon": "-2.58026"
+  },
+  "fuente_oficial": "http://www.geonames.org/2655454"
+}

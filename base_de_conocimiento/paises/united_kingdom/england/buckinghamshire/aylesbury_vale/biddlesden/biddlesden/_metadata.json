@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Biddlesden",
+  "geoname_id": 2655711,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.05",
+    "lon": "-1.08333"
+  },
+  "fuente_oficial": "http://www.geonames.org/2655711"
+}

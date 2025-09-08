@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Haroldsbridge",
+  "geoname_id": 13283010,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPLL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.679",
+    "lon": "0.04956"
+  },
+  "fuente_oficial": "http://www.geonames.org/13283010"
+}

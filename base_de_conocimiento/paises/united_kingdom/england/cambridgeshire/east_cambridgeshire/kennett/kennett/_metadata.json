@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Kennett",
+  "geoname_id": 2645806,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.28496",
+    "lon": "0.48756"
+  },
+  "fuente_oficial": "http://www.geonames.org/2645806"
+}

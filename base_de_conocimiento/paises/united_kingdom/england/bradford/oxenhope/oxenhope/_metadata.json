@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Oxenhope",
+  "geoname_id": 2640731,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPLA3"
+  },
+  "poblacion": 1872,
+  "centroide": {
+    "lat": "53.81233",
+    "lon": "-1.95196"
+  },
+  "fuente_oficial": "http://www.geonames.org/2640731"
+}

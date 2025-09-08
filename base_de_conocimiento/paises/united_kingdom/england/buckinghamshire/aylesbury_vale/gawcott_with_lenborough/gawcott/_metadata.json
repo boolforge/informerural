@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Gawcott",
+  "geoname_id": 2648762,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 778,
+  "centroide": {
+    "lat": "51.98136",
+    "lon": "-1.0101"
+  },
+  "fuente_oficial": "http://www.geonames.org/2648762"
+}

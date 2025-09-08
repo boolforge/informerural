@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Walton",
+  "geoname_id": 11550847,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.8114",
+    "lon": "-0.79617"
+  },
+  "fuente_oficial": "http://www.geonames.org/11550847"
+}

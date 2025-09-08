@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Soria",
+  "geoname_id": 3108680,
+  "codigos_geograficos": {
+    "iso_3166_2": "CL",
+    "fcode": "ADM2"
+  },
+  "poblacion": 90040,
+  "centroide": {
+    "lat": "41.66667",
+    "lon": "-2.66667"
+  },
+  "fuente_oficial": "http://www.geonames.org/3108680"
+}

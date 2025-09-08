@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Hunt's Green",
+  "geoname_id": 13282856,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPLL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.72529",
+    "lon": "-0.70256"
+  },
+  "fuente_oficial": "http://www.geonames.org/13282856"
+}

@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Latimer and Ley Hill",
+  "geoname_id": 7295788,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "ADM4"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.69931",
+    "lon": "-0.56446"
+  },
+  "fuente_oficial": "http://www.geonames.org/7295788"
+}

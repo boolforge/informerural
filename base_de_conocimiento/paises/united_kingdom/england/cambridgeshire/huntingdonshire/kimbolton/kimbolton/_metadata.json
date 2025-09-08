@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Kimbolton",
+  "geoname_id": 2645536,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 1103,
+  "centroide": {
+    "lat": "52.29704",
+    "lon": "-0.38916"
+  },
+  "fuente_oficial": "http://www.geonames.org/2645536"
+}

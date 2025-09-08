@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Portslade-by-Sea",
+  "geoname_id": 2639997,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "50.83194",
+    "lon": "-0.21215"
+  },
+  "fuente_oficial": "http://www.geonames.org/2639997"
+}

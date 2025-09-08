@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Gunthwaite and Ingbirchworth",
+  "geoname_id": 7299736,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "ADM3"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "53.55069",
+    "lon": "-1.65827"
+  },
+  "fuente_oficial": "http://www.geonames.org/7299736"
+}

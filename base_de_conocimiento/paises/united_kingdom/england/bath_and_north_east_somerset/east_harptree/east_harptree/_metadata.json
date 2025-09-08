@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "East Harptree",
+  "geoname_id": 2650422,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPLA3"
+  },
+  "poblacion": 644,
+  "centroide": {
+    "lat": "51.30111",
+    "lon": "-2.62167"
+  },
+  "fuente_oficial": "http://www.geonames.org/2650422"
+}

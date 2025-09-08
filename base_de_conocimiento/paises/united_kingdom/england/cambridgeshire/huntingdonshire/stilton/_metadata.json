@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Stilton",
+  "geoname_id": 7292927,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "ADM4"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.4903",
+    "lon": "-0.27412"
+  },
+  "fuente_oficial": "http://www.geonames.org/7292927"
+}

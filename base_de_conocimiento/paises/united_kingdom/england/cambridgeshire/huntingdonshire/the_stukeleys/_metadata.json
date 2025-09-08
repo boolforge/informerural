@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "The Stukeleys",
+  "geoname_id": 7292928,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "ADM4"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.36123",
+    "lon": "-0.21563"
+  },
+  "fuente_oficial": "http://www.geonames.org/7292928"
+}

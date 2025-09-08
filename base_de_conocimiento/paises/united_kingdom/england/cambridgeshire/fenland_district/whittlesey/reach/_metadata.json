@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Reach",
+  "geoname_id": 13282882,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPLL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.55117",
+    "lon": "-0.14644"
+  },
+  "fuente_oficial": "http://www.geonames.org/13282882"
+}

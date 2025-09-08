@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Birdwell",
+  "geoname_id": 2655618,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 3056,
+  "centroide": {
+    "lat": "53.51398",
+    "lon": "-1.47929"
+  },
+  "fuente_oficial": "http://www.geonames.org/2655618"
+}

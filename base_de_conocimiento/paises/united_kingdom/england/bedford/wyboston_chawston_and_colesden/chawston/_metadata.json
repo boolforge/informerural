@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Chawston",
+  "geoname_id": 6693204,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.19134",
+    "lon": "-0.3147"
+  },
+  "fuente_oficial": "http://www.geonames.org/6693204"
+}

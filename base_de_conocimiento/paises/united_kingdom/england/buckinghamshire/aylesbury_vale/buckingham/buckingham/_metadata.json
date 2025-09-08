@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Buckingham",
+  "geoname_id": 2654410,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 12890,
+  "centroide": {
+    "lat": "51.99968",
+    "lon": "-0.98779"
+  },
+  "fuente_oficial": "http://www.geonames.org/2654410"
+}

@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Cambridge",
+  "geoname_id": 2653941,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPLA2"
+  },
+  "poblacion": 145674,
+  "centroide": {
+    "lat": "52.2",
+    "lon": "0.11667"
+  },
+  "fuente_oficial": "http://www.geonames.org/2653941"
+}

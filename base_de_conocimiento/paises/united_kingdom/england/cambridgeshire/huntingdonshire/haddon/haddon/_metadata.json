@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Haddon",
+  "geoname_id": 2647682,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.52035",
+    "lon": "-0.32839"
+  },
+  "fuente_oficial": "http://www.geonames.org/2647682"
+}

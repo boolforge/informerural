@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Sowerby Bridge",
+  "geoname_id": 2637268,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 9948,
+  "centroide": {
+    "lat": "53.70903",
+    "lon": "-1.90929"
+  },
+  "fuente_oficial": "http://www.geonames.org/2637268"
+}

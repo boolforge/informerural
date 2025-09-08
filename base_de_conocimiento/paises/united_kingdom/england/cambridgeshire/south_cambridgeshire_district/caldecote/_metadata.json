@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Caldecote",
+  "geoname_id": 7294287,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "ADM4"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.20214",
+    "lon": "-0.02412"
+  },
+  "fuente_oficial": "http://www.geonames.org/7294287"
+}

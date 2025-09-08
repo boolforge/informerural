@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "George Green",
+  "geoname_id": 6620359,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 990,
+  "centroide": {
+    "lat": "51.52173",
+    "lon": "-0.55631"
+  },
+  "fuente_oficial": "http://www.geonames.org/6620359"
+}

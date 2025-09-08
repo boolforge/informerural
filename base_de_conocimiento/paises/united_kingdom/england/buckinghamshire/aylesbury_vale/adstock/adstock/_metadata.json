@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Adstock",
+  "geoname_id": 2657663,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.96521",
+    "lon": "-0.93023"
+  },
+  "fuente_oficial": "http://www.geonames.org/2657663"
+}

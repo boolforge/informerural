@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Stewkley",
+  "geoname_id": 7298715,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "ADM4"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.92011",
+    "lon": "-0.76984"
+  },
+  "fuente_oficial": "http://www.geonames.org/7298715"
+}

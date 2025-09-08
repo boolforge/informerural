@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Chesterton",
+  "geoname_id": 2653217,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.53333",
+    "lon": "-0.33333"
+  },
+  "fuente_oficial": "http://www.geonames.org/2653217"
+}

@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Denham",
+  "geoname_id": 2651378,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 1432,
+  "centroide": {
+    "lat": "51.56667",
+    "lon": "-0.5"
+  },
+  "fuente_oficial": "http://www.geonames.org/2651378"
+}

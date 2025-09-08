@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Toseland",
+  "geoname_id": 12265902,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.24729",
+    "lon": "-0.18763"
+  },
+  "fuente_oficial": "http://www.geonames.org/12265902"
+}

@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Huntingdon",
+  "geoname_id": 7292911,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "ADM4"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.34251",
+    "lon": "-0.18646"
+  },
+  "fuente_oficial": "http://www.geonames.org/7292911"
+}

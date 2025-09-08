@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Cotton Stones",
+  "geoname_id": 13280162,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "53.69166",
+    "lon": "-1.95765"
+  },
+  "fuente_oficial": "http://www.geonames.org/13280162"
+}

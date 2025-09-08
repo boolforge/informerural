@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Little Lever",
+  "geoname_id": 2644299,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 11329,
+  "centroide": {
+    "lat": "53.56346",
+    "lon": "-2.37803"
+  },
+  "fuente_oficial": "http://www.geonames.org/2644299"
+}

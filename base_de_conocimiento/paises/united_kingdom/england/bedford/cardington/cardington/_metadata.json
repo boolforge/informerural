@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Cardington",
+  "geoname_id": 2653813,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPLA3"
+  },
+  "poblacion": 288,
+  "centroide": {
+    "lat": "52.11742",
+    "lon": "-0.41289"
+  },
+  "fuente_oficial": "http://www.geonames.org/2653813"
+}

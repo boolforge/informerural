@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Thurnscoe",
+  "geoname_id": 8593757,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "53.54582",
+    "lon": "-1.31536"
+  },
+  "fuente_oficial": "http://www.geonames.org/8593757"
+}

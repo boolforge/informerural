@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Trident",
+  "geoname_id": 7299765,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "ADM3"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "53.77942",
+    "lon": "-1.75593"
+  },
+  "fuente_oficial": "http://www.geonames.org/7299765"
+}

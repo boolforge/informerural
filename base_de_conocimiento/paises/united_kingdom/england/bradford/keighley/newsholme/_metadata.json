@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Newsholme",
+  "geoname_id": 13280650,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "53.85371",
+    "lon": "-1.96956"
+  },
+  "fuente_oficial": "http://www.geonames.org/13280650"
+}

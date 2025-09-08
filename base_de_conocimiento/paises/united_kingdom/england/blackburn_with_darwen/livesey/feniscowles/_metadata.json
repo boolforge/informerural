@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Feniscowles",
+  "geoname_id": 2649558,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "53.72642",
+    "lon": "-2.5381"
+  },
+  "fuente_oficial": "http://www.geonames.org/2649558"
+}

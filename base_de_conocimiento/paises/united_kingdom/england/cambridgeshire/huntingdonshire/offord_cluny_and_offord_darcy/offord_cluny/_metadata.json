@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Offord Cluny",
+  "geoname_id": 2641068,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.28885",
+    "lon": "-0.21355"
+  },
+  "fuente_oficial": "http://www.geonames.org/2641068"
+}

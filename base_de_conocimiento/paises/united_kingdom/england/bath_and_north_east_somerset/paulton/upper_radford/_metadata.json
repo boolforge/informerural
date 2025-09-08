@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Upper Radford",
+  "geoname_id": 13279805,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.31559",
+    "lon": "-2.4814"
+  },
+  "fuente_oficial": "http://www.geonames.org/13279805"
+}

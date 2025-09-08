@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Sowood",
+  "geoname_id": 12265201,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "53.66329",
+    "lon": "-1.88374"
+  },
+  "fuente_oficial": "http://www.geonames.org/12265201"
+}

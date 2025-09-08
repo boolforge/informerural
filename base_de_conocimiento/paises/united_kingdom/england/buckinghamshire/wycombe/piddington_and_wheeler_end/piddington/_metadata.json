@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Piddington",
+  "geoname_id": 12265001,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.64021",
+    "lon": "-0.82935"
+  },
+  "fuente_oficial": "http://www.geonames.org/12265001"
+}

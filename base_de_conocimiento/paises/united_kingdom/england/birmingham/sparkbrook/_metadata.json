@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Sparkbrook",
+  "geoname_id": 11611170,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.45902",
+    "lon": "-1.87085"
+  },
+  "fuente_oficial": "http://www.geonames.org/11611170"
+}

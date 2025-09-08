@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Lillingstone Dayrell with Luffield Abbey",
+  "geoname_id": 7299782,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "ADM4"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.05883",
+    "lon": "-1.00116"
+  },
+  "fuente_oficial": "http://www.geonames.org/7299782"
+}

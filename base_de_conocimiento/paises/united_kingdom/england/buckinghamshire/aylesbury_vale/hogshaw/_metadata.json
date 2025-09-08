@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Hogshaw",
+  "geoname_id": 7301670,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "ADM4"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.90289",
+    "lon": "-0.92133"
+  },
+  "fuente_oficial": "http://www.geonames.org/7301670"
+}

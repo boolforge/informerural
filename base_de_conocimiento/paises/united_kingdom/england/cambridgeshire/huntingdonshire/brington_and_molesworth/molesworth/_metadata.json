@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Molesworth",
+  "geoname_id": 2642368,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.37177",
+    "lon": "-0.42611"
+  },
+  "fuente_oficial": "http://www.geonames.org/2642368"
+}

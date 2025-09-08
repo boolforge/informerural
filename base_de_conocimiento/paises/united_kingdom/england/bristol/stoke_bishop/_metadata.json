@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Stoke Bishop",
+  "geoname_id": 11592098,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.4797",
+    "lon": "-2.63397"
+  },
+  "fuente_oficial": "http://www.geonames.org/11592098"
+}

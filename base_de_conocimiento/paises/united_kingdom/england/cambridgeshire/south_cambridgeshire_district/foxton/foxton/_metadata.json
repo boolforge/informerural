@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Foxton",
+  "geoname_id": 2649116,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.1151",
+    "lon": "0.05862"
+  },
+  "fuente_oficial": "http://www.geonames.org/2649116"
+}

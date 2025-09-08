@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Menston",
+  "geoname_id": 2642743,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 4764,
+  "centroide": {
+    "lat": "53.89041",
+    "lon": "-1.74395"
+  },
+  "fuente_oficial": "http://www.geonames.org/2642743"
+}

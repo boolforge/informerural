@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Chittering",
+  "geoname_id": 12495307,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.30888",
+    "lon": "0.19285"
+  },
+  "fuente_oficial": "http://www.geonames.org/12495307"
+}

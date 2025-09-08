@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Shore",
+  "geoname_id": 13276221,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "53.73767",
+    "lon": "-2.13214"
+  },
+  "fuente_oficial": "http://www.geonames.org/13276221"
+}

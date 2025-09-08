@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "North Widcombe",
+  "geoname_id": 2641221,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.32333",
+    "lon": "-2.61028"
+  },
+  "fuente_oficial": "http://www.geonames.org/2641221"
+}

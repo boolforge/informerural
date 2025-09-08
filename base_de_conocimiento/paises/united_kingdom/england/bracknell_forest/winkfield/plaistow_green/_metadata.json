@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Plaistow Green",
+  "geoname_id": 12266552,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.43547",
+    "lon": "-0.67254"
+  },
+  "fuente_oficial": "http://www.geonames.org/12266552"
+}

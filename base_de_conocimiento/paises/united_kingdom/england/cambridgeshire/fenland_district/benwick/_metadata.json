@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Benwick",
+  "geoname_id": 7296373,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "ADM4"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.4965",
+    "lon": "-0.02651"
+  },
+  "fuente_oficial": "http://www.geonames.org/7296373"
+}

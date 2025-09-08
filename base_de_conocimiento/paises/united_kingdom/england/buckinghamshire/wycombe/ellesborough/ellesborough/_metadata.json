@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Ellesborough",
+  "geoname_id": 2650098,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 544,
+  "centroide": {
+    "lat": "51.7527",
+    "lon": "-0.79011"
+  },
+  "fuente_oficial": "http://www.geonames.org/2650098"
+}

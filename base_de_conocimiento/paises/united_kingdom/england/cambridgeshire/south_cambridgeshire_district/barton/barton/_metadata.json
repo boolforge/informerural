@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Barton",
+  "geoname_id": 10103876,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPLA4"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.18325",
+    "lon": "0.05781"
+  },
+  "fuente_oficial": "http://www.geonames.org/10103876"
+}

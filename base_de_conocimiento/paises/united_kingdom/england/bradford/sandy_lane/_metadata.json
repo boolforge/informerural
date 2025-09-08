@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Sandy Lane",
+  "geoname_id": 7292858,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "ADM3"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "53.81393",
+    "lon": "-1.83347"
+  },
+  "fuente_oficial": "http://www.geonames.org/7292858"
+}

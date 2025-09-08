@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Sheepridge",
+  "geoname_id": 13278898,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.59722",
+    "lon": "-0.72564"
+  },
+  "fuente_oficial": "http://www.geonames.org/13278898"
+}

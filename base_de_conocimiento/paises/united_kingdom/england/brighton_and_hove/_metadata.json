@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Brighton and Hove",
+  "geoname_id": 3333133,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "ADM2"
+  },
+  "poblacion": 276334,
+  "centroide": {
+    "lat": "50.83333",
+    "lon": "-0.13333"
+  },
+  "fuente_oficial": "http://www.geonames.org/3333133"
+}

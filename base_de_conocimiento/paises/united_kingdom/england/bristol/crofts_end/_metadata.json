@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Crofts End",
+  "geoname_id": 12265474,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.46614",
+    "lon": "-2.53981"
+  },
+  "fuente_oficial": "http://www.geonames.org/12265474"
+}

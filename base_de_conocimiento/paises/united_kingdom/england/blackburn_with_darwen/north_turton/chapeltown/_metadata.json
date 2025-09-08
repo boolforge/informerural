@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Chapeltown",
+  "geoname_id": 12263196,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "53.63764",
+    "lon": "-2.40478"
+  },
+  "fuente_oficial": "http://www.geonames.org/12263196"
+}

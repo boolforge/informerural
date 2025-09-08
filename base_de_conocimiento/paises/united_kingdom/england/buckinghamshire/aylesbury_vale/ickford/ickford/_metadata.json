@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Ickford",
+  "geoname_id": 11072643,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 680,
+  "centroide": {
+    "lat": "51.76147",
+    "lon": "-1.06104"
+  },
+  "fuente_oficial": "http://www.geonames.org/11072643"
+}

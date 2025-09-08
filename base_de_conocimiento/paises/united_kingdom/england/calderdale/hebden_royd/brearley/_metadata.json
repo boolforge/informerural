@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Brearley",
+  "geoname_id": 12265376,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "53.72949",
+    "lon": "-1.96136"
+  },
+  "fuente_oficial": "http://www.geonames.org/12265376"
+}

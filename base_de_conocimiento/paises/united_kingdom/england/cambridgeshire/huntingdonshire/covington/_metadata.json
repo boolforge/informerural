@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Covington",
+  "geoname_id": 7299843,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "ADM4"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.32814",
+    "lon": "-0.44724"
+  },
+  "fuente_oficial": "http://www.geonames.org/7299843"
+}

@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Swaffham Bulbeck",
+  "geoname_id": 2636463,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 708,
+  "centroide": {
+    "lat": "52.23821",
+    "lon": "0.27698"
+  },
+  "fuente_oficial": "http://www.geonames.org/2636463"
+}

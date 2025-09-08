@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Hay Mills",
+  "geoname_id": 2647255,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.4636",
+    "lon": "-1.83515"
+  },
+  "fuente_oficial": "http://www.geonames.org/2647255"
+}

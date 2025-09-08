@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Wilden",
+  "geoname_id": 2633917,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPLA3"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.18272",
+    "lon": "-0.39645"
+  },
+  "fuente_oficial": "http://www.geonames.org/2633917"
+}

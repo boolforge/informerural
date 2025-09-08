@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Halifax",
+  "geoname_id": 2647632,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPLA2"
+  },
+  "poblacion": 82624,
+  "centroide": {
+    "lat": "53.71667",
+    "lon": "-1.85"
+  },
+  "fuente_oficial": "http://www.geonames.org/2647632"
+}

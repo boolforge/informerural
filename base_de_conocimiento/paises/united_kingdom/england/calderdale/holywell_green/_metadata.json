@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Holywell Green",
+  "geoname_id": 11203943,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 3178,
+  "centroide": {
+    "lat": "53.67406",
+    "lon": "-1.86682"
+  },
+  "fuente_oficial": "http://www.geonames.org/11203943"
+}

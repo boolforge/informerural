@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Weston Turville",
+  "geoname_id": 7298724,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "ADM4"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.79601",
+    "lon": "-0.76444"
+  },
+  "fuente_oficial": "http://www.geonames.org/7298724"
+}

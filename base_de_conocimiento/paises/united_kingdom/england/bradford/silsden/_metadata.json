@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Silsden",
+  "geoname_id": 7300549,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "ADM3"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "53.9211",
+    "lon": "-1.91898"
+  },
+  "fuente_oficial": "http://www.geonames.org/7300549"
+}

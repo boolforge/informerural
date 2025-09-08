@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Earith",
+  "geoname_id": 2650558,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 1606,
+  "centroide": {
+    "lat": "52.35422",
+    "lon": "0.03056"
+  },
+  "fuente_oficial": "http://www.geonames.org/2650558"
+}

@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Bar Hill",
+  "geoname_id": 7294212,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "ADM4"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.25252",
+    "lon": "0.02269"
+  },
+  "fuente_oficial": "http://www.geonames.org/7294212"
+}

@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Wooburn",
+  "geoname_id": 7298740,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "ADM4"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.58522",
+    "lon": "-0.69325"
+  },
+  "fuente_oficial": "http://www.geonames.org/7298740"
+}

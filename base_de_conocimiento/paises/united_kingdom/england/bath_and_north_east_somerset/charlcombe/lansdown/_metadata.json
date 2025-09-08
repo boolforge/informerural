@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Lansdown",
+  "geoname_id": 11887255,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.4164",
+    "lon": "-2.39545"
+  },
+  "fuente_oficial": "http://www.geonames.org/11887255"
+}

@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Farcet",
+  "geoname_id": 2649694,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.53627",
+    "lon": "-0.22882"
+  },
+  "fuente_oficial": "http://www.geonames.org/2649694"
+}

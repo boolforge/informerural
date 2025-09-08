@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Howbrook",
+  "geoname_id": 12265208,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "53.47904",
+    "lon": "-1.51027"
+  },
+  "fuente_oficial": "http://www.geonames.org/12265208"
+}

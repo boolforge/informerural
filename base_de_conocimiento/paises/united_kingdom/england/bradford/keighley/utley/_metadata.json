@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Utley",
+  "geoname_id": 2635045,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "53.86667",
+    "lon": "-1.91667"
+  },
+  "fuente_oficial": "http://www.geonames.org/2635045"
+}

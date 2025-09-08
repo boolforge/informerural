@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Beaconsfield",
+  "geoname_id": 2656120,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 13797,
+  "centroide": {
+    "lat": "51.61219",
+    "lon": "-0.64732"
+  },
+  "fuente_oficial": "http://www.geonames.org/2656120"
+}

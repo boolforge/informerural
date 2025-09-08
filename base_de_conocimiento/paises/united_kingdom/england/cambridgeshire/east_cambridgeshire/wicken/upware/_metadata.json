@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Upware",
+  "geoname_id": 13281923,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.30802",
+    "lon": "0.25458"
+  },
+  "fuente_oficial": "http://www.geonames.org/13281923"
+}

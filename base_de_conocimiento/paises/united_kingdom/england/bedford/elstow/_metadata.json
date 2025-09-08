@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Elstow",
+  "geoname_id": 7292843,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "ADM3"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.10315",
+    "lon": "-0.46496"
+  },
+  "fuente_oficial": "http://www.geonames.org/7292843"
+}

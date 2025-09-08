@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Fenland District",
+  "geoname_id": 2649556,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "ADM3"
+  },
+  "poblacion": 100182,
+  "centroide": {
+    "lat": "52.53333",
+    "lon": "0.08333"
+  },
+  "fuente_oficial": "http://www.geonames.org/2649556"
+}

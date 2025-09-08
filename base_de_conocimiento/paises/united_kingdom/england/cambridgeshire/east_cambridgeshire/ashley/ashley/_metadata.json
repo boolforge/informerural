@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Ashley",
+  "geoname_id": 2656940,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 749,
+  "centroide": {
+    "lat": "52.22643",
+    "lon": "0.48409"
+  },
+  "fuente_oficial": "http://www.geonames.org/2656940"
+}

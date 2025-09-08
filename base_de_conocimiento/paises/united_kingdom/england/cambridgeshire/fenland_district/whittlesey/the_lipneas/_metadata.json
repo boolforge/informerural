@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "The Lipneas",
+  "geoname_id": 13281460,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.56469",
+    "lon": "-0.05873"
+  },
+  "fuente_oficial": "http://www.geonames.org/13281460"
+}

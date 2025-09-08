@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Aylesbury Vale",
+  "geoname_id": 2656718,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "ADM3"
+  },
+  "poblacion": 193113,
+  "centroide": {
+    "lat": "51.83333",
+    "lon": "-0.8"
+  },
+  "fuente_oficial": "http://www.geonames.org/2656718"
+}

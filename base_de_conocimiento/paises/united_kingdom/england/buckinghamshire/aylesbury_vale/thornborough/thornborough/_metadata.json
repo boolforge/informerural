@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Thornborough",
+  "geoname_id": 2636004,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 641,
+  "centroide": {
+    "lat": "51.99701",
+    "lon": "-0.91783"
+  },
+  "fuente_oficial": "http://www.geonames.org/2636004"
+}

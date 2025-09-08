@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Poundon",
+  "geoname_id": 7292878,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "ADM4"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.92417",
+    "lon": "-1.06765"
+  },
+  "fuente_oficial": "http://www.geonames.org/7292878"
+}

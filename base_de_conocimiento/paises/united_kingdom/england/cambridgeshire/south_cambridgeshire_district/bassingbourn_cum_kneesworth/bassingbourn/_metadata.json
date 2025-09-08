@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Bassingbourn",
+  "geoname_id": 2656184,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 2481,
+  "centroide": {
+    "lat": "52.07821",
+    "lon": "-0.0539"
+  },
+  "fuente_oficial": "http://www.geonames.org/2656184"
+}

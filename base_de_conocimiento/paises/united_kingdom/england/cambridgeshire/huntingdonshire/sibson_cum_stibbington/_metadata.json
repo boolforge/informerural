@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Sibson-cum-Stibbington",
+  "geoname_id": 7299852,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "ADM4"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.57139",
+    "lon": "-0.39333"
+  },
+  "fuente_oficial": "http://www.geonames.org/7299852"
+}

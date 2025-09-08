@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Broughton",
+  "geoname_id": 12262617,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.81713",
+    "lon": "-0.77511"
+  },
+  "fuente_oficial": "http://www.geonames.org/12262617"
+}

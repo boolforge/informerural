@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Burwell",
+  "geoname_id": 2654195,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 6309,
+  "centroide": {
+    "lat": "52.27632",
+    "lon": "0.32732"
+  },
+  "fuente_oficial": "http://www.geonames.org/2654195"
+}

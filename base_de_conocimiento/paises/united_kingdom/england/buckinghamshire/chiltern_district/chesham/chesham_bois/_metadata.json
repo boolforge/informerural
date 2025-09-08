@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Chesham Bois",
+  "geoname_id": 11550849,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 3000,
+  "centroide": {
+    "lat": "51.70842",
+    "lon": "-0.61425"
+  },
+  "fuente_oficial": "http://www.geonames.org/11550849"
+}

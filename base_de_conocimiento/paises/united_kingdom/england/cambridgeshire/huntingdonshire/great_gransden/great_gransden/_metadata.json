@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Great Gransden",
+  "geoname_id": 2648095,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 1319,
+  "centroide": {
+    "lat": "52.18546",
+    "lon": "-0.14574"
+  },
+  "fuente_oficial": "http://www.geonames.org/2648095"
+}

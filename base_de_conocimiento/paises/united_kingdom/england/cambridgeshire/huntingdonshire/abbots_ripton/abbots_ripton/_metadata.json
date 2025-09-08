@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Abbots Ripton",
+  "geoname_id": 2657861,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.38611",
+    "lon": "-0.1921"
+  },
+  "fuente_oficial": "http://www.geonames.org/2657861"
+}

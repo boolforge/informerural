@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Temple Cloud",
+  "geoname_id": 3345398,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.32007",
+    "lon": "-2.54197"
+  },
+  "fuente_oficial": "http://www.geonames.org/3345398"
+}

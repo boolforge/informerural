@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Stechford",
+  "geoname_id": 2636979,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.48464",
+    "lon": "-1.81"
+  },
+  "fuente_oficial": "http://www.geonames.org/2636979"
+}

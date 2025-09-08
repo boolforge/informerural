@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Ewood",
+  "geoname_id": 13284296,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPLL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "53.73385",
+    "lon": "-1.96811"
+  },
+  "fuente_oficial": "http://www.geonames.org/13284296"
+}

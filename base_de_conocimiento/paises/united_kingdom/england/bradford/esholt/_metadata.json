@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Esholt",
+  "geoname_id": 2649910,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "53.85855",
+    "lon": "-1.72472"
+  },
+  "fuente_oficial": "http://www.geonames.org/2649910"
+}

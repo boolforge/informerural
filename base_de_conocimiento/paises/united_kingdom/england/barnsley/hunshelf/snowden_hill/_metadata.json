@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Snowden Hill",
+  "geoname_id": 13280211,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "53.5019",
+    "lon": "-1.60329"
+  },
+  "fuente_oficial": "http://www.geonames.org/13280211"
+}

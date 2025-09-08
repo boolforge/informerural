@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Batheaston",
+  "geoname_id": 2656171,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.40662",
+    "lon": "-2.31042"
+  },
+  "fuente_oficial": "http://www.geonames.org/2656171"
+}

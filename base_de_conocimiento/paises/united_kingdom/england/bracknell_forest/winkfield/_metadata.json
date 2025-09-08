@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Winkfield",
+  "geoname_id": 7299763,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "ADM3"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.42072",
+    "lon": "-0.69205"
+  },
+  "fuente_oficial": "http://www.geonames.org/7299763"
+}

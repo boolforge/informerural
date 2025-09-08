@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Gorefield",
+  "geoname_id": 7299837,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "ADM4"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.67482",
+    "lon": "0.0813"
+  },
+  "fuente_oficial": "http://www.geonames.org/7299837"
+}

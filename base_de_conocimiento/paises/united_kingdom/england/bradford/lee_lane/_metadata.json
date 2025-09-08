@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Lee Lane",
+  "geoname_id": 12261918,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "53.82621",
+    "lon": "-1.84163"
+  },
+  "fuente_oficial": "http://www.geonames.org/12261918"
+}

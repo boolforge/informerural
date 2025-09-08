@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Barrington",
+  "geoname_id": 2656255,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.12948",
+    "lon": "0.03858"
+  },
+  "fuente_oficial": "http://www.geonames.org/2656255"
+}

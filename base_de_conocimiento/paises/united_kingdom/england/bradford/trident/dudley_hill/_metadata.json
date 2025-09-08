@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Dudley Hill",
+  "geoname_id": 2650838,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "53.77482",
+    "lon": "-1.72543"
+  },
+  "fuente_oficial": "http://www.geonames.org/2650838"
+}

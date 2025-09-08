@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Pavenham",
+  "geoname_id": 7300489,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "ADM3"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.18944",
+    "lon": "-0.54288"
+  },
+  "fuente_oficial": "http://www.geonames.org/7300489"
+}

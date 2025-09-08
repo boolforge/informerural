@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Marsh Gibbon",
+  "geoname_id": 2642979,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 969,
+  "centroide": {
+    "lat": "51.90265",
+    "lon": "-1.06115"
+  },
+  "fuente_oficial": "http://www.geonames.org/2642979"
+}

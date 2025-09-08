@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Dagnall",
+  "geoname_id": 12262749,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.83712",
+    "lon": "-0.56121"
+  },
+  "fuente_oficial": "http://www.geonames.org/12262749"
+}

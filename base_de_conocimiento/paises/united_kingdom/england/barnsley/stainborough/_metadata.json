@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Stainborough",
+  "geoname_id": 7292839,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "ADM3"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "53.52073",
+    "lon": "-1.5218"
+  },
+  "fuente_oficial": "http://www.geonames.org/7292839"
+}

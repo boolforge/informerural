@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "St. Catherine",
+  "geoname_id": 7298319,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "ADM3"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.428",
+    "lon": "-2.3326"
+  },
+  "fuente_oficial": "http://www.geonames.org/7298319"
+}

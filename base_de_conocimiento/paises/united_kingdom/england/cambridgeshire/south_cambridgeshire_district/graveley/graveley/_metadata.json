@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Graveley",
+  "geoname_id": 2648194,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 289,
+  "centroide": {
+    "lat": "52.26049",
+    "lon": "-0.17295"
+  },
+  "fuente_oficial": "http://www.geonames.org/2648194"
+}

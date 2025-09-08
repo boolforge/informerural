@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Norwood Green",
+  "geoname_id": 12266688,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "53.7366",
+    "lon": "-1.78586"
+  },
+  "fuente_oficial": "http://www.geonames.org/12266688"
+}

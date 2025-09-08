@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Green Moor",
+  "geoname_id": 12265285,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "53.49124",
+    "lon": "-1.57626"
+  },
+  "fuente_oficial": "http://www.geonames.org/12265285"
+}

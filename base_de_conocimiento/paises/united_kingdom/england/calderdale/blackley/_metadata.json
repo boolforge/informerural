@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Blackley",
+  "geoname_id": 12420858,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "53.67364",
+    "lon": "-1.8428"
+  },
+  "fuente_oficial": "http://www.geonames.org/12420858"
+}

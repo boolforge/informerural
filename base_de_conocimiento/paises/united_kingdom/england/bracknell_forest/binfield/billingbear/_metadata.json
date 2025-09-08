@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Billingbear",
+  "geoname_id": 13265736,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.44168",
+    "lon": "-0.79491"
+  },
+  "fuente_oficial": "http://www.geonames.org/13265736"
+}

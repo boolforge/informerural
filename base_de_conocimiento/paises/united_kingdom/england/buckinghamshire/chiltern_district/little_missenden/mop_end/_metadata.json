@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Mop End",
+  "geoname_id": 13279086,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.66534",
+    "lon": "-0.66524"
+  },
+  "fuente_oficial": "http://www.geonames.org/13279086"
+}

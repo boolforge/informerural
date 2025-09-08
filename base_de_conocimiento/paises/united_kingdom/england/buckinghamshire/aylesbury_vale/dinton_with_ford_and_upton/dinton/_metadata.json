@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Dinton",
+  "geoname_id": 2651235,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 253,
+  "centroide": {
+    "lat": "51.78982",
+    "lon": "-0.89401"
+  },
+  "fuente_oficial": "http://www.geonames.org/2651235"
+}

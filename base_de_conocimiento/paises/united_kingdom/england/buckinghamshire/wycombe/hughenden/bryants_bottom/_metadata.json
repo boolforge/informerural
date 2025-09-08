@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Bryant's Bottom",
+  "geoname_id": 12264951,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.69056",
+    "lon": "-0.76641"
+  },
+  "fuente_oficial": "http://www.geonames.org/12264951"
+}

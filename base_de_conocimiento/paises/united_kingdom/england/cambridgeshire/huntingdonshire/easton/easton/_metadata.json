@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Easton",
+  "geoname_id": 2650365,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.33057",
+    "lon": "-0.32993"
+  },
+  "fuente_oficial": "http://www.geonames.org/2650365"
+}

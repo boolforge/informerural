@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Portslade",
+  "geoname_id": 2639998,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 20000,
+  "centroide": {
+    "lat": "50.84286",
+    "lon": "-0.21608"
+  },
+  "fuente_oficial": "http://www.geonames.org/2639998"
+}

@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Christchurch",
+  "geoname_id": 11593133,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.54721",
+    "lon": "0.1999"
+  },
+  "fuente_oficial": "http://www.geonames.org/11593133"
+}

@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Offord Cluny and Offord D'Arcy",
+  "geoname_id": 7294281,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "ADM4"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.2811",
+    "lon": "-0.20147"
+  },
+  "fuente_oficial": "http://www.geonames.org/7294281"
+}

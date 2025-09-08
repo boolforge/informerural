@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Rastrick",
+  "geoname_id": 12060359,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 11351,
+  "centroide": {
+    "lat": "53.6921",
+    "lon": "-1.7883"
+  },
+  "fuente_oficial": "http://www.geonames.org/12060359"
+}

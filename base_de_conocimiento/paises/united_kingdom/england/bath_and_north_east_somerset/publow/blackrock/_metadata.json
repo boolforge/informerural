@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Blackrock",
+  "geoname_id": 13283741,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPLL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.38934",
+    "lon": "-2.54526"
+  },
+  "fuente_oficial": "http://www.geonames.org/13283741"
+}

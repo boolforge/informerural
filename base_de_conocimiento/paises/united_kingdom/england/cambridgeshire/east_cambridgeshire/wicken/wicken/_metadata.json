@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Wicken",
+  "geoname_id": 2633980,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 698,
+  "centroide": {
+    "lat": "52.31278",
+    "lon": "0.29719"
+  },
+  "fuente_oficial": "http://www.geonames.org/2633980"
+}

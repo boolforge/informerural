@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Catshaw",
+  "geoname_id": 13273633,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "53.52523",
+    "lon": "-1.68697"
+  },
+  "fuente_oficial": "http://www.geonames.org/13273633"
+}

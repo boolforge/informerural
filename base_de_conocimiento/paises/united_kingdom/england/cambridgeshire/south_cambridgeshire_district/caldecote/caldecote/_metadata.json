@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Caldecote",
+  "geoname_id": 11592595,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.2084",
+    "lon": "-0.02279"
+  },
+  "fuente_oficial": "http://www.geonames.org/11592595"
+}

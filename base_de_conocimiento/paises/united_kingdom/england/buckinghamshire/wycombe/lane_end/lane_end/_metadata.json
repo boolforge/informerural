@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Lane End",
+  "geoname_id": 11593318,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.61863",
+    "lon": "-0.8341"
+  },
+  "fuente_oficial": "http://www.geonames.org/11593318"
+}

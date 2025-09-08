@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Abbotsley",
+  "geoname_id": 7292900,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "ADM4"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.21388",
+    "lon": "-0.21881"
+  },
+  "fuente_oficial": "http://www.geonames.org/7292900"
+}

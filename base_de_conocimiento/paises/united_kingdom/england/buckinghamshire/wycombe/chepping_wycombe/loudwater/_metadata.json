@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Loudwater",
+  "geoname_id": 2643570,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 4170,
+  "centroide": {
+    "lat": "51.61073",
+    "lon": "-0.70153"
+  },
+  "fuente_oficial": "http://www.geonames.org/2643570"
+}

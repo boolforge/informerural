@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Darton",
+  "geoname_id": 2651497,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 15259,
+  "centroide": {
+    "lat": "53.58705",
+    "lon": "-1.52676"
+  },
+  "fuente_oficial": "http://www.geonames.org/2651497"
+}

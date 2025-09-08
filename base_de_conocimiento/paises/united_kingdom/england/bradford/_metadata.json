@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Bradford",
+  "geoname_id": 3333131,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "ADM2"
+  },
+  "poblacion": 546976,
+  "centroide": {
+    "lat": "53.83333",
+    "lon": "-1.83333"
+  },
+  "fuente_oficial": "http://www.geonames.org/3333131"
+}

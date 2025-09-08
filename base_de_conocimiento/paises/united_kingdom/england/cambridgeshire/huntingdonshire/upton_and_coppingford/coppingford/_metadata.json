@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Coppingford",
+  "geoname_id": 2652391,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.4",
+    "lon": "-0.28333"
+  },
+  "fuente_oficial": "http://www.geonames.org/2652391"
+}

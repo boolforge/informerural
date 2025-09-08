@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Tile Cross",
+  "geoname_id": 11550629,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.47645",
+    "lon": "-1.76798"
+  },
+  "fuente_oficial": "http://www.geonames.org/11550629"
+}

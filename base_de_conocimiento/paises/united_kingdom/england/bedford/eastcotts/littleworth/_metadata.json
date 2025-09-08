@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Littleworth",
+  "geoname_id": 13280457,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.08774",
+    "lon": "-0.41694"
+  },
+  "fuente_oficial": "http://www.geonames.org/13280457"
+}

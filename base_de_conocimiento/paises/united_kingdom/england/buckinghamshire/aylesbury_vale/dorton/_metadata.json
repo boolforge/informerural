@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Dorton",
+  "geoname_id": 7292870,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "ADM4"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.81742",
+    "lon": "-1.0158"
+  },
+  "fuente_oficial": "http://www.geonames.org/7292870"
+}

@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Water Newton",
+  "geoname_id": 7299853,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "ADM4"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.55333",
+    "lon": "-0.36557"
+  },
+  "fuente_oficial": "http://www.geonames.org/7299853"
+}

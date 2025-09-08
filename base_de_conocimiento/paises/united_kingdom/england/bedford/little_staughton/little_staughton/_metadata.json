@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Little Staughton",
+  "geoname_id": 2644246,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 440,
+  "centroide": {
+    "lat": "52.25066",
+    "lon": "-0.38217"
+  },
+  "fuente_oficial": "http://www.geonames.org/2644246"
+}

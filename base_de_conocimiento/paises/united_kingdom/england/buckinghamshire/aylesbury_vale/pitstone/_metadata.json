@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Pitstone",
+  "geoname_id": 7299787,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "ADM4"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.82567",
+    "lon": "-0.61615"
+  },
+  "fuente_oficial": "http://www.geonames.org/7299787"
+}

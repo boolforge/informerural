@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Two Mile Hill",
+  "geoname_id": 12261653,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.465",
+    "lon": "-2.51952"
+  },
+  "fuente_oficial": "http://www.geonames.org/12261653"
+}

@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Elton",
+  "geoname_id": 2650039,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 679,
+  "centroide": {
+    "lat": "52.53134",
+    "lon": "-0.39534"
+  },
+  "fuente_oficial": "http://www.geonames.org/2650039"
+}

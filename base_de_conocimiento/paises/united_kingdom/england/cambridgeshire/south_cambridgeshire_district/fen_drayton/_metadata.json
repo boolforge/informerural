@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Fen Drayton",
+  "geoname_id": 7298838,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "ADM4"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.29944",
+    "lon": "-0.04218"
+  },
+  "fuente_oficial": "http://www.geonames.org/7298838"
+}

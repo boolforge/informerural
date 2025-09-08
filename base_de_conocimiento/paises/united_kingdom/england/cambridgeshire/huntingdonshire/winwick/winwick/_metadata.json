@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Winwick",
+  "geoname_id": 2633776,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.41302",
+    "lon": "-0.37774"
+  },
+  "fuente_oficial": "http://www.geonames.org/2633776"
+}

@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Mepal",
+  "geoname_id": 7299827,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "ADM4"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.4189",
+    "lon": "0.11319"
+  },
+  "fuente_oficial": "http://www.geonames.org/7299827"
+}

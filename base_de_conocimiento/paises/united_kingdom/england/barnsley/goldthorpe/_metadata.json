@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Goldthorpe",
+  "geoname_id": 12261584,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "53.53398",
+    "lon": "-1.30474"
+  },
+  "fuente_oficial": "http://www.geonames.org/12261584"
+}

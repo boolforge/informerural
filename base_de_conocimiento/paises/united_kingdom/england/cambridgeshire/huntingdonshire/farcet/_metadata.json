@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Farcet",
+  "geoname_id": 7294270,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "ADM4"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.52055",
+    "lon": "-0.1909"
+  },
+  "fuente_oficial": "http://www.geonames.org/7294270"
+}

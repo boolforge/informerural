@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "World's End",
+  "geoname_id": 11071845,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.77506",
+    "lon": "-0.75458"
+  },
+  "fuente_oficial": "http://www.geonames.org/11071845"
+}

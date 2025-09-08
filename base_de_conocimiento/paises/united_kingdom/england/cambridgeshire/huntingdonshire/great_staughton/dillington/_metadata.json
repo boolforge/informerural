@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Dillington",
+  "geoname_id": 13281087,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.27821",
+    "lon": "-0.33875"
+  },
+  "fuente_oficial": "http://www.geonames.org/13281087"
+}

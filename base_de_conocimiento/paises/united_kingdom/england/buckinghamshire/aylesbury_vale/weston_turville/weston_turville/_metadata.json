@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Weston Turville",
+  "geoname_id": 2634307,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 2115,
+  "centroide": {
+    "lat": "51.79168",
+    "lon": "-0.75767"
+  },
+  "fuente_oficial": "http://www.geonames.org/2634307"
+}

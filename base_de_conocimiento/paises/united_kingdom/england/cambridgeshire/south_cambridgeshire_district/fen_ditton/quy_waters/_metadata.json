@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Quy Waters",
+  "geoname_id": 13282089,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.21209",
+    "lon": "0.19604"
+  },
+  "fuente_oficial": "http://www.geonames.org/13282089"
+}

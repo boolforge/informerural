@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Wisbech",
+  "geoname_id": 7299834,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "ADM4"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.65541",
+    "lon": "0.1437"
+  },
+  "fuente_oficial": "http://www.geonames.org/7299834"
+}

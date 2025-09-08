@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Roxton",
+  "geoname_id": 2639029,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPLA3"
+  },
+  "poblacion": 348,
+  "centroide": {
+    "lat": "52.17756",
+    "lon": "-0.31594"
+  },
+  "fuente_oficial": "http://www.geonames.org/2639029"
+}

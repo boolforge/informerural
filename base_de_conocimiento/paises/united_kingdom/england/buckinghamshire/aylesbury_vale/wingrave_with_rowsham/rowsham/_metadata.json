@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Rowsham",
+  "geoname_id": 12262753,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.85397",
+    "lon": "-0.76701"
+  },
+  "fuente_oficial": "http://www.geonames.org/12262753"
+}

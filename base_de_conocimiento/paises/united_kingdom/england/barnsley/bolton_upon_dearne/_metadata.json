@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Bolton upon Dearne",
+  "geoname_id": 2655230,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 13236,
+  "centroide": {
+    "lat": "53.51667",
+    "lon": "-1.31667"
+  },
+  "fuente_oficial": "http://www.geonames.org/2655230"
+}

@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Newton Bromswold",
+  "geoname_id": 13280267,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.28323",
+    "lon": "-0.53626"
+  },
+  "fuente_oficial": "http://www.geonames.org/13280267"
+}

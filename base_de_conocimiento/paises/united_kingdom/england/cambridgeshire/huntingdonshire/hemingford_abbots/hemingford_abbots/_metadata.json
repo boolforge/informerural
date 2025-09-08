@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Hemingford Abbots",
+  "geoname_id": 2647134,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 635,
+  "centroide": {
+    "lat": "52.32275",
+    "lon": "-0.11939"
+  },
+  "fuente_oficial": "http://www.geonames.org/2647134"
+}

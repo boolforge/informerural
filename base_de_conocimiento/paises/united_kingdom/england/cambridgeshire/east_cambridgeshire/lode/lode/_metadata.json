@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Lode",
+  "geoname_id": 7670885,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 704,
+  "centroide": {
+    "lat": "52.24122",
+    "lon": "0.24438"
+  },
+  "fuente_oficial": "http://www.geonames.org/7670885"
+}

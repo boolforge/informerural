@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Stewartby",
+  "geoname_id": 6947164,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPLA3"
+  },
+  "poblacion": 1190,
+  "centroide": {
+    "lat": "52.07044",
+    "lon": "-0.5149"
+  },
+  "fuente_oficial": "http://www.geonames.org/6947164"
+}

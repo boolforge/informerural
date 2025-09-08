@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Higham",
+  "geoname_id": 12265634,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "53.56127",
+    "lon": "-1.53282"
+  },
+  "fuente_oficial": "http://www.geonames.org/12265634"
+}

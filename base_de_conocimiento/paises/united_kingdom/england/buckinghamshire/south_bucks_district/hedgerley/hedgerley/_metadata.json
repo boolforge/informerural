@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Hedgerley",
+  "geoname_id": 2647193,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 910,
+  "centroide": {
+    "lat": "51.571",
+    "lon": "-0.6041"
+  },
+  "fuente_oficial": "http://www.geonames.org/2647193"
+}

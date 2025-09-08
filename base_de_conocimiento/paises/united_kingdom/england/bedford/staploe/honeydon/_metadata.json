@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Honeydon",
+  "geoname_id": 13280908,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.21647",
+    "lon": "-0.34364"
+  },
+  "fuente_oficial": "http://www.geonames.org/13280908"
+}

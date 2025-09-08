@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Alwalton",
+  "geoname_id": 2657382,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.54842",
+    "lon": "-0.32891"
+  },
+  "fuente_oficial": "http://www.geonames.org/2657382"
+}

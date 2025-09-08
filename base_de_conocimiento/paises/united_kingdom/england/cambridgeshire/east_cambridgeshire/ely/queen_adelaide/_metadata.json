@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Queen Adelaide",
+  "geoname_id": 8629563,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.40936",
+    "lon": "0.29371"
+  },
+  "fuente_oficial": "http://www.geonames.org/8629563"
+}

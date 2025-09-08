@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Girton",
+  "geoname_id": 2648627,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 3836,
+  "centroide": {
+    "lat": "52.23333",
+    "lon": "0.08333"
+  },
+  "fuente_oficial": "http://www.geonames.org/2648627"
+}

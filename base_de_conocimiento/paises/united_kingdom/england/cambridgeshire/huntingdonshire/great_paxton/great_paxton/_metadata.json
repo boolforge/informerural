@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Great Paxton",
+  "geoname_id": 2648038,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 1007,
+  "centroide": {
+    "lat": "52.26057",
+    "lon": "-0.22818"
+  },
+  "fuente_oficial": "http://www.geonames.org/2648038"
+}

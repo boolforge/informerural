@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Stump Cross",
+  "geoname_id": 12265757,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "53.73656",
+    "lon": "-1.84071"
+  },
+  "fuente_oficial": "http://www.geonames.org/12265757"
+}

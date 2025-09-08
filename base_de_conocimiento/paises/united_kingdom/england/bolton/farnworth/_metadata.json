@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Farnworth",
+  "geoname_id": 2649650,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 25680,
+  "centroide": {
+    "lat": "53.55",
+    "lon": "-2.4"
+  },
+  "fuente_oficial": "http://www.geonames.org/2649650"
+}

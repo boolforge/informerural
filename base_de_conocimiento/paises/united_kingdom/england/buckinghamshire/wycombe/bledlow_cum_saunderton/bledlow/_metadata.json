@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Bledlow",
+  "geoname_id": 2655360,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.71222",
+    "lon": "-0.87719"
+  },
+  "fuente_oficial": "http://www.geonames.org/2655360"
+}

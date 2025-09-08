@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Barnsley",
+  "geoname_id": 2656284,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPLA2"
+  },
+  "poblacion": 71447,
+  "centroide": {
+    "lat": "53.55",
+    "lon": "-1.48333"
+  },
+  "fuente_oficial": "http://www.geonames.org/2656284"
+}

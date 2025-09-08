@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Winslow",
+  "geoname_id": 7294203,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "ADM4"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.94223",
+    "lon": "-0.88408"
+  },
+  "fuente_oficial": "http://www.geonames.org/7294203"
+}

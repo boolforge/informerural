@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Norman Cross",
+  "geoname_id": 6693667,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.50402",
+    "lon": "-0.29178"
+  },
+  "fuente_oficial": "http://www.geonames.org/6693667"
+}

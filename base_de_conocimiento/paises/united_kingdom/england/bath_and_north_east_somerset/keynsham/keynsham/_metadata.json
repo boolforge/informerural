@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Keynsham",
+  "geoname_id": 2645733,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 15641,
+  "centroide": {
+    "lat": "51.41387",
+    "lon": "-2.4978"
+  },
+  "fuente_oficial": "http://www.geonames.org/2645733"
+}

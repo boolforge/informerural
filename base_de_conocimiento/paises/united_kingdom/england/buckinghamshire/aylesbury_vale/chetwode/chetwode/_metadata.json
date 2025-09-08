@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Chetwode",
+  "geoname_id": 2653208,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.96237",
+    "lon": "-1.06998"
+  },
+  "fuente_oficial": "http://www.geonames.org/2653208"
+}

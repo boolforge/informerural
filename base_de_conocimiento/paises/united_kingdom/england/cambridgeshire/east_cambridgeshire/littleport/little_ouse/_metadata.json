@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Little Ouse",
+  "geoname_id": 12266477,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.47717",
+    "lon": "0.38556"
+  },
+  "fuente_oficial": "http://www.geonames.org/12266477"
+}

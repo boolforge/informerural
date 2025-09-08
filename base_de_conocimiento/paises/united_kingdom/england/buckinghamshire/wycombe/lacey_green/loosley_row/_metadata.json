@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Loosley Row",
+  "geoname_id": 12262747,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.69777",
+    "lon": "-0.82062"
+  },
+  "fuente_oficial": "http://www.geonames.org/12262747"
+}

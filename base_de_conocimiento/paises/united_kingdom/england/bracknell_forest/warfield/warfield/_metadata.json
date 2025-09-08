@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Warfield",
+  "geoname_id": 2634773,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPLA3"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.44213",
+    "lon": "-0.72802"
+  },
+  "fuente_oficial": "http://www.geonames.org/2634773"
+}

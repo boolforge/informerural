@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Catworth",
+  "geoname_id": 2653489,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 347,
+  "centroide": {
+    "lat": "52.34659",
+    "lon": "-0.40748"
+  },
+  "fuente_oficial": "http://www.geonames.org/2653489"
+}

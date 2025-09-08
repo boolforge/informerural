@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "East Harptree",
+  "geoname_id": 7296516,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "ADM3"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.2984",
+    "lon": "-2.61747"
+  },
+  "fuente_oficial": "http://www.geonames.org/7296516"
+}

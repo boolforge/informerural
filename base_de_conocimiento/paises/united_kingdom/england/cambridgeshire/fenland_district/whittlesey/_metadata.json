@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Whittlesey",
+  "geoname_id": 7290780,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "ADM4"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.54162",
+    "lon": "-0.10279"
+  },
+  "fuente_oficial": "http://www.geonames.org/7290780"
+}

@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "North Marston",
+  "geoname_id": 2641308,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 781,
+  "centroide": {
+    "lat": "51.89901",
+    "lon": "-0.87702"
+  },
+  "fuente_oficial": "http://www.geonames.org/2641308"
+}

@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Halton",
+  "geoname_id": 7296020,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "ADM4"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.77834",
+    "lon": "-0.72541"
+  },
+  "fuente_oficial": "http://www.geonames.org/7296020"
+}

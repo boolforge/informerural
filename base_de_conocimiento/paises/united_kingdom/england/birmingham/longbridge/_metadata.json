@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Longbridge",
+  "geoname_id": 2643716,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.4",
+    "lon": "-1.98333"
+  },
+  "fuente_oficial": "http://www.geonames.org/2643716"
+}

@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Prestwich",
+  "geoname_id": 2639897,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 32125,
+  "centroide": {
+    "lat": "53.53333",
+    "lon": "-2.28333"
+  },
+  "fuente_oficial": "http://www.geonames.org/2639897"
+}

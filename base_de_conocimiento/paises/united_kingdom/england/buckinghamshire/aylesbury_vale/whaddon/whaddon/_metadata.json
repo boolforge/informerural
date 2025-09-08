@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Whaddon",
+  "geoname_id": 2634200,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 533,
+  "centroide": {
+    "lat": "52.00042",
+    "lon": "-0.82801"
+  },
+  "fuente_oficial": "http://www.geonames.org/2634200"
+}

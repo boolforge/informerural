@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Babraham",
+  "geoname_id": 2656686,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 276,
+  "centroide": {
+    "lat": "52.13212",
+    "lon": "0.2096"
+  },
+  "fuente_oficial": "http://www.geonames.org/2656686"
+}

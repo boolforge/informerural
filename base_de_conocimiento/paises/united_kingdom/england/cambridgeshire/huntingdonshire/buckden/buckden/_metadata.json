@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Buckden",
+  "geoname_id": 2654419,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 2677,
+  "centroide": {
+    "lat": "52.29415",
+    "lon": "-0.24912"
+  },
+  "fuente_oficial": "http://www.geonames.org/2654419"
+}

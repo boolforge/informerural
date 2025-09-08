@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Biddenham",
+  "geoname_id": 7291584,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "ADM3"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.14361",
+    "lon": "-0.50685"
+  },
+  "fuente_oficial": "http://www.geonames.org/7291584"
+}

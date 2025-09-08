@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Peasedown Saint John",
+  "geoname_id": 3345396,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 6263,
+  "centroide": {
+    "lat": "51.31667",
+    "lon": "-2.42417"
+  },
+  "fuente_oficial": "http://www.geonames.org/3345396"
+}

@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Ringley",
+  "geoname_id": 2639344,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "53.54239",
+    "lon": "-2.35715"
+  },
+  "fuente_oficial": "http://www.geonames.org/2639344"
+}

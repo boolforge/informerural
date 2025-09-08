@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Pleasington",
+  "geoname_id": 7299746,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "ADM3"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "53.74156",
+    "lon": "-2.54397"
+  },
+  "fuente_oficial": "http://www.geonames.org/7299746"
+}

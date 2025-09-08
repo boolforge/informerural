@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Yelden",
+  "geoname_id": 2633389,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.29299",
+    "lon": "-0.51584"
+  },
+  "fuente_oficial": "http://www.geonames.org/2633389"
+}

@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Ilkley",
+  "geoname_id": 2646272,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 14809,
+  "centroide": {
+    "lat": "53.92449",
+    "lon": "-1.82326"
+  },
+  "fuente_oficial": "http://www.geonames.org/2646272"
+}

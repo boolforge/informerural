@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Chew Stoke",
+  "geoname_id": 2653196,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 776,
+  "centroide": {
+    "lat": "51.35365",
+    "lon": "-2.63266"
+  },
+  "fuente_oficial": "http://www.geonames.org/2653196"
+}

@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Warboys",
+  "geoname_id": 2634796,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 3825,
+  "centroide": {
+    "lat": "52.40352",
+    "lon": "-0.07931"
+  },
+  "fuente_oficial": "http://www.geonames.org/2634796"
+}

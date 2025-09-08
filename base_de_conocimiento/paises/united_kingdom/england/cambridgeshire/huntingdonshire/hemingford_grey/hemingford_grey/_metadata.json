@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Hemingford Grey",
+  "geoname_id": 2647133,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 3163,
+  "centroide": {
+    "lat": "52.31756",
+    "lon": "-0.10029"
+  },
+  "fuente_oficial": "http://www.geonames.org/2647133"
+}

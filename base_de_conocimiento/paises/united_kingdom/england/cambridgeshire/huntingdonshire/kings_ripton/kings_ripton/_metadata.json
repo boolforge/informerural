@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Kings Ripton",
+  "geoname_id": 12266028,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.37223",
+    "lon": "-0.14988"
+  },
+  "fuente_oficial": "http://www.geonames.org/12266028"
+}

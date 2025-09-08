@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Clough Foot",
+  "geoname_id": 13279365,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "53.7115",
+    "lon": "-2.1447"
+  },
+  "fuente_oficial": "http://www.geonames.org/13279365"
+}

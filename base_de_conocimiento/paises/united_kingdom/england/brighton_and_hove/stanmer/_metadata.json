@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Stanmer",
+  "geoname_id": 2637064,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "50.87065",
+    "lon": "-0.10265"
+  },
+  "fuente_oficial": "http://www.geonames.org/2637064"
+}

@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Kirtling",
+  "geoname_id": 7299826,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "ADM4"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.18674",
+    "lon": "0.47423"
+  },
+  "fuente_oficial": "http://www.geonames.org/7299826"
+}

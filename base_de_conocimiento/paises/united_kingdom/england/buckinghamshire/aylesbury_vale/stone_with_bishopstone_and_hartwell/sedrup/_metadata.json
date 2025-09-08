@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Sedrup",
+  "geoname_id": 13275229,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.79724",
+    "lon": "-0.84223"
+  },
+  "fuente_oficial": "http://www.geonames.org/13275229"
+}

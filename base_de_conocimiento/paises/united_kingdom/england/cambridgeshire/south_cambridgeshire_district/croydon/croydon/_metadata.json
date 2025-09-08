@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Croydon",
+  "geoname_id": 7287971,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 221,
+  "centroide": {
+    "lat": "52.12867",
+    "lon": "-0.07982"
+  },
+  "fuente_oficial": "http://www.geonames.org/7287971"
+}

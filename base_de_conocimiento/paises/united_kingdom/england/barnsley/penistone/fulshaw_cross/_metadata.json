@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Fulshaw Cross",
+  "geoname_id": 6252061,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "53.51071",
+    "lon": "-1.6843"
+  },
+  "fuente_oficial": "http://www.geonames.org/6252061"
+}

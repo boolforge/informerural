@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Great Staughton",
+  "geoname_id": 2648014,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 896,
+  "centroide": {
+    "lat": "52.26763",
+    "lon": "-0.34118"
+  },
+  "fuente_oficial": "http://www.geonames.org/2648014"
+}

@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Ramsbottom",
+  "geoname_id": 2639668,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 17738,
+  "centroide": {
+    "lat": "53.64789",
+    "lon": "-2.31683"
+  },
+  "fuente_oficial": "http://www.geonames.org/2639668"
+}

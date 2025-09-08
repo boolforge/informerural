@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Chisbridge Cross",
+  "geoname_id": 13265621,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.59553",
+    "lon": "-0.82523"
+  },
+  "fuente_oficial": "http://www.geonames.org/13265621"
+}

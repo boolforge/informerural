@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Little Chalfont",
+  "geoname_id": 6690591,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 4497,
+  "centroide": {
+    "lat": "51.66829",
+    "lon": "-0.57038"
+  },
+  "fuente_oficial": "http://www.geonames.org/6690591"
+}

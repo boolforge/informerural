@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Hullen Edge",
+  "geoname_id": 13284198,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPLL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "53.69957",
+    "lon": "-1.91734"
+  },
+  "fuente_oficial": "http://www.geonames.org/13284198"
+}

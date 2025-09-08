@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Southstoke",
+  "geoname_id": 7296556,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "ADM3"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.34822",
+    "lon": "-2.35977"
+  },
+  "fuente_oficial": "http://www.geonames.org/7296556"
+}

@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Wymington",
+  "geoname_id": 2633447,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.26881",
+    "lon": "-0.60266"
+  },
+  "fuente_oficial": "http://www.geonames.org/2633447"
+}

@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Isleham",
+  "geoname_id": 2646012,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 2228,
+  "centroide": {
+    "lat": "52.34289",
+    "lon": "0.41212"
+  },
+  "fuente_oficial": "http://www.geonames.org/2646012"
+}

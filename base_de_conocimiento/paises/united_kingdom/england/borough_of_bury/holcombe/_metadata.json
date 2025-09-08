@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Holcombe",
+  "geoname_id": 2646774,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "53.64443",
+    "lon": "-2.3249"
+  },
+  "fuente_oficial": "http://www.geonames.org/2646774"
+}

@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Clapham Green",
+  "geoname_id": 12266069,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.16357",
+    "lon": "-0.48686"
+  },
+  "fuente_oficial": "http://www.geonames.org/12266069"
+}

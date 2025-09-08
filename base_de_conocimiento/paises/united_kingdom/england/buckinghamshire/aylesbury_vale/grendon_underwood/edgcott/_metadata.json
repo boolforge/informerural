@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Edgcott",
+  "geoname_id": 2650235,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 988,
+  "centroide": {
+    "lat": "51.8917",
+    "lon": "-1.0096"
+  },
+  "fuente_oficial": "http://www.geonames.org/2650235"
+}

@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Dunsmore",
+  "geoname_id": 12262382,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.73906",
+    "lon": "-0.75275"
+  },
+  "fuente_oficial": "http://www.geonames.org/12262382"
+}

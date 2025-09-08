@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Church End",
+  "geoname_id": 13280715,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.42837",
+    "lon": "-0.22229"
+  },
+  "fuente_oficial": "http://www.geonames.org/13280715"
+}

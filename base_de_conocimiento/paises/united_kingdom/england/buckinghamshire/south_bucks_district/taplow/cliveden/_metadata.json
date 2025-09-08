@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Cliveden",
+  "geoname_id": 2652817,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.55845",
+    "lon": "-0.68922"
+  },
+  "fuente_oficial": "http://www.geonames.org/2652817"
+}

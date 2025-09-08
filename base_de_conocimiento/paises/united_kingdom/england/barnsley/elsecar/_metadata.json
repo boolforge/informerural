@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Elsecar",
+  "geoname_id": 2650060,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "53.49892",
+    "lon": "-1.42591"
+  },
+  "fuente_oficial": "http://www.geonames.org/2650060"
+}

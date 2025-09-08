@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Boscombe",
+  "geoname_id": 2655147,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "50.72521",
+    "lon": "-1.84193"
+  },
+  "fuente_oficial": "http://www.geonames.org/2655147"
+}

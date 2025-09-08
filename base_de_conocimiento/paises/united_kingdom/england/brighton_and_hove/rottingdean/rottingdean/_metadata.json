@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Rottingdean",
+  "geoname_id": 2639069,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPLA3"
+  },
+  "poblacion": 21756,
+  "centroide": {
+    "lat": "50.80984",
+    "lon": "-0.05939"
+  },
+  "fuente_oficial": "http://www.geonames.org/2639069"
+}

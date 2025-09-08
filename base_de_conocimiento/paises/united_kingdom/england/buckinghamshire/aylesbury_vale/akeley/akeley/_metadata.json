@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Akeley",
+  "geoname_id": 2657578,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 514,
+  "centroide": {
+    "lat": "52.03359",
+    "lon": "-0.96954"
+  },
+  "fuente_oficial": "http://www.geonames.org/2657578"
+}

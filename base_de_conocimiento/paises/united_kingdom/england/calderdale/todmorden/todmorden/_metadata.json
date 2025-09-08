@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Todmorden",
+  "geoname_id": 2635744,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 11690,
+  "centroide": {
+    "lat": "53.71434",
+    "lon": "-2.09701"
+  },
+  "fuente_oficial": "http://www.geonames.org/2635744"
+}

@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Waterhall",
+  "geoname_id": 13265641,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "50.86942",
+    "lon": "-0.15919"
+  },
+  "fuente_oficial": "http://www.geonames.org/13265641"
+}

@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "East Cambridgeshire",
+  "geoname_id": 2650488,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "ADM3"
+  },
+  "poblacion": 87825,
+  "centroide": {
+    "lat": "52.31667",
+    "lon": "0.3"
+  },
+  "fuente_oficial": "http://www.geonames.org/2650488"
+}

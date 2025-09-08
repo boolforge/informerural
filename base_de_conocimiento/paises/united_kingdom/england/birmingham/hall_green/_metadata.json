@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Hall Green",
+  "geoname_id": 8604608,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.4275",
+    "lon": "-1.84287"
+  },
+  "fuente_oficial": "http://www.geonames.org/8604608"
+}

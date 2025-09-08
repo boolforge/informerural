@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Barugh Green",
+  "geoname_id": 12265635,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "53.56808",
+    "lon": "-1.5327"
+  },
+  "fuente_oficial": "http://www.geonames.org/12265635"
+}

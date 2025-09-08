@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Hoyland Nether",
+  "geoname_id": 2646471,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 15842,
+  "centroide": {
+    "lat": "53.5",
+    "lon": "-1.45"
+  },
+  "fuente_oficial": "http://www.geonames.org/2646471"
+}

@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Ramsey Forty Foot",
+  "geoname_id": 13275455,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.47114",
+    "lon": "-0.08051"
+  },
+  "fuente_oficial": "http://www.geonames.org/13275455"
+}

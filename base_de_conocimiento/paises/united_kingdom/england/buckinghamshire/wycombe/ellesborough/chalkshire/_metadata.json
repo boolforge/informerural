@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Chalkshire",
+  "geoname_id": 13274862,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.76057",
+    "lon": "-0.7822"
+  },
+  "fuente_oficial": "http://www.geonames.org/13274862"
+}

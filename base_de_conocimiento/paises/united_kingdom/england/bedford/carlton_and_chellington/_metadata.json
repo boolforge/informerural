@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Carlton and Chellington",
+  "geoname_id": 2653761,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "ADM3"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.18911",
+    "lon": "-0.59841"
+  },
+  "fuente_oficial": "http://www.geonames.org/2653761"
+}

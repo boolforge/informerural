@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Prickwillow",
+  "geoname_id": 2639895,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 354,
+  "centroide": {
+    "lat": "52.41686",
+    "lon": "0.34596"
+  },
+  "fuente_oficial": "http://www.geonames.org/2639895"
+}

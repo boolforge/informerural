@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Upper Swainswick",
+  "geoname_id": 2636457,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.41393",
+    "lon": "-2.35096"
+  },
+  "fuente_oficial": "http://www.geonames.org/2636457"
+}

@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Hurn",
+  "geoname_id": 7291244,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "ADM4"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "50.7765",
+    "lon": "-1.83056"
+  },
+  "fuente_oficial": "http://www.geonames.org/7291244"
+}

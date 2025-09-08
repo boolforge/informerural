@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Cambourne",
+  "geoname_id": 9409226,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 8186,
+  "centroide": {
+    "lat": "52.22115",
+    "lon": "-0.07025"
+  },
+  "fuente_oficial": "http://www.geonames.org/9409226"
+}

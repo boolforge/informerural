@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Stoke Hammond",
+  "geoname_id": 2636850,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 875,
+  "centroide": {
+    "lat": "51.95675",
+    "lon": "-0.719"
+  },
+  "fuente_oficial": "http://www.geonames.org/2636850"
+}

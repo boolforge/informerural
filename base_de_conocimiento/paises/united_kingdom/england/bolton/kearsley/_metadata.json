@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Kearsley",
+  "geoname_id": 2645911,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 10127,
+  "centroide": {
+    "lat": "53.53333",
+    "lon": "-2.38333"
+  },
+  "fuente_oficial": "http://www.geonames.org/2645911"
+}

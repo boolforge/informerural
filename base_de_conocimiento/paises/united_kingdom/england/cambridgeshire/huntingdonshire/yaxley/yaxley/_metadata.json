@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Yaxley",
+  "geoname_id": 2633399,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 9174,
+  "centroide": {
+    "lat": "52.51768",
+    "lon": "-0.25852"
+  },
+  "fuente_oficial": "http://www.geonames.org/2633399"
+}

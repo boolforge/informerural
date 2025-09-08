@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Kingswood",
+  "geoname_id": 12262413,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.86439",
+    "lon": "-0.99921"
+  },
+  "fuente_oficial": "http://www.geonames.org/12262413"
+}

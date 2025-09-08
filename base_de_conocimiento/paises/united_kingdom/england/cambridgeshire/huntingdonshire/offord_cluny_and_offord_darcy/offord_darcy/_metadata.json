@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Offord D’Arcy",
+  "geoname_id": 2641067,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.28181",
+    "lon": "-0.21449"
+  },
+  "fuente_oficial": "http://www.geonames.org/2641067"
+}

@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Grantchester",
+  "geoname_id": 10103877,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPLA4"
+  },
+  "poblacion": 540,
+  "centroide": {
+    "lat": "52.18093",
+    "lon": "0.09072"
+  },
+  "fuente_oficial": "http://www.geonames.org/10103877"
+}

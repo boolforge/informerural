@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Norland Town",
+  "geoname_id": 12265373,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "53.70037",
+    "lon": "-1.89665"
+  },
+  "fuente_oficial": "http://www.geonames.org/12265373"
+}

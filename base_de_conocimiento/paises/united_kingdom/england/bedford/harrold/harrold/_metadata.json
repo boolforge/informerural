@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Harrold",
+  "geoname_id": 2647427,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPLA3"
+  },
+  "poblacion": 1691,
+  "centroide": {
+    "lat": "52.20127",
+    "lon": "-0.61038"
+  },
+  "fuente_oficial": "http://www.geonames.org/2647427"
+}

@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Weald",
+  "geoname_id": 13280906,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.22382",
+    "lon": "-0.20024"
+  },
+  "fuente_oficial": "http://www.geonames.org/13280906"
+}

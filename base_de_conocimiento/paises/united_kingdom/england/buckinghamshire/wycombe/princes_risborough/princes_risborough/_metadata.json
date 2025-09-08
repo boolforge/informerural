@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Princes Risborough",
+  "geoname_id": 2639888,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 8231,
+  "centroide": {
+    "lat": "51.72549",
+    "lon": "-0.83144"
+  },
+  "fuente_oficial": "http://www.geonames.org/2639888"
+}

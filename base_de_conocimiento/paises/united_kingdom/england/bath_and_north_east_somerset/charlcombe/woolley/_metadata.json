@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Woolley",
+  "geoname_id": 13280582,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.41504",
+    "lon": "-2.36312"
+  },
+  "fuente_oficial": "http://www.geonames.org/13280582"
+}

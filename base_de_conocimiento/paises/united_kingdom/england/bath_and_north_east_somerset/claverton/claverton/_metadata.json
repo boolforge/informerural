@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Claverton",
+  "geoname_id": 11524159,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.37545",
+    "lon": "-2.30477"
+  },
+  "fuente_oficial": "http://www.geonames.org/11524159"
+}

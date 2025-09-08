@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Shelf",
+  "geoname_id": 11549259,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "53.75648",
+    "lon": "-1.81446"
+  },
+  "fuente_oficial": "http://www.geonames.org/11549259"
+}

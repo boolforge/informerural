@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Cherry Tree",
+  "geoname_id": 2653240,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "53.73333",
+    "lon": "-2.51667"
+  },
+  "fuente_oficial": "http://www.geonames.org/2653240"
+}

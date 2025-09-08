@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "High Hoyland",
+  "geoname_id": 12265672,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "53.58581",
+    "lon": "-1.59027"
+  },
+  "fuente_oficial": "http://www.geonames.org/12265672"
+}

@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Wilsden",
+  "geoname_id": 2633880,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 5524,
+  "centroide": {
+    "lat": "53.82084",
+    "lon": "-1.85959"
+  },
+  "fuente_oficial": "http://www.geonames.org/2633880"
+}

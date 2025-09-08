@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Middlecliffe",
+  "geoname_id": 12265669,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "53.54013",
+    "lon": "-1.35066"
+  },
+  "fuente_oficial": "http://www.geonames.org/12265669"
+}

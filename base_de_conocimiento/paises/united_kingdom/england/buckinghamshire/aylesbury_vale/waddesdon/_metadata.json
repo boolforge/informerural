@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Waddesdon",
+  "geoname_id": 7290779,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "ADM4"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.83705",
+    "lon": "-0.9094"
+  },
+  "fuente_oficial": "http://www.geonames.org/7290779"
+}

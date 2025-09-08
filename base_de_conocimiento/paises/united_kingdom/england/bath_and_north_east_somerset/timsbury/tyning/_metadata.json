@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Tyning",
+  "geoname_id": 13279864,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.3287",
+    "lon": "-2.49072"
+  },
+  "fuente_oficial": "http://www.geonames.org/13279864"
+}

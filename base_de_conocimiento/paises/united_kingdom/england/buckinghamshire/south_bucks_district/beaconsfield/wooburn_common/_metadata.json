@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Wooburn Common",
+  "geoname_id": 12266594,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.58086",
+    "lon": "-0.66772"
+  },
+  "fuente_oficial": "http://www.geonames.org/12266594"
+}

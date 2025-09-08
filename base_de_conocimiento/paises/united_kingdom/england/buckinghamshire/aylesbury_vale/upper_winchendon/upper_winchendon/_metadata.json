@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Upper Winchendon",
+  "geoname_id": 2635102,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.82283",
+    "lon": "-0.91856"
+  },
+  "fuente_oficial": "http://www.geonames.org/2635102"
+}

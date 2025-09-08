@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Timsbury",
+  "geoname_id": 2635801,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPLA3"
+  },
+  "poblacion": 2504,
+  "centroide": {
+    "lat": "51.32444",
+    "lon": "-2.47917"
+  },
+  "fuente_oficial": "http://www.geonames.org/2635801"
+}

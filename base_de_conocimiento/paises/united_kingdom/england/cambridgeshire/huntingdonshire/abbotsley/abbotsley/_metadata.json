@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Abbotsley",
+  "geoname_id": 2657862,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 446,
+  "centroide": {
+    "lat": "52.19403",
+    "lon": "-0.20664"
+  },
+  "fuente_oficial": "http://www.geonames.org/2657862"
+}

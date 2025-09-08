@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Long Crendon",
+  "geoname_id": 2643707,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 2335,
+  "centroide": {
+    "lat": "51.77294",
+    "lon": "-0.99684"
+  },
+  "fuente_oficial": "http://www.geonames.org/2643707"
+}

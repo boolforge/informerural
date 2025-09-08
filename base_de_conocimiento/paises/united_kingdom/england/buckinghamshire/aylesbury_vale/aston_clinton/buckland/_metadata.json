@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Buckland",
+  "geoname_id": 2654405,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.80596",
+    "lon": "-0.72287"
+  },
+  "fuente_oficial": "http://www.geonames.org/2654405"
+}

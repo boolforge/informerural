@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Colne",
+  "geoname_id": 7292905,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "ADM4"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.37292",
+    "lon": "0.00481"
+  },
+  "fuente_oficial": "http://www.geonames.org/7292905"
+}

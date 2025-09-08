@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Fenstanton",
+  "geoname_id": 2649549,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 2639,
+  "centroide": {
+    "lat": "52.29903",
+    "lon": "-0.06712"
+  },
+  "fuente_oficial": "http://www.geonames.org/2649549"
+}

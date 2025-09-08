@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Bishop Sutton",
+  "geoname_id": 3345404,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 1193,
+  "centroide": {
+    "lat": "51.33444",
+    "lon": "-2.59472"
+  },
+  "fuente_oficial": "http://www.geonames.org/3345404"
+}

@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Shreding Green",
+  "geoname_id": 12264626,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.51836",
+    "lon": "-0.52723"
+  },
+  "fuente_oficial": "http://www.geonames.org/12264626"
+}

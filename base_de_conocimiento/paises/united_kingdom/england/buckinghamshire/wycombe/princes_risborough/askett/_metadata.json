@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Askett",
+  "geoname_id": 12262594,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.73947",
+    "lon": "-0.81981"
+  },
+  "fuente_oficial": "http://www.geonames.org/12262594"
+}

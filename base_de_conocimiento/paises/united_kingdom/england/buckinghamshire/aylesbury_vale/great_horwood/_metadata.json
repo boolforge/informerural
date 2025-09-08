@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Great Horwood",
+  "geoname_id": 7292872,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "ADM4"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.97345",
+    "lon": "-0.87168"
+  },
+  "fuente_oficial": "http://www.geonames.org/7292872"
+}

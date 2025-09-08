@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Widmer End",
+  "geoname_id": 12264644,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.66336",
+    "lon": "-0.71881"
+  },
+  "fuente_oficial": "http://www.geonames.org/12264644"
+}

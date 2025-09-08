@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Bispham",
+  "geoname_id": 2655543,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "53.85251",
+    "lon": "-3.03631"
+  },
+  "fuente_oficial": "http://www.geonames.org/2655543"
+}

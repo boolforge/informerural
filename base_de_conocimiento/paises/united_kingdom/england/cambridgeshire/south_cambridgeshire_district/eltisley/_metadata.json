@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Eltisley",
+  "geoname_id": 7292939,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "ADM4"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.22507",
+    "lon": "-0.13015"
+  },
+  "fuente_oficial": "http://www.geonames.org/7292939"
+}

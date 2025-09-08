@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Wilburton",
+  "geoname_id": 2633925,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 1013,
+  "centroide": {
+    "lat": "52.35191",
+    "lon": "0.17673"
+  },
+  "fuente_oficial": "http://www.geonames.org/2633925"
+}

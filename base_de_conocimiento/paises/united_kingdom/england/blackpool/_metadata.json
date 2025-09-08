@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Blackpool",
+  "geoname_id": 3333127,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "ADM2"
+  },
+  "poblacion": 139195,
+  "centroide": {
+    "lat": "53.83333",
+    "lon": "-3.03333"
+  },
+  "fuente_oficial": "http://www.geonames.org/3333127"
+}

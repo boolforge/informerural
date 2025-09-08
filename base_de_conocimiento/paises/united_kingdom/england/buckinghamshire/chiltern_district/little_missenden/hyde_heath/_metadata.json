@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Hyde Heath",
+  "geoname_id": 11550848,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 1047,
+  "centroide": {
+    "lat": "51.69336",
+    "lon": "-0.65437"
+  },
+  "fuente_oficial": "http://www.geonames.org/11550848"
+}

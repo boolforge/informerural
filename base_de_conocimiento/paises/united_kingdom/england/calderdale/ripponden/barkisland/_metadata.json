@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Barkisland",
+  "geoname_id": 2656329,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 1004,
+  "centroide": {
+    "lat": "53.67614",
+    "lon": "-1.9184"
+  },
+  "fuente_oficial": "http://www.geonames.org/2656329"
+}

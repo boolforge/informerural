@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Great and Little Kimble cum Marsh",
+  "geoname_id": 7299800,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "ADM4"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.75681",
+    "lon": "-0.82185"
+  },
+  "fuente_oficial": "http://www.geonames.org/7299800"
+}

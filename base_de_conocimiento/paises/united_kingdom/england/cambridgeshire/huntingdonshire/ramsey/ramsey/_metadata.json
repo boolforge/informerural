@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Ramsey",
+  "geoname_id": 2639664,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 7829,
+  "centroide": {
+    "lat": "52.45058",
+    "lon": "-0.10932"
+  },
+  "fuente_oficial": "http://www.geonames.org/2639664"
+}

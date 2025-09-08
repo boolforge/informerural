@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Earith",
+  "geoname_id": 7298781,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "ADM4"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.36476",
+    "lon": "0.03278"
+  },
+  "fuente_oficial": "http://www.geonames.org/7298781"
+}

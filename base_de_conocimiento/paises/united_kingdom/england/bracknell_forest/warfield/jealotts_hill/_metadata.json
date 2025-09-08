@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Jealott's Hill",
+  "geoname_id": 13281719,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.45289",
+    "lon": "-0.75072"
+  },
+  "fuente_oficial": "http://www.geonames.org/13281719"
+}

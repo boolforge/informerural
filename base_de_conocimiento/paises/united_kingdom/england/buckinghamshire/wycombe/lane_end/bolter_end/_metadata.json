@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Bolter End",
+  "geoname_id": 12264857,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.62316",
+    "lon": "-0.84965"
+  },
+  "fuente_oficial": "http://www.geonames.org/12264857"
+}

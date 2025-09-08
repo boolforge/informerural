@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Turvey",
+  "geoname_id": 2635327,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 940,
+  "centroide": {
+    "lat": "52.16285",
+    "lon": "-0.62528"
+  },
+  "fuente_oficial": "http://www.geonames.org/2635327"
+}

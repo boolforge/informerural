@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Ágreda",
+  "geoname_id": 6361063,
+  "codigos_geograficos": {
+    "iso_3166_2": "CL",
+    "fcode": "ADM3"
+  },
+  "poblacion": 3177,
+  "centroide": {
+    "lat": "41.86137",
+    "lon": "-1.89357"
+  },
+  "fuente_oficial": "http://www.geonames.org/6361063"
+}

@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Saint Ives",
+  "geoname_id": 2638776,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.33251",
+    "lon": "-0.07656"
+  },
+  "fuente_oficial": "http://www.geonames.org/2638776"
+}

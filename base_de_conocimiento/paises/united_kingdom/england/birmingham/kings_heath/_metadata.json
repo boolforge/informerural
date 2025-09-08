@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Kings Heath",
+  "geoname_id": 11281384,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.43143",
+    "lon": "-1.89406"
+  },
+  "fuente_oficial": "http://www.geonames.org/11281384"
+}

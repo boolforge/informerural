@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Gerrards Cross",
+  "geoname_id": 6620444,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 20633,
+  "centroide": {
+    "lat": "51.5861",
+    "lon": "-0.55543"
+  },
+  "fuente_oficial": "http://www.geonames.org/6620444"
+}

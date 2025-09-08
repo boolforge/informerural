@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Great Gidding",
+  "geoname_id": 2648100,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 363,
+  "centroide": {
+    "lat": "52.43325",
+    "lon": "-0.35873"
+  },
+  "fuente_oficial": "http://www.geonames.org/2648100"
+}

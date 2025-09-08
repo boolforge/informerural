@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Warboys",
+  "geoname_id": 7298798,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "ADM4"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.42315",
+    "lon": "-0.04792"
+  },
+  "fuente_oficial": "http://www.geonames.org/7298798"
+}

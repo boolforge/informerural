@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Dry Drayton",
+  "geoname_id": 2650898,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 643,
+  "centroide": {
+    "lat": "52.24168",
+    "lon": "0.01807"
+  },
+  "fuente_oficial": "http://www.geonames.org/2650898"
+}

@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Cross Roads",
+  "geoname_id": 11072197,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "53.83531",
+    "lon": "-1.93098"
+  },
+  "fuente_oficial": "http://www.geonames.org/11072197"
+}

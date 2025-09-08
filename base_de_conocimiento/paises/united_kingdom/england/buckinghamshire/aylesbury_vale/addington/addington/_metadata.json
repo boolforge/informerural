@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Addington",
+  "geoname_id": 2657677,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.95135",
+    "lon": "-0.91307"
+  },
+  "fuente_oficial": "http://www.geonames.org/2657677"
+}

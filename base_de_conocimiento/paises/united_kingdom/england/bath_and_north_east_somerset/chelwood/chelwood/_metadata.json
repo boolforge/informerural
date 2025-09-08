@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Chelwood",
+  "geoname_id": 2653258,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.35635",
+    "lon": "-2.53067"
+  },
+  "fuente_oficial": "http://www.geonames.org/2653258"
+}

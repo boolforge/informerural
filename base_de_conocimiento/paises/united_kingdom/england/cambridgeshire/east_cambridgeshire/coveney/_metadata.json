@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Coveney",
+  "geoname_id": 7301455,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "ADM4"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.4264",
+    "lon": "0.18307"
+  },
+  "fuente_oficial": "http://www.geonames.org/7301455"
+}

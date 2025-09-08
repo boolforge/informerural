@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Brington and Molesworth",
+  "geoname_id": 7298779,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "ADM4"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.37562",
+    "lon": "-0.41987"
+  },
+  "fuente_oficial": "http://www.geonames.org/7298779"
+}

@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Redbrook",
+  "geoname_id": 12265445,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "53.56552",
+    "lon": "-1.51615"
+  },
+  "fuente_oficial": "http://www.geonames.org/12265445"
+}

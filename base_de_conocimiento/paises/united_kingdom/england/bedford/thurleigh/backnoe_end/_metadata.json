@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Backnoe End",
+  "geoname_id": 13280765,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.22598",
+    "lon": "-0.4516"
+  },
+  "fuente_oficial": "http://www.geonames.org/13280765"
+}

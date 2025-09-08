@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Cottenham",
+  "geoname_id": 2652269,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 5903,
+  "centroide": {
+    "lat": "52.28743",
+    "lon": "0.1254"
+  },
+  "fuente_oficial": "http://www.geonames.org/2652269"
+}

@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Nash",
+  "geoname_id": 2641872,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 417,
+  "centroide": {
+    "lat": "52.00343",
+    "lon": "-0.86655"
+  },
+  "fuente_oficial": "http://www.geonames.org/2641872"
+}

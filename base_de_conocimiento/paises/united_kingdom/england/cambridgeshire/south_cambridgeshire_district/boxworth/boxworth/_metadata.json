@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Boxworth",
+  "geoname_id": 2655036,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.25933",
+    "lon": "-0.02695"
+  },
+  "fuente_oficial": "http://www.geonames.org/2655036"
+}

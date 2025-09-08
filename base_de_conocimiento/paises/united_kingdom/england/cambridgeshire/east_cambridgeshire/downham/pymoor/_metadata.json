@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Pymoor",
+  "geoname_id": 12265903,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.45513",
+    "lon": "0.2012"
+  },
+  "fuente_oficial": "http://www.geonames.org/12265903"
+}

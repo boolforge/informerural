@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Cawthorne",
+  "geoname_id": 2653463,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPLA3"
+  },
+  "poblacion": 893,
+  "centroide": {
+    "lat": "53.56687",
+    "lon": "-1.57259"
+  },
+  "fuente_oficial": "http://www.geonames.org/2653463"
+}

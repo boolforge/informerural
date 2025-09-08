@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Greatgap",
+  "geoname_id": 13275667,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.84258",
+    "lon": "-0.63831"
+  },
+  "fuente_oficial": "http://www.geonames.org/13275667"
+}

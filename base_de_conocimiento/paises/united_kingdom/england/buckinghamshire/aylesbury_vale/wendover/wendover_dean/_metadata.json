@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Wendover Dean",
+  "geoname_id": 13275141,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.73452",
+    "lon": "-0.73613"
+  },
+  "fuente_oficial": "http://www.geonames.org/13275141"
+}

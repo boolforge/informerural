@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Sawood",
+  "geoname_id": 13280355,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "53.8015",
+    "lon": "-1.92784"
+  },
+  "fuente_oficial": "http://www.geonames.org/13280355"
+}

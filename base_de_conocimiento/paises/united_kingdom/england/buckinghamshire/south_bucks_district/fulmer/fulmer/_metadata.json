@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Fulmer",
+  "geoname_id": 2648992,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 230,
+  "centroide": {
+    "lat": "51.56149",
+    "lon": "-0.56"
+  },
+  "fuente_oficial": "http://www.geonames.org/2648992"
+}

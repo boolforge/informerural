@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Piddington and Wheeler End",
+  "geoname_id": 7299804,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "ADM4"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.64186",
+    "lon": "-0.83316"
+  },
+  "fuente_oficial": "http://www.geonames.org/7299804"
+}

@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Iver",
+  "geoname_id": 2645990,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 7492,
+  "centroide": {
+    "lat": "51.5",
+    "lon": "-0.5"
+  },
+  "fuente_oficial": "http://www.geonames.org/2645990"
+}

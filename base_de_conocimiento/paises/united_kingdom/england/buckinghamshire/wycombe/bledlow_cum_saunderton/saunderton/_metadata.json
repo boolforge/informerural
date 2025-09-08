@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Saunderton",
+  "geoname_id": 12262593,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.71021",
+    "lon": "-0.85118"
+  },
+  "fuente_oficial": "http://www.geonames.org/12262593"
+}

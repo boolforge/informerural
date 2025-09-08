@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Cores End",
+  "geoname_id": 12264801,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.57764",
+    "lon": "-0.69725"
+  },
+  "fuente_oficial": "http://www.geonames.org/12264801"
+}

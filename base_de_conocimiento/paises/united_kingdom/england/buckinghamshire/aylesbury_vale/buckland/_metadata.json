@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Buckland",
+  "geoname_id": 7299774,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "ADM4"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.7967",
+    "lon": "-0.70581"
+  },
+  "fuente_oficial": "http://www.geonames.org/7299774"
+}

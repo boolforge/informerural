@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Avonmouth",
+  "geoname_id": 2656737,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.51005",
+    "lon": "-2.68898"
+  },
+  "fuente_oficial": "http://www.geonames.org/2656737"
+}

@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Low Springs",
+  "geoname_id": 13273667,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "53.86546",
+    "lon": "-1.77167"
+  },
+  "fuente_oficial": "http://www.geonames.org/13273667"
+}

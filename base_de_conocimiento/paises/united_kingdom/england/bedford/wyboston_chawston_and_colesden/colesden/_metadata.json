@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Colesden",
+  "geoname_id": 13280842,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.18925",
+    "lon": "-0.34988"
+  },
+  "fuente_oficial": "http://www.geonames.org/13280842"
+}

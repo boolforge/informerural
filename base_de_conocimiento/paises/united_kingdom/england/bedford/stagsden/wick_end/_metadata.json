@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Wick End",
+  "geoname_id": 13280443,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.13535",
+    "lon": "-0.55847"
+  },
+  "fuente_oficial": "http://www.geonames.org/13280443"
+}

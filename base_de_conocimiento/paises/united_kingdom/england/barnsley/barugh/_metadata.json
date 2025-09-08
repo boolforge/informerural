@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Barugh",
+  "geoname_id": 12265671,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "53.57288",
+    "lon": "-1.52647"
+  },
+  "fuente_oficial": "http://www.geonames.org/12265671"
+}

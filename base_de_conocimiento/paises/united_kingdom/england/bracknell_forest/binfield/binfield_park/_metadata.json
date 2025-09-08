@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Binfield Park",
+  "geoname_id": 13284158,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPLL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.43606",
+    "lon": "-0.78549"
+  },
+  "fuente_oficial": "http://www.geonames.org/13284158"
+}

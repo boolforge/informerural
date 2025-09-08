@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Kings Norton",
+  "geoname_id": 2645450,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.40957",
+    "lon": "-1.91965"
+  },
+  "fuente_oficial": "http://www.geonames.org/2645450"
+}

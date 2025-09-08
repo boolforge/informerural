@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Little Gidding",
+  "geoname_id": 7294273,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "ADM4"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.42603",
+    "lon": "-0.33472"
+  },
+  "fuente_oficial": "http://www.geonames.org/7294273"
+}

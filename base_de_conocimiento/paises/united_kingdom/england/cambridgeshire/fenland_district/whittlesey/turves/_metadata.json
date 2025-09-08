@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Turves",
+  "geoname_id": 7870482,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPLL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.55325",
+    "lon": "-0.02414"
+  },
+  "fuente_oficial": "http://www.geonames.org/7870482"
+}

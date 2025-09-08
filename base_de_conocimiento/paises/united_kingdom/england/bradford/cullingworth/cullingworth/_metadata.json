@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Cullingworth",
+  "geoname_id": 2651748,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 2596,
+  "centroide": {
+    "lat": "53.82444",
+    "lon": "-1.8973"
+  },
+  "fuente_oficial": "http://www.geonames.org/2651748"
+}

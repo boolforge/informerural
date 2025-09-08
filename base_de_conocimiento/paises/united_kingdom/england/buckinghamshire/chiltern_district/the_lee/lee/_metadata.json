@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Lee",
+  "geoname_id": 2644698,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 698,
+  "centroide": {
+    "lat": "51.7307",
+    "lon": "-0.70004"
+  },
+  "fuente_oficial": "http://www.geonames.org/2644698"
+}

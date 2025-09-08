@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Godmanchester",
+  "geoname_id": 2648370,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 6506,
+  "centroide": {
+    "lat": "52.31939",
+    "lon": "-0.17509"
+  },
+  "fuente_oficial": "http://www.geonames.org/2648370"
+}

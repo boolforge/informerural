@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Todmorden",
+  "geoname_id": 7299809,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "ADM3"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "53.7099",
+    "lon": "-2.10147"
+  },
+  "fuente_oficial": "http://www.geonames.org/7299809"
+}

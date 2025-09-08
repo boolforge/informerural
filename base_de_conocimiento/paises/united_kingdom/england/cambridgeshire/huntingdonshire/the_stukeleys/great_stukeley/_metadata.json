@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Great Stukeley",
+  "geoname_id": 2648010,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 720,
+  "centroide": {
+    "lat": "52.35657",
+    "lon": "-0.21071"
+  },
+  "fuente_oficial": "http://www.geonames.org/2648010"
+}

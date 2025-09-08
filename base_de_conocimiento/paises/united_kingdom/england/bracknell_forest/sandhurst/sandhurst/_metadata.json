@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Sandhurst",
+  "geoname_id": 2638580,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPLA3"
+  },
+  "poblacion": 20803,
+  "centroide": {
+    "lat": "51.34675",
+    "lon": "-0.78655"
+  },
+  "fuente_oficial": "http://www.geonames.org/2638580"
+}

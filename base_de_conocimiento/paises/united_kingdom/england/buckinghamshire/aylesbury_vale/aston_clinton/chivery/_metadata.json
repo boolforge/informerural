@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Chivery",
+  "geoname_id": 11071847,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.76792",
+    "lon": "-0.69716"
+  },
+  "fuente_oficial": "http://www.geonames.org/11071847"
+}

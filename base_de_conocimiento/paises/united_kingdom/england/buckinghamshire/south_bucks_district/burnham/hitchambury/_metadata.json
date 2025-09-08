@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Hitchambury",
+  "geoname_id": 12261753,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.53414",
+    "lon": "-0.67622"
+  },
+  "fuente_oficial": "http://www.geonames.org/12261753"
+}

@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Kempston Hardwick",
+  "geoname_id": 6947168,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 20000,
+  "centroide": {
+    "lat": "52.08956",
+    "lon": "-0.49908"
+  },
+  "fuente_oficial": "http://www.geonames.org/6947168"
+}

@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Camerton",
+  "geoname_id": 7296349,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "ADM3"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.31638",
+    "lon": "-2.44775"
+  },
+  "fuente_oficial": "http://www.geonames.org/7296349"
+}

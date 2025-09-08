@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Dorney",
+  "geoname_id": 7298730,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "ADM4"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.49894",
+    "lon": "-0.66007"
+  },
+  "fuente_oficial": "http://www.geonames.org/7298730"
+}

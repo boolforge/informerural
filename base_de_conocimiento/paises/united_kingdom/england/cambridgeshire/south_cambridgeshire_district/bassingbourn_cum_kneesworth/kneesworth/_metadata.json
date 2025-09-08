@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Kneesworth",
+  "geoname_id": 12265553,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.08108",
+    "lon": "-0.04284"
+  },
+  "fuente_oficial": "http://www.geonames.org/12265553"
+}

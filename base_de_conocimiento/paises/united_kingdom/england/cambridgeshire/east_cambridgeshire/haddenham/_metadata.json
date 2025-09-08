@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Haddenham",
+  "geoname_id": 7298760,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "ADM4"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.35109",
+    "lon": "0.11018"
+  },
+  "fuente_oficial": "http://www.geonames.org/7298760"
+}

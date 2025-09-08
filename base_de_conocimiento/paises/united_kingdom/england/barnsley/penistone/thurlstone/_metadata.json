@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Thurlstone",
+  "geoname_id": 2635891,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "53.5273",
+    "lon": "-1.64975"
+  },
+  "fuente_oficial": "http://www.geonames.org/2635891"
+}

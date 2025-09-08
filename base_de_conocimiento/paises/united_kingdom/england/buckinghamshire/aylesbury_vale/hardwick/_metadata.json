@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Hardwick",
+  "geoname_id": 7299781,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "ADM4"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.86239",
+    "lon": "-0.83215"
+  },
+  "fuente_oficial": "http://www.geonames.org/7299781"
+}

@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Priston",
+  "geoname_id": 2639883,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPLA3"
+  },
+  "poblacion": 232,
+  "centroide": {
+    "lat": "51.34306",
+    "lon": "-2.43917"
+  },
+  "fuente_oficial": "http://www.geonames.org/2639883"
+}

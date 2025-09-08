@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Friday Bridge",
+  "geoname_id": 12262997,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.62065",
+    "lon": "0.16374"
+  },
+  "fuente_oficial": "http://www.geonames.org/12262997"
+}

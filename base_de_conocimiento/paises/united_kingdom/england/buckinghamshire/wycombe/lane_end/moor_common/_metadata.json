@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Moor Common",
+  "geoname_id": 12261757,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.61142",
+    "lon": "-0.84197"
+  },
+  "fuente_oficial": "http://www.geonames.org/12261757"
+}

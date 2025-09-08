@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Wick",
+  "geoname_id": 6544197,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "50.72757",
+    "lon": "-1.78"
+  },
+  "fuente_oficial": "http://www.geonames.org/6544197"
+}

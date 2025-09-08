@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Midsomer Norton",
+  "geoname_id": 2642557,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 10458,
+  "centroide": {
+    "lat": "51.28567",
+    "lon": "-2.48591"
+  },
+  "fuente_oficial": "http://www.geonames.org/2642557"
+}

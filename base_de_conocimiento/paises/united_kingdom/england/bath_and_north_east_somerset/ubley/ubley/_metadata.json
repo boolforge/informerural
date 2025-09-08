@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Ubley",
+  "geoname_id": 2635245,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 331,
+  "centroide": {
+    "lat": "51.32141",
+    "lon": "-2.678"
+  },
+  "fuente_oficial": "http://www.geonames.org/2635245"
+}

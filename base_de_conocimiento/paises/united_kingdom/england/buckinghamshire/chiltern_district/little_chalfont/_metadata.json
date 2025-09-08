@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Little Chalfont",
+  "geoname_id": 7294233,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "ADM4"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.66216",
+    "lon": "-0.56524"
+  },
+  "fuente_oficial": "http://www.geonames.org/7294233"
+}

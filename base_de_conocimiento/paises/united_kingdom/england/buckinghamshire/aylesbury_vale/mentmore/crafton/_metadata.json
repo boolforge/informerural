@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Crafton",
+  "geoname_id": 13274865,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.86941",
+    "lon": "-0.70666"
+  },
+  "fuente_oficial": "http://www.geonames.org/13274865"
+}

@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Marlow Bottom",
+  "geoname_id": 7298741,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "ADM4"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.59198",
+    "lon": "-0.77722"
+  },
+  "fuente_oficial": "http://www.geonames.org/7298741"
+}

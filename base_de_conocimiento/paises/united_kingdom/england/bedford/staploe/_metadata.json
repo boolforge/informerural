@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Staploe",
+  "geoname_id": 7297809,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "ADM3"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.22308",
+    "lon": "-0.33303"
+  },
+  "fuente_oficial": "http://www.geonames.org/7297809"
+}

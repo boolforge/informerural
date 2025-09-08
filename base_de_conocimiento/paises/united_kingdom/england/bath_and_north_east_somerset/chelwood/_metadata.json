@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Chelwood",
+  "geoname_id": 7290772,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "ADM3"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.35434",
+    "lon": "-2.53262"
+  },
+  "fuente_oficial": "http://www.geonames.org/7290772"
+}

@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "South Cambridgeshire District",
+  "geoname_id": 7290661,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "ADM3"
+  },
+  "poblacion": 156468,
+  "centroide": {
+    "lat": "52.17921",
+    "lon": "0.09467"
+  },
+  "fuente_oficial": "http://www.geonames.org/7290661"
+}

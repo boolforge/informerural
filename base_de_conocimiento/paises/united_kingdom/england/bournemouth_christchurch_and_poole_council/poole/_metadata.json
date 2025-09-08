@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Poole",
+  "geoname_id": 2640101,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 150092,
+  "centroide": {
+    "lat": "50.71429",
+    "lon": "-1.98458"
+  },
+  "fuente_oficial": "http://www.geonames.org/2640101"
+}

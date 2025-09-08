@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Water Stratford",
+  "geoname_id": 12262438,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.00649",
+    "lon": "-1.04976"
+  },
+  "fuente_oficial": "http://www.geonames.org/12262438"
+}

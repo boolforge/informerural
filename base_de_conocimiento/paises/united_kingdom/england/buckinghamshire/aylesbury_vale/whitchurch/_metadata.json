@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Whitchurch",
+  "geoname_id": 7296693,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "ADM4"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.88088",
+    "lon": "-0.82993"
+  },
+  "fuente_oficial": "http://www.geonames.org/7296693"
+}

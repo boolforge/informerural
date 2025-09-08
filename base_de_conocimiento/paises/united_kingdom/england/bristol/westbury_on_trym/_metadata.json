@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Westbury on Trym",
+  "geoname_id": 11550752,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.49239",
+    "lon": "-2.62045"
+  },
+  "fuente_oficial": "http://www.geonames.org/11550752"
+}

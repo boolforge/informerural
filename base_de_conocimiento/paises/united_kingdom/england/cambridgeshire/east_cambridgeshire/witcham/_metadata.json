@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Witcham",
+  "geoname_id": 7291132,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "ADM4"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.41302",
+    "lon": "0.15382"
+  },
+  "fuente_oficial": "http://www.geonames.org/7291132"
+}

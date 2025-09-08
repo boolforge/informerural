@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Bournville",
+  "geoname_id": 2655094,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.41667",
+    "lon": "-1.91667"
+  },
+  "fuente_oficial": "http://www.geonames.org/2655094"
+}

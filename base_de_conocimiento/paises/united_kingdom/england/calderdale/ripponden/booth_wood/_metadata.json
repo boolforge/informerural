@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Booth Wood",
+  "geoname_id": 12265591,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "53.64577",
+    "lon": "-1.95785"
+  },
+  "fuente_oficial": "http://www.geonames.org/12265591"
+}

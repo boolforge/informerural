@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Stoke Poges",
+  "geoname_id": 2636840,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 4204,
+  "centroide": {
+    "lat": "51.54441",
+    "lon": "-0.5888"
+  },
+  "fuente_oficial": "http://www.geonames.org/2636840"
+}

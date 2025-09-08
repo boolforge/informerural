@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Chilton",
+  "geoname_id": 7292869,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "ADM4"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.80024",
+    "lon": "-1.01352"
+  },
+  "fuente_oficial": "http://www.geonames.org/7292869"
+}

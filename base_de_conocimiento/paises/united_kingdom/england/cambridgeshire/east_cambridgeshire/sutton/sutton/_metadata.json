@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Sutton",
+  "geoname_id": 2636498,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 3816,
+  "centroide": {
+    "lat": "52.38804",
+    "lon": "0.11866"
+  },
+  "fuente_oficial": "http://www.geonames.org/2636498"
+}

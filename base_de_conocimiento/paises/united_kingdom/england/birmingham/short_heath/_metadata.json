@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Short Heath",
+  "geoname_id": 11550610,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.53539",
+    "lon": "-1.85673"
+  },
+  "fuente_oficial": "http://www.geonames.org/11550610"
+}

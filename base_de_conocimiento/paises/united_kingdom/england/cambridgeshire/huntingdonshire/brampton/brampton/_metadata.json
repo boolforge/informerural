@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Brampton",
+  "geoname_id": 2654919,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 4862,
+  "centroide": {
+    "lat": "52.32039",
+    "lon": "-0.22007"
+  },
+  "fuente_oficial": "http://www.geonames.org/2654919"
+}

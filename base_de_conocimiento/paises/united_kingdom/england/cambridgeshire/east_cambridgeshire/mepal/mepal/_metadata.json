@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Mepal",
+  "geoname_id": 2642732,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 982,
+  "centroide": {
+    "lat": "52.40425",
+    "lon": "0.11514"
+  },
+  "fuente_oficial": "http://www.geonames.org/2642732"
+}

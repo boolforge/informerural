@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Norton Malreward",
+  "geoname_id": 9884029,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.38791",
+    "lon": "-2.57406"
+  },
+  "fuente_oficial": "http://www.geonames.org/9884029"
+}

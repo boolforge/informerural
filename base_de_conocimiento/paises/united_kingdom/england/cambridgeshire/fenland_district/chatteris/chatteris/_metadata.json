@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Chatteris",
+  "geoname_id": 2653298,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 10298,
+  "centroide": {
+    "lat": "52.45624",
+    "lon": "0.05236"
+  },
+  "fuente_oficial": "http://www.geonames.org/2653298"
+}

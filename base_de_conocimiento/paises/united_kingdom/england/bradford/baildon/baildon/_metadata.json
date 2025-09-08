@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Baildon",
+  "geoname_id": 2656627,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPLA3"
+  },
+  "poblacion": 15710,
+  "centroide": {
+    "lat": "53.84711",
+    "lon": "-1.78785"
+  },
+  "fuente_oficial": "http://www.geonames.org/2656627"
+}

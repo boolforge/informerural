@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Ashendon",
+  "geoname_id": 2656960,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 249,
+  "centroide": {
+    "lat": "51.82172",
+    "lon": "-0.97856"
+  },
+  "fuente_oficial": "http://www.geonames.org/2656960"
+}

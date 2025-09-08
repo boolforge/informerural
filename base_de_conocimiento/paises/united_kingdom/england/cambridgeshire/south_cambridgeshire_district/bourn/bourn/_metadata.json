@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Bourn",
+  "geoname_id": 2655101,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 669,
+  "centroide": {
+    "lat": "52.19246",
+    "lon": "-0.06403"
+  },
+  "fuente_oficial": "http://www.geonames.org/2655101"
+}

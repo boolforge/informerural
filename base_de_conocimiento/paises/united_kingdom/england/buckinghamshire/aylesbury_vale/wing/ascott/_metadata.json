@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Ascott",
+  "geoname_id": 13275515,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.90121",
+    "lon": "-0.70242"
+  },
+  "fuente_oficial": "http://www.geonames.org/13275515"
+}

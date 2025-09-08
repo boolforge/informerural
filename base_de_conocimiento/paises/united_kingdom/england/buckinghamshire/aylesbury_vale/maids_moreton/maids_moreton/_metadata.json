@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Maids Moreton",
+  "geoname_id": 2643180,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.01701",
+    "lon": "-0.97778"
+  },
+  "fuente_oficial": "http://www.geonames.org/2643180"
+}

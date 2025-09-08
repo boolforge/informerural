@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Abbots Ripton",
+  "geoname_id": 7299838,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "ADM4"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.38609",
+    "lon": "-0.19247"
+  },
+  "fuente_oficial": "http://www.geonames.org/7299838"
+}

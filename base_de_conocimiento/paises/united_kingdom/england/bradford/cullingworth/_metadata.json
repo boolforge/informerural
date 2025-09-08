@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Cullingworth",
+  "geoname_id": 7299758,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "ADM3"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "53.82646",
+    "lon": "-1.90757"
+  },
+  "fuente_oficial": "http://www.geonames.org/7299758"
+}

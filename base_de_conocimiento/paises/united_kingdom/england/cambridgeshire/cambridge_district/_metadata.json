@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Cambridge District",
+  "geoname_id": 7290660,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "ADM3"
+  },
+  "poblacion": 131799,
+  "centroide": {
+    "lat": "52.19714",
+    "lon": "0.12823"
+  },
+  "fuente_oficial": "http://www.geonames.org/7290660"
+}

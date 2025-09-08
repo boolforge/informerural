@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Great Marton",
+  "geoname_id": 6694342,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 1603,
+  "centroide": {
+    "lat": "53.81185",
+    "lon": "-3.02261"
+  },
+  "fuente_oficial": "http://www.geonames.org/6694342"
+}

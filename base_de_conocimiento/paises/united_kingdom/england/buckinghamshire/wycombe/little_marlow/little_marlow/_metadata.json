@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Little Marlow",
+  "geoname_id": 2644291,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 1500,
+  "centroide": {
+    "lat": "51.584",
+    "lon": "-0.74046"
+  },
+  "fuente_oficial": "http://www.geonames.org/2644291"
+}

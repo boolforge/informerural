@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Brierley",
+  "geoname_id": 11593109,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "53.59536",
+    "lon": "-1.38102"
+  },
+  "fuente_oficial": "http://www.geonames.org/11593109"
+}

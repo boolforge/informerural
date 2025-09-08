@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Digbeth",
+  "geoname_id": 11887250,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.47702",
+    "lon": "-1.89258"
+  },
+  "fuente_oficial": "http://www.geonames.org/11887250"
+}

@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Turweston",
+  "geoname_id": 12262466,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.03475",
+    "lon": "-1.1246"
+  },
+  "fuente_oficial": "http://www.geonames.org/12262466"
+}

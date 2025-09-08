@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Whiteway",
+  "geoname_id": 12265432,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.46286",
+    "lon": "-2.53274"
+  },
+  "fuente_oficial": "http://www.geonames.org/12265432"
+}

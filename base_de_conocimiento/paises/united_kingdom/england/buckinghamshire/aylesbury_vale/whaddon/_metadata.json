@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Whaddon",
+  "geoname_id": 7299791,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "ADM4"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.99785",
+    "lon": "-0.82868"
+  },
+  "fuente_oficial": "http://www.geonames.org/7299791"
+}

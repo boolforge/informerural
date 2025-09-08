@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Keysoe",
+  "geoname_id": 2645732,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.25161",
+    "lon": "-0.42478"
+  },
+  "fuente_oficial": "http://www.geonames.org/2645732"
+}

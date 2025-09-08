@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Borough of Bury",
+  "geoname_id": 3333136,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "ADM2"
+  },
+  "poblacion": 188669,
+  "centroide": {
+    "lat": "53.58333",
+    "lon": "-2.33333"
+  },
+  "fuente_oficial": "http://www.geonames.org/3333136"
+}

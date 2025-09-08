@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Wimblington",
+  "geoname_id": 2633864,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 4239,
+  "centroide": {
+    "lat": "52.50925",
+    "lon": "0.08416"
+  },
+  "fuente_oficial": "http://www.geonames.org/2633864"
+}

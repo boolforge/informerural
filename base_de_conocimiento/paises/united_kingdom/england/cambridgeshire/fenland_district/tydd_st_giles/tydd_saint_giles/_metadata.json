@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Tydd Saint Giles",
+  "geoname_id": 2635284,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.72818",
+    "lon": "0.11106"
+  },
+  "fuente_oficial": "http://www.geonames.org/2635284"
+}

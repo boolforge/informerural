@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Marlow",
+  "geoname_id": 2643003,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 18261,
+  "centroide": {
+    "lat": "51.56933",
+    "lon": "-0.77415"
+  },
+  "fuente_oficial": "http://www.geonames.org/2643003"
+}

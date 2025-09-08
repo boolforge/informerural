@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Chalfont St Giles",
+  "geoname_id": 2653394,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 7957,
+  "centroide": {
+    "lat": "51.63184",
+    "lon": "-0.57026"
+  },
+  "fuente_oficial": "http://www.geonames.org/2653394"
+}

@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Barton",
+  "geoname_id": 7292934,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "ADM4"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.18894",
+    "lon": "0.05843"
+  },
+  "fuente_oficial": "http://www.geonames.org/7292934"
+}
