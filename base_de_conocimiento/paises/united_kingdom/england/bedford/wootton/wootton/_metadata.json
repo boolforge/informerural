@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Wootton",
+  "geoname_id": 2633575,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPLA3"
+  },
+  "poblacion": 4344,
+  "centroide": {
+    "lat": "52.09525",
+    "lon": "-0.53494"
+  },
+  "fuente_oficial": "http://www.geonames.org/2633575"
+}

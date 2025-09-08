@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Sutton Coldfield",
+  "geoname_id": 2636486,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 107030,
+  "centroide": {
+    "lat": "52.56667",
+    "lon": "-1.81667"
+  },
+  "fuente_oficial": "http://www.geonames.org/2636486"
+}

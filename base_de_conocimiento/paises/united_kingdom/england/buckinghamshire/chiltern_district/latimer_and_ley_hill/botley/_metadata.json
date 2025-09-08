@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Botley",
+  "geoname_id": 12262611,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.71022",
+    "lon": "-0.57767"
+  },
+  "fuente_oficial": "http://www.geonames.org/12262611"
+}

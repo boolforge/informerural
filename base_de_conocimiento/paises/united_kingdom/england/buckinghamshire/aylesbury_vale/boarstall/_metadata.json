@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Boarstall",
+  "geoname_id": 7292867,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "ADM4"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.82224",
+    "lon": "-1.09993"
+  },
+  "fuente_oficial": "http://www.geonames.org/7292867"
+}

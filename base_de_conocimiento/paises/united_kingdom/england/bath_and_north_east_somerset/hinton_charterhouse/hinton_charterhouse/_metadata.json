@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Hinton Charterhouse",
+  "geoname_id": 2646846,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPLA3"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.32377",
+    "lon": "-2.32841"
+  },
+  "fuente_oficial": "http://www.geonames.org/2646846"
+}

@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Wimborne Minster",
+  "geoname_id": 2633863,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 14884,
+  "centroide": {
+    "lat": "50.78333",
+    "lon": "-1.98333"
+  },
+  "fuente_oficial": "http://www.geonames.org/2633863"
+}

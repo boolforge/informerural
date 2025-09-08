@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Inglesbatch",
+  "geoname_id": 13280581,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.35115",
+    "lon": "-2.42572"
+  },
+  "fuente_oficial": "http://www.geonames.org/13280581"
+}

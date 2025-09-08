@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Coombe",
+  "geoname_id": 13275665,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.74787",
+    "lon": "-0.77852"
+  },
+  "fuente_oficial": "http://www.geonames.org/13275665"
+}

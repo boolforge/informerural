@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Middleton",
+  "geoname_id": 2642592,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "53.93333",
+    "lon": "-1.81667"
+  },
+  "fuente_oficial": "http://www.geonames.org/2642592"
+}

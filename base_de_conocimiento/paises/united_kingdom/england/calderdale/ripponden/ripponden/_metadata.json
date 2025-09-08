@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Ripponden",
+  "geoname_id": 2639320,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 4665,
+  "centroide": {
+    "lat": "53.67449",
+    "lon": "-1.94183"
+  },
+  "fuente_oficial": "http://www.geonames.org/2639320"
+}

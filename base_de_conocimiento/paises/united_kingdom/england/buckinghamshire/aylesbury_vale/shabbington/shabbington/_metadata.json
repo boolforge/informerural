@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Shabbington",
+  "geoname_id": 2638162,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 486,
+  "centroide": {
+    "lat": "51.7568",
+    "lon": "-1.03623"
+  },
+  "fuente_oficial": "http://www.geonames.org/2638162"
+}

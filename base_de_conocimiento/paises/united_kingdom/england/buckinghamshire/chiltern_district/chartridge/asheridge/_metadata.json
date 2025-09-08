@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Asheridge",
+  "geoname_id": 9657632,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.73185",
+    "lon": "-0.64315"
+  },
+  "fuente_oficial": "http://www.geonames.org/9657632"
+}

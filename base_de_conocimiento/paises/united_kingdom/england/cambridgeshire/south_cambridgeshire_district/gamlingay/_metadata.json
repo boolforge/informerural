@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Gamlingay",
+  "geoname_id": 7292941,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "ADM4"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.15454",
+    "lon": "-0.19008"
+  },
+  "fuente_oficial": "http://www.geonames.org/7292941"
+}

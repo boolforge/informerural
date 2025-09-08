@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Ickford",
+  "geoname_id": 7292875,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "ADM4"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.76812",
+    "lon": "-1.06011"
+  },
+  "fuente_oficial": "http://www.geonames.org/7292875"
+}

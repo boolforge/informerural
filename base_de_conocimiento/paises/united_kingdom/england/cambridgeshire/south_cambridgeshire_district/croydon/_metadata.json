@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Croydon",
+  "geoname_id": 7294333,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "ADM4"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.13263",
+    "lon": "-0.09429"
+  },
+  "fuente_oficial": "http://www.geonames.org/7294333"
+}

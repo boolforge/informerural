@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Shalstone",
+  "geoname_id": 7299008,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "ADM4"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.03171",
+    "lon": "-1.06541"
+  },
+  "fuente_oficial": "http://www.geonames.org/7299008"
+}

@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Bourne End",
+  "geoname_id": 13275096,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.2342",
+    "lon": "-0.50904"
+  },
+  "fuente_oficial": "http://www.geonames.org/13275096"
+}

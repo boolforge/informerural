@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Soulbury",
+  "geoname_id": 2637506,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 294,
+  "centroide": {
+    "lat": "51.93577",
+    "lon": "-0.71804"
+  },
+  "fuente_oficial": "http://www.geonames.org/2637506"
+}

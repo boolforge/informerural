@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Pensford",
+  "geoname_id": 2640410,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 870,
+  "centroide": {
+    "lat": "51.37111",
+    "lon": "-2.54722"
+  },
+  "fuente_oficial": "http://www.geonames.org/2640410"
+}

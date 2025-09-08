@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Bolton",
+  "geoname_id": 3333128,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "ADM2"
+  },
+  "poblacion": 296041,
+  "centroide": {
+    "lat": "53.58333",
+    "lon": "-2.5"
+  },
+  "fuente_oficial": "http://www.geonames.org/3333128"
+}

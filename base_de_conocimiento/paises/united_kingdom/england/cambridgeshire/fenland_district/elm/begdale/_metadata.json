@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Begdale",
+  "geoname_id": 13276217,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.63506",
+    "lon": "0.14869"
+  },
+  "fuente_oficial": "http://www.geonames.org/13276217"
+}

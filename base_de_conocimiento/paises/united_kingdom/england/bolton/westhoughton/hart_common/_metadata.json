@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Hart Common",
+  "geoname_id": 12266620,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "53.54254",
+    "lon": "-2.5481"
+  },
+  "fuente_oficial": "http://www.geonames.org/12266620"
+}

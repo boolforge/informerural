@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Staploe",
+  "geoname_id": 12265977,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.23243",
+    "lon": "-0.31982"
+  },
+  "fuente_oficial": "http://www.geonames.org/12265977"
+}

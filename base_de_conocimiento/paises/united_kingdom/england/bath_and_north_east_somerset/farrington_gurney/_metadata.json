@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Farrington Gurney",
+  "geoname_id": 7296165,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "ADM3"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.30045",
+    "lon": "-2.53248"
+  },
+  "fuente_oficial": "http://www.geonames.org/7296165"
+}

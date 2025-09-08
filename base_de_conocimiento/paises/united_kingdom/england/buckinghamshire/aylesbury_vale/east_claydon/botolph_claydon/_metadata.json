@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Botolph Claydon",
+  "geoname_id": 2655127,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.91431",
+    "lon": "-0.93577"
+  },
+  "fuente_oficial": "http://www.geonames.org/2655127"
+}

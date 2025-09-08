@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Guyhirn",
+  "geoname_id": 2647742,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 333,
+  "centroide": {
+    "lat": "52.60873",
+    "lon": "0.05948"
+  },
+  "fuente_oficial": "http://www.geonames.org/2647742"
+}

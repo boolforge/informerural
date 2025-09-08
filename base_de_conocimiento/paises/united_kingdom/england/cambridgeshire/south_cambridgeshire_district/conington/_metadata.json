@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Conington",
+  "geoname_id": 7292937,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "ADM4"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.27951",
+    "lon": "-0.05604"
+  },
+  "fuente_oficial": "http://www.geonames.org/7292937"
+}

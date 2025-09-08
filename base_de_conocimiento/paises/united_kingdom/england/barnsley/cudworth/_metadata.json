@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Cudworth",
+  "geoname_id": 2651778,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 11903,
+  "centroide": {
+    "lat": "53.57131",
+    "lon": "-1.41595"
+  },
+  "fuente_oficial": "http://www.geonames.org/2651778"
+}

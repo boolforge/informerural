@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Stanbury",
+  "geoname_id": 12265564,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "53.82918",
+    "lon": "-1.99193"
+  },
+  "fuente_oficial": "http://www.geonames.org/12265564"
+}

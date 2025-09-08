@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Houghton and Wyton",
+  "geoname_id": 7298787,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "ADM4"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.33758",
+    "lon": "-0.12153"
+  },
+  "fuente_oficial": "http://www.geonames.org/7298787"
+}

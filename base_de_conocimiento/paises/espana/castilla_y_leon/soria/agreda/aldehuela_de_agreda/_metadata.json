@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Aldehuela de Ágreda",
+  "geoname_id": 3130460,
+  "codigos_geograficos": {
+    "iso_3166_2": "CL",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "41.82679",
+    "lon": "-1.883"
+  },
+  "fuente_oficial": "http://www.geonames.org/3130460"
+}

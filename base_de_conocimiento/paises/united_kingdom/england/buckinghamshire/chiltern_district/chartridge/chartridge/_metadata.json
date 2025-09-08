@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Chartridge",
+  "geoname_id": 9657631,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.72478",
+    "lon": "-0.65296"
+  },
+  "fuente_oficial": "http://www.geonames.org/9657631"
+}

@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Lower Dean",
+  "geoname_id": 13280714,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.30856",
+    "lon": "-0.45458"
+  },
+  "fuente_oficial": "http://www.geonames.org/13280714"
+}

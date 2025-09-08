@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Perry Barr",
+  "geoname_id": 2640363,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.51581",
+    "lon": "-1.90171"
+  },
+  "fuente_oficial": "http://www.geonames.org/2640363"
+}

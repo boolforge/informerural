@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Stanton Wick",
+  "geoname_id": 8181793,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.35549",
+    "lon": "-2.56072"
+  },
+  "fuente_oficial": "http://www.geonames.org/8181793"
+}

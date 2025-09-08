@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Amersham",
+  "geoname_id": 2657356,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 21731,
+  "centroide": {
+    "lat": "51.66667",
+    "lon": "-0.61667"
+  },
+  "fuente_oficial": "http://www.geonames.org/2657356"
+}

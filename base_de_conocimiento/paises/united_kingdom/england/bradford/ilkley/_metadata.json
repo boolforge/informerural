@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Ilkley",
+  "geoname_id": 7301701,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "ADM3"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "53.92016",
+    "lon": "-1.82348"
+  },
+  "fuente_oficial": "http://www.geonames.org/7301701"
+}

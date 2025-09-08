@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Saltford",
+  "geoname_id": 7296555,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "ADM3"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.40314",
+    "lon": "-2.46073"
+  },
+  "fuente_oficial": "http://www.geonames.org/7296555"
+}

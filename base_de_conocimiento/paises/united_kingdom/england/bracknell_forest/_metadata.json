@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Bracknell Forest",
+  "geoname_id": 3333130,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "ADM2"
+  },
+  "poblacion": 119447,
+  "centroide": {
+    "lat": "51.41667",
+    "lon": "-0.75"
+  },
+  "fuente_oficial": "http://www.geonames.org/3333130"
+}

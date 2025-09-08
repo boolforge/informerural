@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Hamerton",
+  "geoname_id": 2647573,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.40273",
+    "lon": "-0.33186"
+  },
+  "fuente_oficial": "http://www.geonames.org/2647573"
+}

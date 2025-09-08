@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Westlands",
+  "geoname_id": 13273443,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.47472",
+    "lon": "0.26766"
+  },
+  "fuente_oficial": "http://www.geonames.org/13273443"
+}

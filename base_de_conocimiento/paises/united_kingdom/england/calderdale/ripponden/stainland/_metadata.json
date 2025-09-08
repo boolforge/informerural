@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Stainland",
+  "geoname_id": 2637122,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "53.67068",
+    "lon": "-1.88432"
+  },
+  "fuente_oficial": "http://www.geonames.org/2637122"
+}

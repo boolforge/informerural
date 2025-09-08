@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Buckland Common",
+  "geoname_id": 12263826,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.75575",
+    "lon": "-0.66536"
+  },
+  "fuente_oficial": "http://www.geonames.org/12263826"
+}

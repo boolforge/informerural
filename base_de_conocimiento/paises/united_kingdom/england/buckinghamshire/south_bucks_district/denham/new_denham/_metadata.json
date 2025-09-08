@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "New Denham",
+  "geoname_id": 12264768,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 1900,
+  "centroide": {
+    "lat": "51.5541",
+    "lon": "-0.48901"
+  },
+  "fuente_oficial": "http://www.geonames.org/12264768"
+}

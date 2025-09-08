@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Sawtry",
+  "geoname_id": 2638473,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 5252,
+  "centroide": {
+    "lat": "52.43984",
+    "lon": "-0.28422"
+  },
+  "fuente_oficial": "http://www.geonames.org/2638473"
+}

@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Bradenham",
+  "geoname_id": 6941796,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.66597",
+    "lon": "-0.80864"
+  },
+  "fuente_oficial": "http://www.geonames.org/6941796"
+}

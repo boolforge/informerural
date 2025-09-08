@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Ellington",
+  "geoname_id": 2650092,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 585,
+  "centroide": {
+    "lat": "52.33256",
+    "lon": "-0.29938"
+  },
+  "fuente_oficial": "http://www.geonames.org/2650092"
+}

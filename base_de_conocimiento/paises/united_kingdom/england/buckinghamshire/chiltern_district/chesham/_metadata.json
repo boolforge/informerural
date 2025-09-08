@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Chesham",
+  "geoname_id": 7296733,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "ADM4"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.7065",
+    "lon": "-0.60938"
+  },
+  "fuente_oficial": "http://www.geonames.org/7296733"
+}

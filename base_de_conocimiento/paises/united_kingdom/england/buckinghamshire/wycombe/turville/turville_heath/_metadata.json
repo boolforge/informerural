@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Turville Heath",
+  "geoname_id": 13283053,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPLL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.61271",
+    "lon": "-0.92766"
+  },
+  "fuente_oficial": "http://www.geonames.org/13283053"
+}

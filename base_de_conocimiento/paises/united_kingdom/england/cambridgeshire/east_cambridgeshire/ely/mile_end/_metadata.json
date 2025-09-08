@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Mile End",
+  "geoname_id": 13281780,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.42139",
+    "lon": "0.35734"
+  },
+  "fuente_oficial": "http://www.geonames.org/13281780"
+}

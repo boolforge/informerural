@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Woodditton",
+  "geoname_id": 7670880,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.19736",
+    "lon": "0.42933"
+  },
+  "fuente_oficial": "http://www.geonames.org/7670880"
+}

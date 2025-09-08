@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Monkton Combe",
+  "geoname_id": 12265225,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.35803",
+    "lon": "-2.32482"
+  },
+  "fuente_oficial": "http://www.geonames.org/12265225"
+}

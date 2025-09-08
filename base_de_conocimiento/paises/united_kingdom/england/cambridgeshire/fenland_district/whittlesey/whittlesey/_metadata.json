@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Whittlesey",
+  "geoname_id": 2634010,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 12745,
+  "centroide": {
+    "lat": "52.55804",
+    "lon": "-0.13016"
+  },
+  "fuente_oficial": "http://www.geonames.org/2634010"
+}

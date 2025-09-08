@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Bank Fold",
+  "geoname_id": 13276604,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "53.71293",
+    "lon": "-2.42909"
+  },
+  "fuente_oficial": "http://www.geonames.org/13276604"
+}

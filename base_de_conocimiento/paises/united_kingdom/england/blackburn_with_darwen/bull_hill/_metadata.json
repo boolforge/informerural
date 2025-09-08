@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Bull Hill",
+  "geoname_id": 12261894,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "53.66911",
+    "lon": "-2.45009"
+  },
+  "fuente_oficial": "http://www.geonames.org/12261894"
+}

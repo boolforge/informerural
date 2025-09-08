@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Thurleigh",
+  "geoname_id": 2635895,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 694,
+  "centroide": {
+    "lat": "52.21471",
+    "lon": "-0.46354"
+  },
+  "fuente_oficial": "http://www.geonames.org/2635895"
+}

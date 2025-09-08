@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Childerley",
+  "geoname_id": 13281680,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.23631",
+    "lon": "-0.01567"
+  },
+  "fuente_oficial": "http://www.geonames.org/13281680"
+}

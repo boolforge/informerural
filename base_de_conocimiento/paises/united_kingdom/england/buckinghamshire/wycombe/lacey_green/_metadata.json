@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Lacey Green",
+  "geoname_id": 7294245,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "ADM4"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.70055",
+    "lon": "-0.80907"
+  },
+  "fuente_oficial": "http://www.geonames.org/7294245"
+}

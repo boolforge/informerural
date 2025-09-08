@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Sutton Gault",
+  "geoname_id": 13280766,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.39834",
+    "lon": "0.09261"
+  },
+  "fuente_oficial": "http://www.geonames.org/13280766"
+}

@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Quainton",
+  "geoname_id": 2639814,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 913,
+  "centroide": {
+    "lat": "51.87408",
+    "lon": "-0.91727"
+  },
+  "fuente_oficial": "http://www.geonames.org/2639814"
+}

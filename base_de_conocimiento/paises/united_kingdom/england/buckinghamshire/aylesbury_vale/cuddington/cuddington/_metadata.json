@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Cuddington",
+  "geoname_id": 2651781,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 569,
+  "centroide": {
+    "lat": "51.79354",
+    "lon": "-0.93126"
+  },
+  "fuente_oficial": "http://www.geonames.org/2651781"
+}

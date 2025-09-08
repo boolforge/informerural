@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Preston Park",
+  "geoname_id": 2639921,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "50.84557",
+    "lon": "-0.15175"
+  },
+  "fuente_oficial": "http://www.geonames.org/2639921"
+}

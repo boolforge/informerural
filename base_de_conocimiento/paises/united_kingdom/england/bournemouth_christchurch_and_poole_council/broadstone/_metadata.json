@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Broadstone",
+  "geoname_id": 2654634,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 10256,
+  "centroide": {
+    "lat": "50.75717",
+    "lon": "-1.99406"
+  },
+  "fuente_oficial": "http://www.geonames.org/2654634"
+}

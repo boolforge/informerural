@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Hambleden",
+  "geoname_id": 7298737,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "ADM4"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.58409",
+    "lon": "-0.87413"
+  },
+  "fuente_oficial": "http://www.geonames.org/7298737"
+}

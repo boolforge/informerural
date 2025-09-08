@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Combe Hay",
+  "geoname_id": 7290724,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "ADM3"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.34256",
+    "lon": "-2.38821"
+  },
+  "fuente_oficial": "http://www.geonames.org/7290724"
+}

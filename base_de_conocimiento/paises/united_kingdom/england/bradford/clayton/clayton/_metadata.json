@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Clayton",
+  "geoname_id": 2652900,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPLA3"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "53.76667",
+    "lon": "-1.81667"
+  },
+  "fuente_oficial": "http://www.geonames.org/2652900"
+}

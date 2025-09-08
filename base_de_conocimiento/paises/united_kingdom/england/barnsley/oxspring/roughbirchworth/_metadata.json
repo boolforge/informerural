@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Roughbirchworth",
+  "geoname_id": 13280212,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "53.5099",
+    "lon": "-1.60525"
+  },
+  "fuente_oficial": "http://www.geonames.org/13280212"
+}

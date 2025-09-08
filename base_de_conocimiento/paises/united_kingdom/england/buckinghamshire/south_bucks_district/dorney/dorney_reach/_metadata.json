@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Dorney Reach",
+  "geoname_id": 6946034,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 474,
+  "centroide": {
+    "lat": "51.50505",
+    "lon": "-0.68248"
+  },
+  "fuente_oficial": "http://www.geonames.org/6946034"
+}

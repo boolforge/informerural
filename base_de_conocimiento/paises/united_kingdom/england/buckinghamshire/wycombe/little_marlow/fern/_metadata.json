@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Fern",
+  "geoname_id": 13278897,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.58899",
+    "lon": "-0.72817"
+  },
+  "fuente_oficial": "http://www.geonames.org/13278897"
+}

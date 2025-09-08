@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Shortstown",
+  "geoname_id": 11962137,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.11041",
+    "lon": "-0.43036"
+  },
+  "fuente_oficial": "http://www.geonames.org/11962137"
+}

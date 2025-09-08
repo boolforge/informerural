@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Rottingdean",
+  "geoname_id": 7297912,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "ADM3"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "50.81417",
+    "lon": "-0.05501"
+  },
+  "fuente_oficial": "http://www.geonames.org/7297912"
+}

@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Merley",
+  "geoname_id": 8714266,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "50.77929",
+    "lon": "-1.97342"
+  },
+  "fuente_oficial": "http://www.geonames.org/8714266"
+}

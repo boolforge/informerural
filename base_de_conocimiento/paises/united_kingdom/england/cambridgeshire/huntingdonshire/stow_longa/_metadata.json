@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Stow Longa",
+  "geoname_id": 7294278,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "ADM4"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.33011",
+    "lon": "-0.37081"
+  },
+  "fuente_oficial": "http://www.geonames.org/7294278"
+}

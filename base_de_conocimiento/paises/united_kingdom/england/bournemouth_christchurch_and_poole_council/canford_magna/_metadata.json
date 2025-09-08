@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Canford Magna",
+  "geoname_id": 2653894,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "50.78409",
+    "lon": "-1.95555"
+  },
+  "fuente_oficial": "http://www.geonames.org/2653894"
+}

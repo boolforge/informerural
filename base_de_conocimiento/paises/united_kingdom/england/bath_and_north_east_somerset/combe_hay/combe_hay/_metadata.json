@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Combe Hay",
+  "geoname_id": 12265659,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.33805",
+    "lon": "-2.38213"
+  },
+  "fuente_oficial": "http://www.geonames.org/12265659"
+}

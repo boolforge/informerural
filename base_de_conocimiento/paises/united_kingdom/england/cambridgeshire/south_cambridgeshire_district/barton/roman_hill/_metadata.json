@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Roman Hill",
+  "geoname_id": 12261863,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.18131",
+    "lon": "0.06634"
+  },
+  "fuente_oficial": "http://www.geonames.org/12261863"
+}

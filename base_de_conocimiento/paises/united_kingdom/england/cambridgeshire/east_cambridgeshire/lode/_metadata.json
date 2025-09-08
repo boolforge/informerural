@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Lode",
+  "geoname_id": 7294261,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "ADM4"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.25546",
+    "lon": "0.24203"
+  },
+  "fuente_oficial": "http://www.geonames.org/7294261"
+}

@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Thornton",
+  "geoname_id": 7298714,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "ADM4"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.01594",
+    "lon": "-0.89847"
+  },
+  "fuente_oficial": "http://www.geonames.org/7298714"
+}

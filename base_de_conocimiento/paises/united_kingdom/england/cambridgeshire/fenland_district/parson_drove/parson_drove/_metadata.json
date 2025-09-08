@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Parson Drove",
+  "geoname_id": 7670883,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 828,
+  "centroide": {
+    "lat": "52.6565",
+    "lon": "0.02378"
+  },
+  "fuente_oficial": "http://www.geonames.org/7670883"
+}

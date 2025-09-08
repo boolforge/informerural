@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Four Gotes",
+  "geoname_id": 12261820,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.72414",
+    "lon": "0.1459"
+  },
+  "fuente_oficial": "http://www.geonames.org/12261820"
+}

@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Holme",
+  "geoname_id": 2646731,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 636,
+  "centroide": {
+    "lat": "52.47585",
+    "lon": "-0.24535"
+  },
+  "fuente_oficial": "http://www.geonames.org/2646731"
+}

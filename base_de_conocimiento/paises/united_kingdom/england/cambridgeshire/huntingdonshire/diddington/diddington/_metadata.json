@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Diddington",
+  "geoname_id": 2651268,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.27688",
+    "lon": "-0.25839"
+  },
+  "fuente_oficial": "http://www.geonames.org/2651268"
+}

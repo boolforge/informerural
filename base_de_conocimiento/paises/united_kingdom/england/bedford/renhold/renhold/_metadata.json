@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Renhold",
+  "geoname_id": 11962630,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.16309",
+    "lon": "-0.40323"
+  },
+  "fuente_oficial": "http://www.geonames.org/11962630"
+}

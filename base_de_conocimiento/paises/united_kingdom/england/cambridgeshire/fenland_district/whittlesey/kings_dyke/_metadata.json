@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "King's Dyke",
+  "geoname_id": 12266029,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.55417",
+    "lon": "-0.17535"
+  },
+  "fuente_oficial": "http://www.geonames.org/12266029"
+}

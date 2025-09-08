@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Stony Littleton",
+  "geoname_id": 13283755,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPLL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.3064",
+    "lon": "-2.39111"
+  },
+  "fuente_oficial": "http://www.geonames.org/13283755"
+}

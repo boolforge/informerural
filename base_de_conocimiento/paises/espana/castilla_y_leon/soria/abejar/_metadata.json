@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Abejar",
+  "geoname_id": 6361061,
+  "codigos_geograficos": {
+    "iso_3166_2": "CL",
+    "fcode": "ADM3"
+  },
+  "poblacion": 367,
+  "centroide": {
+    "lat": "41.80009",
+    "lon": "-2.7808"
+  },
+  "fuente_oficial": "http://www.geonames.org/6361061"
+}

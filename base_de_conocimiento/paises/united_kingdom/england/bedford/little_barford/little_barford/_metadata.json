@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Little Barford",
+  "geoname_id": 2644378,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPLA3"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.19898",
+    "lon": "-0.2729"
+  },
+  "fuente_oficial": "http://www.geonames.org/2644378"
+}

@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Cardington",
+  "geoname_id": 7291585,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "ADM3"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.11093",
+    "lon": "-0.40249"
+  },
+  "fuente_oficial": "http://www.geonames.org/7291585"
+}

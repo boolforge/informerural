@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Bartlow",
+  "geoname_id": 7294285,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "ADM4"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.08403",
+    "lon": "0.32044"
+  },
+  "fuente_oficial": "http://www.geonames.org/7294285"
+}

@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Jump",
+  "geoname_id": 12262004,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "53.50712",
+    "lon": "-1.42838"
+  },
+  "fuente_oficial": "http://www.geonames.org/12262004"
+}

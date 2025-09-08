@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Bedford",
+  "geoname_id": 7290534,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "ADM2"
+  },
+  "poblacion": 168751,
+  "centroide": {
+    "lat": "52.18831",
+    "lon": "-0.45316"
+  },
+  "fuente_oficial": "http://www.geonames.org/7290534"
+}

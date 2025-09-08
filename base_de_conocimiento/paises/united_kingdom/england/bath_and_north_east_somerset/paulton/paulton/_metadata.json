@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Paulton",
+  "geoname_id": 2640559,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPLA3"
+  },
+  "poblacion": 4873,
+  "centroide": {
+    "lat": "51.30472",
+    "lon": "-2.50028"
+  },
+  "fuente_oficial": "http://www.geonames.org/2640559"
+}

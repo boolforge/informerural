@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Flackwell Heath",
+  "geoname_id": 12217158,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 5900,
+  "centroide": {
+    "lat": "51.59757",
+    "lon": "-0.70601"
+  },
+  "fuente_oficial": "http://www.geonames.org/12217158"
+}

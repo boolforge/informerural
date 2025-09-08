@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Rootham's Green",
+  "geoname_id": 13281193,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.20428",
+    "lon": "-0.39047"
+  },
+  "fuente_oficial": "http://www.geonames.org/13281193"
+}

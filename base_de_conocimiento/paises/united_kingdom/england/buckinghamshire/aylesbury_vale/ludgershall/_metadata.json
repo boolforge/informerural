@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Ludgershall",
+  "geoname_id": 7298711,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "ADM4"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.85872",
+    "lon": "-1.03662"
+  },
+  "fuente_oficial": "http://www.geonames.org/7298711"
+}

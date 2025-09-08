@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Turville",
+  "geoname_id": 2635326,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.61381",
+    "lon": "-0.8932"
+  },
+  "fuente_oficial": "http://www.geonames.org/2635326"
+}

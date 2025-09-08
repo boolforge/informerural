@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "The City",
+  "geoname_id": 12262070,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.66052",
+    "lon": "-0.85578"
+  },
+  "fuente_oficial": "http://www.geonames.org/12262070"
+}

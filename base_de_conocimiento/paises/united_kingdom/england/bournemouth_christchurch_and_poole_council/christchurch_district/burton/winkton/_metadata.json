@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Winkton",
+  "geoname_id": 6951033,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "50.76418",
+    "lon": "-1.77195"
+  },
+  "fuente_oficial": "http://www.geonames.org/6951033"
+}

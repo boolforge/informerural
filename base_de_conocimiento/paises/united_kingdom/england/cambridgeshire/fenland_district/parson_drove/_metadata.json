@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Parson Drove",
+  "geoname_id": 7296374,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "ADM4"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.65565",
+    "lon": "0.02062"
+  },
+  "fuente_oficial": "http://www.geonames.org/7296374"
+}

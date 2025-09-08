@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Drayton Parslow",
+  "geoname_id": 6950941,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 614,
+  "centroide": {
+    "lat": "51.94934",
+    "lon": "-0.78046"
+  },
+  "fuente_oficial": "http://www.geonames.org/6950941"
+}

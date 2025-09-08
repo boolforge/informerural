@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Buckinghamshire",
+  "geoname_id": 2654408,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "ADM2"
+  },
+  "poblacion": 852589,
+  "centroide": {
+    "lat": "51.75",
+    "lon": "-0.75"
+  },
+  "fuente_oficial": "http://www.geonames.org/2654408"
+}

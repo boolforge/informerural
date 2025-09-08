@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Ibstone",
+  "geoname_id": 2646310,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.6364",
+    "lon": "-0.9129"
+  },
+  "fuente_oficial": "http://www.geonames.org/2646310"
+}

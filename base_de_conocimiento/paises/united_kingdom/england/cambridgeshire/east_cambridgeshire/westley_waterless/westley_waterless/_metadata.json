@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Westley Waterless",
+  "geoname_id": 2634362,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.18183",
+    "lon": "0.36671"
+  },
+  "fuente_oficial": "http://www.geonames.org/2634362"
+}

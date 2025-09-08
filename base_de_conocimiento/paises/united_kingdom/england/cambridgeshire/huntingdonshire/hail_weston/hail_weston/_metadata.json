@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Hail Weston",
+  "geoname_id": 2647654,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 610,
+  "centroide": {
+    "lat": "52.24541",
+    "lon": "-0.29431"
+  },
+  "fuente_oficial": "http://www.geonames.org/2647654"
+}

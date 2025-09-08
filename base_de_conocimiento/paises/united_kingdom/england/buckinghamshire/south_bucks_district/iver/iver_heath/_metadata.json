@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Iver Heath",
+  "geoname_id": 7290170,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 8065,
+  "centroide": {
+    "lat": "51.53642",
+    "lon": "-0.5179"
+  },
+  "fuente_oficial": "http://www.geonames.org/7290170"
+}

@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Bellingdon",
+  "geoname_id": 9657328,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.73801",
+    "lon": "-0.63589"
+  },
+  "fuente_oficial": "http://www.geonames.org/9657328"
+}

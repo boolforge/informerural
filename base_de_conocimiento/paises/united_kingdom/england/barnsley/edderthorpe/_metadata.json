@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Edderthorpe",
+  "geoname_id": 13280542,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "53.54725",
+    "lon": "-1.38098"
+  },
+  "fuente_oficial": "http://www.geonames.org/13280542"
+}

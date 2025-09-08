@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Lower Hartwell",
+  "geoname_id": 6693077,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.80601",
+    "lon": "-0.84981"
+  },
+  "fuente_oficial": "http://www.geonames.org/6693077"
+}

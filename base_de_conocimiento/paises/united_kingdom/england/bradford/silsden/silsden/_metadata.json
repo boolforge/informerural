@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Silsden",
+  "geoname_id": 2637833,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 7912,
+  "centroide": {
+    "lat": "53.91443",
+    "lon": "-1.93802"
+  },
+  "fuente_oficial": "http://www.geonames.org/2637833"
+}

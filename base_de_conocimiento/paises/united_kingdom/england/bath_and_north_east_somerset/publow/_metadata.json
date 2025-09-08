@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Publow",
+  "geoname_id": 7298318,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "ADM3"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.37589",
+    "lon": "-2.54426"
+  },
+  "fuente_oficial": "http://www.geonames.org/7298318"
+}

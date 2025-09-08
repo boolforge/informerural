@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Upper Baggeridge",
+  "geoname_id": 13282192,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.31035",
+    "lon": "-2.36295"
+  },
+  "fuente_oficial": "http://www.geonames.org/13282192"
+}

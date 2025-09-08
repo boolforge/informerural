@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Eltisley",
+  "geoname_id": 2650041,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 401,
+  "centroide": {
+    "lat": "52.22094",
+    "lon": "-0.14269"
+  },
+  "fuente_oficial": "http://www.geonames.org/2650041"
+}

@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Nether Winchendon",
+  "geoname_id": 7299784,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "ADM4"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.80645",
+    "lon": "-0.94605"
+  },
+  "fuente_oficial": "http://www.geonames.org/7299784"
+}

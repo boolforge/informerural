@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Coton",
+  "geoname_id": 2652275,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 910,
+  "centroide": {
+    "lat": "52.21058",
+    "lon": "0.06094"
+  },
+  "fuente_oficial": "http://www.geonames.org/2652275"
+}

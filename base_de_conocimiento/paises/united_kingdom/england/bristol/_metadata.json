@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Bristol",
+  "geoname_id": 3333134,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "ADM2"
+  },
+  "poblacion": 454213,
+  "centroide": {
+    "lat": "51.45",
+    "lon": "-2.6"
+  },
+  "fuente_oficial": "http://www.geonames.org/3333134"
+}

@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Radstock",
+  "geoname_id": 2639715,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 5275,
+  "centroide": {
+    "lat": "51.292",
+    "lon": "-2.445"
+  },
+  "fuente_oficial": "http://www.geonames.org/2639715"
+}

@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Birmingham",
+  "geoname_id": 2655603,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPLA2"
+  },
+  "poblacion": 1144919,
+  "centroide": {
+    "lat": "52.48142",
+    "lon": "-1.89983"
+  },
+  "fuente_oficial": "http://www.geonames.org/2655603"
+}

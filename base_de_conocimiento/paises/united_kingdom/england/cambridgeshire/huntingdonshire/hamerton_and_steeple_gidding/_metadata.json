@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Hamerton and Steeple Gidding",
+  "geoname_id": 7290775,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "ADM4"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.40755",
+    "lon": "-0.33559"
+  },
+  "fuente_oficial": "http://www.geonames.org/7290775"
+}

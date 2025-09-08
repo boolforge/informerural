@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Maiden's Green",
+  "geoname_id": 12266585,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.44397",
+    "lon": "-0.7122"
+  },
+  "fuente_oficial": "http://www.geonames.org/12266585"
+}

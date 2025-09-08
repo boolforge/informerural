@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Comberton",
+  "geoname_id": 2652502,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 2346,
+  "centroide": {
+    "lat": "52.18709",
+    "lon": "0.01905"
+  },
+  "fuente_oficial": "http://www.geonames.org/2652502"
+}

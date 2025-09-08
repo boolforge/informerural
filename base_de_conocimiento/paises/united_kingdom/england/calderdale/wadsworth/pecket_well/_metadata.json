@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Pecket Well",
+  "geoname_id": 12263361,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "53.76421",
+    "lon": "-2.00867"
+  },
+  "fuente_oficial": "http://www.geonames.org/12263361"
+}

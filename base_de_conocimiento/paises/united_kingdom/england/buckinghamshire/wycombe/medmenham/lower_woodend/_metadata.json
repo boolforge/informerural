@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Lower Woodend",
+  "geoname_id": 13279724,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.57861",
+    "lon": "-0.82202"
+  },
+  "fuente_oficial": "http://www.geonames.org/13279724"
+}

@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Mursley",
+  "geoname_id": 2641950,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 611,
+  "centroide": {
+    "lat": "51.94961",
+    "lon": "-0.81161"
+  },
+  "fuente_oficial": "http://www.geonames.org/2641950"
+}

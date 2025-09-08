@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Long Stow",
+  "geoname_id": 2643630,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.32566",
+    "lon": "-0.37495"
+  },
+  "fuente_oficial": "http://www.geonames.org/2643630"
+}

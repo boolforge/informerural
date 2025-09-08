@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Riseley",
+  "geoname_id": 2639313,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPLA3"
+  },
+  "poblacion": 1286,
+  "centroide": {
+    "lat": "52.25213",
+    "lon": "-0.47928"
+  },
+  "fuente_oficial": "http://www.geonames.org/2639313"
+}

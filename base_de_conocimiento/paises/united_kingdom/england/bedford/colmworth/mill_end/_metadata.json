@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Mill End",
+  "geoname_id": 13282760,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPLL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.20369",
+    "lon": "-0.37447"
+  },
+  "fuente_oficial": "http://www.geonames.org/13282760"
+}

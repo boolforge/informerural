@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Stubbins",
+  "geoname_id": 2636604,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "53.65",
+    "lon": "-2.31667"
+  },
+  "fuente_oficial": "http://www.geonames.org/2636604"
+}

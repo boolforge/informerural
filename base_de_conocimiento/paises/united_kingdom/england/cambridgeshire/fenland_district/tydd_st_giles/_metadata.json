@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Tydd St. Giles",
+  "geoname_id": 7299833,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "ADM4"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.71887",
+    "lon": "0.09865"
+  },
+  "fuente_oficial": "http://www.geonames.org/7299833"
+}

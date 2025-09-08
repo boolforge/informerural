@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Twyford",
+  "geoname_id": 7291189,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "ADM4"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.93018",
+    "lon": "-1.03302"
+  },
+  "fuente_oficial": "http://www.geonames.org/7291189"
+}

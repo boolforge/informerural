@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Saint Ives",
+  "geoname_id": 7299850,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "ADM4"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.33488",
+    "lon": "-0.07093"
+  },
+  "fuente_oficial": "http://www.geonames.org/7299850"
+}

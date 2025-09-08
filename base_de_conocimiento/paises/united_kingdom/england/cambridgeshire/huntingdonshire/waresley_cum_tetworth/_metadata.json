@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Waresley-cum-Tetworth",
+  "geoname_id": 7292932,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "ADM4"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.17463",
+    "lon": "-0.20564"
+  },
+  "fuente_oficial": "http://www.geonames.org/7292932"
+}

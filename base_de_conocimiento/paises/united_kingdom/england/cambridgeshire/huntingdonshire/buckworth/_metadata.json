@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Buckworth",
+  "geoname_id": 7298780,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "ADM4"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.37863",
+    "lon": "-0.30939"
+  },
+  "fuente_oficial": "http://www.geonames.org/7298780"
+}

@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Keynsham",
+  "geoname_id": 7296076,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "ADM3"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.41251",
+    "lon": "-2.49775"
+  },
+  "fuente_oficial": "http://www.geonames.org/7296076"
+}

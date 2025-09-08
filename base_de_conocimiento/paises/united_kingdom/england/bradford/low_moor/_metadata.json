@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Low Moor",
+  "geoname_id": 2643479,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "53.75439",
+    "lon": "-1.76219"
+  },
+  "fuente_oficial": "http://www.geonames.org/2643479"
+}

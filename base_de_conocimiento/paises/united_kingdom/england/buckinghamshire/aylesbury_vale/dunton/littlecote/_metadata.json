@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Littlecote",
+  "geoname_id": 10377173,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.91346",
+    "lon": "-0.79694"
+  },
+  "fuente_oficial": "http://www.geonames.org/10377173"
+}

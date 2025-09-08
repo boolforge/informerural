@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Hebden Royd",
+  "geoname_id": 7296187,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "ADM3"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "53.7131",
+    "lon": "-2.0024"
+  },
+  "fuente_oficial": "http://www.geonames.org/7296187"
+}

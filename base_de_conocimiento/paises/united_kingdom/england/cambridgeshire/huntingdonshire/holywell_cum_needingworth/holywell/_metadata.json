@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Holywell",
+  "geoname_id": 2646674,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 326,
+  "centroide": {
+    "lat": "52.31667",
+    "lon": "-0.03333"
+  },
+  "fuente_oficial": "http://www.geonames.org/2646674"
+}

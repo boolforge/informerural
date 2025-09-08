@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Flappit Spring",
+  "geoname_id": 13280356,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "53.82659",
+    "lon": "-1.92289"
+  },
+  "fuente_oficial": "http://www.geonames.org/13280356"
+}

@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Witchford",
+  "geoname_id": 2633751,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 2385,
+  "centroide": {
+    "lat": "52.38699",
+    "lon": "0.20602"
+  },
+  "fuente_oficial": "http://www.geonames.org/2633751"
+}

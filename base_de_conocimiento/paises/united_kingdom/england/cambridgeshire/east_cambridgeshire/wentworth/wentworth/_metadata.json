@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Wentworth",
+  "geoname_id": 11902774,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPLA4"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.38526",
+    "lon": "0.17452"
+  },
+  "fuente_oficial": "http://www.geonames.org/11902774"
+}

@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "River Bank",
+  "geoname_id": 13283928,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPLL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.29712",
+    "lon": "0.2449"
+  },
+  "fuente_oficial": "http://www.geonames.org/13283928"
+}

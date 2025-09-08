@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Soyland Town",
+  "geoname_id": 12265410,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "53.68198",
+    "lon": "-1.94665"
+  },
+  "fuente_oficial": "http://www.geonames.org/12265410"
+}

@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Fulbourn",
+  "geoname_id": 2649000,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPLA4"
+  },
+  "poblacion": 3725,
+  "centroide": {
+    "lat": "52.18283",
+    "lon": "0.22046"
+  },
+  "fuente_oficial": "http://www.geonames.org/2649000"
+}

@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Baker's Wood",
+  "geoname_id": 12266631,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.57138",
+    "lon": "-0.51708"
+  },
+  "fuente_oficial": "http://www.geonames.org/12266631"
+}

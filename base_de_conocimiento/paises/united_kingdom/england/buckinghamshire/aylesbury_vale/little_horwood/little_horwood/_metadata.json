@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Little Horwood",
+  "geoname_id": 2644308,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.96865",
+    "lon": "-0.84912"
+  },
+  "fuente_oficial": "http://www.geonames.org/2644308"
+}

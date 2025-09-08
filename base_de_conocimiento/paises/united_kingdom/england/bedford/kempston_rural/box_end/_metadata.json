@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Box End",
+  "geoname_id": 12265627,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.13109",
+    "lon": "-0.52865"
+  },
+  "fuente_oficial": "http://www.geonames.org/12265627"
+}

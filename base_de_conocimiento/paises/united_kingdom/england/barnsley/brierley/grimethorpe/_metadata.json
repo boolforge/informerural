@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Grimethorpe",
+  "geoname_id": 7302133,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 4672,
+  "centroide": {
+    "lat": "53.5765",
+    "lon": "-1.37688"
+  },
+  "fuente_oficial": "http://www.geonames.org/7302133"
+}

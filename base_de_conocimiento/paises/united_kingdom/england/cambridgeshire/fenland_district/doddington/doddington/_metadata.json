@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Doddington",
+  "geoname_id": 2651181,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 3235,
+  "centroide": {
+    "lat": "52.49671",
+    "lon": "0.06017"
+  },
+  "fuente_oficial": "http://www.geonames.org/2651181"
+}

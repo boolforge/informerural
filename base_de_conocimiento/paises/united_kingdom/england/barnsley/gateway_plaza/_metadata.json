@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Gateway Plaza",
+  "geoname_id": 13284046,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPLL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "53.55349",
+    "lon": "-1.48699"
+  },
+  "fuente_oficial": "http://www.geonames.org/13284046"
+}

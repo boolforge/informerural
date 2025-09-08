@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Buckworth",
+  "geoname_id": 12266326,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.37726",
+    "lon": "-0.31382"
+  },
+  "fuente_oficial": "http://www.geonames.org/12266326"
+}

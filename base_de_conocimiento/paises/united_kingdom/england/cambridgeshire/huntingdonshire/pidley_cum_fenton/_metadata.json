@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Pidley cum Fenton",
+  "geoname_id": 7298796,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "ADM4"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.38779",
+    "lon": "-0.03819"
+  },
+  "fuente_oficial": "http://www.geonames.org/7298796"
+}

@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Fen Drayton",
+  "geoname_id": 11592809,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.29599",
+    "lon": "-0.0388"
+  },
+  "fuente_oficial": "http://www.geonames.org/11592809"
+}

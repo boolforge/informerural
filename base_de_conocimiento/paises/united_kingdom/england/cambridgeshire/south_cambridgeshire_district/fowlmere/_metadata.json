@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Fowlmere",
+  "geoname_id": 7292940,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "ADM4"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.08296",
+    "lon": "0.07477"
+  },
+  "fuente_oficial": "http://www.geonames.org/7292940"
+}

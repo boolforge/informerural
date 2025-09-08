@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Littleport",
+  "geoname_id": 2644268,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 7935,
+  "centroide": {
+    "lat": "52.45784",
+    "lon": "0.30603"
+  },
+  "fuente_oficial": "http://www.geonames.org/2644268"
+}

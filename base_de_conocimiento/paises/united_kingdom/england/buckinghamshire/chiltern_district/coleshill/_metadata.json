@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Coleshill",
+  "geoname_id": 7291042,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "ADM4"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.64418",
+    "lon": "-0.62188"
+  },
+  "fuente_oficial": "http://www.geonames.org/7291042"
+}

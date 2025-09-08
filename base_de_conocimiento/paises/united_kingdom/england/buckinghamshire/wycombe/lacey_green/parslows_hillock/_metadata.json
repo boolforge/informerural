@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Parslow's Hillock",
+  "geoname_id": 13274859,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.70997",
+    "lon": "-0.8045"
+  },
+  "fuente_oficial": "http://www.geonames.org/13274859"
+}

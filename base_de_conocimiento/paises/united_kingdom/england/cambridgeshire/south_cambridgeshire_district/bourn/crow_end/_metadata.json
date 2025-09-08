@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Crow End",
+  "geoname_id": 12263562,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.20049",
+    "lon": "-0.05692"
+  },
+  "fuente_oficial": "http://www.geonames.org/12263562"
+}

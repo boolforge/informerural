@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Tankersley",
+  "geoname_id": 2636260,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "53.49096",
+    "lon": "-1.48697"
+  },
+  "fuente_oficial": "http://www.geonames.org/2636260"
+}

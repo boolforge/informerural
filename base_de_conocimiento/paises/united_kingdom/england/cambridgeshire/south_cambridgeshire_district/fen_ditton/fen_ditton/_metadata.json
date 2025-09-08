@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Fen Ditton",
+  "geoname_id": 11887938,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.22029",
+    "lon": "0.17273"
+  },
+  "fuente_oficial": "http://www.geonames.org/11887938"
+}

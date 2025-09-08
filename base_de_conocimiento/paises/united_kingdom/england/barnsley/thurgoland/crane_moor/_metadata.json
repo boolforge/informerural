@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Crane Moor",
+  "geoname_id": 12265400,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "53.50885",
+    "lon": "-1.54069"
+  },
+  "fuente_oficial": "http://www.geonames.org/12265400"
+}

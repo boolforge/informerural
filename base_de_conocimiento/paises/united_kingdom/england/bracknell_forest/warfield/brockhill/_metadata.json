@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Brockhill",
+  "geoname_id": 12266675,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.43893",
+    "lon": "-0.71743"
+  },
+  "fuente_oficial": "http://www.geonames.org/12266675"
+}

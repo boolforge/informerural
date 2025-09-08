@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Bearwood",
+  "geoname_id": 12261970,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "50.77048",
+    "lon": "-1.92836"
+  },
+  "fuente_oficial": "http://www.geonames.org/12261970"
+}

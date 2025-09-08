@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Dodworth",
+  "geoname_id": 2651172,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 5870,
+  "centroide": {
+    "lat": "53.54306",
+    "lon": "-1.52779"
+  },
+  "fuente_oficial": "http://www.geonames.org/2651172"
+}

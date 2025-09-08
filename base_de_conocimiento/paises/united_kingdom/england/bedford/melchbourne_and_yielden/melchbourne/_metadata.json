@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Melchbourne",
+  "geoname_id": 2642795,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.28018",
+    "lon": "-0.49327"
+  },
+  "fuente_oficial": "http://www.geonames.org/2642795"
+}

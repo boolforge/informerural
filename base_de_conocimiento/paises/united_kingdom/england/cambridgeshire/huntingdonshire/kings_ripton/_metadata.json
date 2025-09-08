@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Kings Ripton",
+  "geoname_id": 7290781,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "ADM4"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.3713",
+    "lon": "-0.15645"
+  },
+  "fuente_oficial": "http://www.geonames.org/7290781"
+}

@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Rose Hill",
+  "geoname_id": 13265744,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.54613",
+    "lon": "-0.67378"
+  },
+  "fuente_oficial": "http://www.geonames.org/13265744"
+}

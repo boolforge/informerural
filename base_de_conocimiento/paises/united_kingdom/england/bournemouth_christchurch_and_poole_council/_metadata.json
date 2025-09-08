@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Bournemouth, Christchurch and Poole Council",
+  "geoname_id": 12165737,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "ADM2"
+  },
+  "poblacion": 395784,
+  "centroide": {
+    "lat": "50.73151",
+    "lon": "-1.90703"
+  },
+  "fuente_oficial": "http://www.geonames.org/12165737"
+}

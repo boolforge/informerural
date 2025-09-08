@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Old Weston",
+  "geoname_id": 7294275,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "ADM4"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.39033",
+    "lon": "-0.38909"
+  },
+  "fuente_oficial": "http://www.geonames.org/7294275"
+}

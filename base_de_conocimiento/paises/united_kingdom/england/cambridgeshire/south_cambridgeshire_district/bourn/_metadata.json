@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Bourn",
+  "geoname_id": 7294286,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "ADM4"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.19199",
+    "lon": "-0.05514"
+  },
+  "fuente_oficial": "http://www.geonames.org/7294286"
+}

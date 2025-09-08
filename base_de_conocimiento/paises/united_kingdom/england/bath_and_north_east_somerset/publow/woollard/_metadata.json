@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Woollard",
+  "geoname_id": 9884024,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.37915",
+    "lon": "-2.53527"
+  },
+  "fuente_oficial": "http://www.geonames.org/9884024"
+}

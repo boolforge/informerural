@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Milton Ernest",
+  "geoname_id": 2642467,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 761,
+  "centroide": {
+    "lat": "52.19302",
+    "lon": "-0.5114"
+  },
+  "fuente_oficial": "http://www.geonames.org/2642467"
+}

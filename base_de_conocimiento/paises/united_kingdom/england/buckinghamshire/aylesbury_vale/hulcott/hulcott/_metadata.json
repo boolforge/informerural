@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Hulcott",
+  "geoname_id": 2646447,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.84214",
+    "lon": "-0.76398"
+  },
+  "fuente_oficial": "http://www.geonames.org/2646447"
+}

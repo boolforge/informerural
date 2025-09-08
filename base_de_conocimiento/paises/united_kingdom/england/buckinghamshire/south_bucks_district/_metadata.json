@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "South Bucks District",
+  "geoname_id": 7290659,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "ADM3"
+  },
+  "poblacion": 69636,
+  "centroide": {
+    "lat": "51.55964",
+    "lon": "-0.58855"
+  },
+  "fuente_oficial": "http://www.geonames.org/7290659"
+}

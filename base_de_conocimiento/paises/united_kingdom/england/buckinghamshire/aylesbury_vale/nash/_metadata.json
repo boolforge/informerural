@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Nash",
+  "geoname_id": 7296370,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "ADM4"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.00122",
+    "lon": "-0.86669"
+  },
+  "fuente_oficial": "http://www.geonames.org/7296370"
+}

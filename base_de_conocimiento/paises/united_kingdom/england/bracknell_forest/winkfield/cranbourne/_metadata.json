@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Cranbourne",
+  "geoname_id": 12266571,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.44579",
+    "lon": "-0.67174"
+  },
+  "fuente_oficial": "http://www.geonames.org/12266571"
+}

@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Huntingdonshire",
+  "geoname_id": 2646390,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "ADM3"
+  },
+  "poblacion": 175666,
+  "centroide": {
+    "lat": "52.41667",
+    "lon": "-0.25"
+  },
+  "fuente_oficial": "http://www.geonames.org/2646390"
+}

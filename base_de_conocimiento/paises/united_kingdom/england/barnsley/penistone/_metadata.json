@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Penistone",
+  "geoname_id": 7299738,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "ADM3"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "53.52974",
+    "lon": "-1.63699"
+  },
+  "fuente_oficial": "http://www.geonames.org/7299738"
+}

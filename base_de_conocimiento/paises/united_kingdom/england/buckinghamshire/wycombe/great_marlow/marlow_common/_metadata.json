@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Marlow Common",
+  "geoname_id": 13282417,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPLL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.57494",
+    "lon": "-0.81321"
+  },
+  "fuente_oficial": "http://www.geonames.org/13282417"
+}

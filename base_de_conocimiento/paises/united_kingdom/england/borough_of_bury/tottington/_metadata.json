@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Tottington",
+  "geoname_id": 2635604,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 7713,
+  "centroide": {
+    "lat": "53.61326",
+    "lon": "-2.34071"
+  },
+  "fuente_oficial": "http://www.geonames.org/2635604"
+}

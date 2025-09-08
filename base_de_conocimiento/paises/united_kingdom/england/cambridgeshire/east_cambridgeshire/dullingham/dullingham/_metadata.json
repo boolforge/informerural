@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Dullingham",
+  "geoname_id": 2650808,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.19493",
+    "lon": "0.38366"
+  },
+  "fuente_oficial": "http://www.geonames.org/2650808"
+}

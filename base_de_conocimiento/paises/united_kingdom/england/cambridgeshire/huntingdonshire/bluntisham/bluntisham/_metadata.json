@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Bluntisham",
+  "geoname_id": 2655320,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 2868,
+  "centroide": {
+    "lat": "52.35479",
+    "lon": "0.00854"
+  },
+  "fuente_oficial": "http://www.geonames.org/2655320"
+}

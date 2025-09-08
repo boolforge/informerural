@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Slack",
+  "geoname_id": 12261919,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "53.75526",
+    "lon": "-2.04367"
+  },
+  "fuente_oficial": "http://www.geonames.org/12261919"
+}

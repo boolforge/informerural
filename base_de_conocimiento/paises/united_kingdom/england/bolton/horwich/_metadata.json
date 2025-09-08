@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Horwich",
+  "geoname_id": 7299757,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "ADM3"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "53.60307",
+    "lon": "-2.52379"
+  },
+  "fuente_oficial": "http://www.geonames.org/7299757"
+}

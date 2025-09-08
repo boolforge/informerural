@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Stetchworth",
+  "geoname_id": 2636941,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 704,
+  "centroide": {
+    "lat": "52.2",
+    "lon": "0.4"
+  },
+  "fuente_oficial": "http://www.geonames.org/2636941"
+}

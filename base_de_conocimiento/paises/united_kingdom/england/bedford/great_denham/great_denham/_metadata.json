@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Great Denham",
+  "geoname_id": 12261862,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.12973",
+    "lon": "-0.51581"
+  },
+  "fuente_oficial": "http://www.geonames.org/12261862"
+}

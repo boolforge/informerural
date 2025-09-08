@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Cornholme",
+  "geoname_id": 2652360,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 1690,
+  "centroide": {
+    "lat": "53.7323",
+    "lon": "-2.13851"
+  },
+  "fuente_oficial": "http://www.geonames.org/2652360"
+}

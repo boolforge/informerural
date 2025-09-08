@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Queen Charlton",
+  "geoname_id": 9884023,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.40172",
+    "lon": "-2.5284"
+  },
+  "fuente_oficial": "http://www.geonames.org/9884023"
+}

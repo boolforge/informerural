@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Hainworth",
+  "geoname_id": 12265721,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "53.84779",
+    "lon": "-1.91003"
+  },
+  "fuente_oficial": "http://www.geonames.org/12265721"
+}

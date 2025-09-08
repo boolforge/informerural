@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Jordans",
+  "geoname_id": 2645946,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 660,
+  "centroide": {
+    "lat": "51.61495",
+    "lon": "-0.59197"
+  },
+  "fuente_oficial": "http://www.geonames.org/2645946"
+}

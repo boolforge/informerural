@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Gravelly Hill",
+  "geoname_id": 11550626,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.51277",
+    "lon": "-1.85107"
+  },
+  "fuente_oficial": "http://www.geonames.org/11550626"
+}

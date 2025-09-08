@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Hampden Row",
+  "geoname_id": 2647558,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.7",
+    "lon": "-0.76667"
+  },
+  "fuente_oficial": "http://www.geonames.org/2647558"
+}

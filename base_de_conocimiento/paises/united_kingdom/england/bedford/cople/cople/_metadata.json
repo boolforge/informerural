@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Cople",
+  "geoname_id": 2652398,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPLA3"
+  },
+  "poblacion": 722,
+  "centroide": {
+    "lat": "52.12342",
+    "lon": "-0.38933"
+  },
+  "fuente_oficial": "http://www.geonames.org/2652398"
+}

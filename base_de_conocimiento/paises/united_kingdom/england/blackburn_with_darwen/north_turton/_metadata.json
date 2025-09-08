@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "North Turton",
+  "geoname_id": 7299745,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "ADM3"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "53.65648",
+    "lon": "-2.44749"
+  },
+  "fuente_oficial": "http://www.geonames.org/7299745"
+}

@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Welch's Dam",
+  "geoname_id": 10109508,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.45201",
+    "lon": "0.16093"
+  },
+  "fuente_oficial": "http://www.geonames.org/10109508"
+}

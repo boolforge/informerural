@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Lower Darwen",
+  "geoname_id": 2643528,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "53.72145",
+    "lon": "-2.47505"
+  },
+  "fuente_oficial": "http://www.geonames.org/2643528"
+}

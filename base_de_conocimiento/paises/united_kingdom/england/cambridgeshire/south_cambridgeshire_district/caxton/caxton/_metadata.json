@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Caxton",
+  "geoname_id": 2653462,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 572,
+  "centroide": {
+    "lat": "52.20575",
+    "lon": "-0.09255"
+  },
+  "fuente_oficial": "http://www.geonames.org/2653462"
+}

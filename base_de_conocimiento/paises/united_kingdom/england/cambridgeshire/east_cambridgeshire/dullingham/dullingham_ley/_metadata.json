@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Dullingham Ley",
+  "geoname_id": 13281700,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.18173",
+    "lon": "0.40327"
+  },
+  "fuente_oficial": "http://www.geonames.org/13281700"
+}

@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Hulcott",
+  "geoname_id": 7298704,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "ADM4"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.83804",
+    "lon": "-0.75848"
+  },
+  "fuente_oficial": "http://www.geonames.org/7298704"
+}

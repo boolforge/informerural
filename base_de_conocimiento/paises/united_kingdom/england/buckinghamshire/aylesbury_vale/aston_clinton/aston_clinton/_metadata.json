@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Aston Clinton",
+  "geoname_id": 2656864,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 4216,
+  "centroide": {
+    "lat": "51.8002",
+    "lon": "-0.7254"
+  },
+  "fuente_oficial": "http://www.geonames.org/2656864"
+}

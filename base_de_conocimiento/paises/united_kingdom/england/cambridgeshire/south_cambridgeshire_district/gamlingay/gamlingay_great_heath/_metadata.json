@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Gamlingay Great Heath",
+  "geoname_id": 12266352,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.14969",
+    "lon": "-0.22476"
+  },
+  "fuente_oficial": "http://www.geonames.org/12266352"
+}

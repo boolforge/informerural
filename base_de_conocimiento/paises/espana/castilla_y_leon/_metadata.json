@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Castilla y León",
+  "geoname_id": 3336900,
+  "codigos_geograficos": {
+    "iso_3166_2": "CL",
+    "fcode": "ADM1"
+  },
+  "poblacion": 2391682,
+  "centroide": {
+    "lat": "41.66667",
+    "lon": "-4.25"
+  },
+  "fuente_oficial": "http://www.geonames.org/3336900"
+}

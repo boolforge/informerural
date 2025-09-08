@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Worminghall",
+  "geoname_id": 2633540,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 534,
+  "centroide": {
+    "lat": "51.77043",
+    "lon": "-1.07365"
+  },
+  "fuente_oficial": "http://www.geonames.org/2633540"
+}

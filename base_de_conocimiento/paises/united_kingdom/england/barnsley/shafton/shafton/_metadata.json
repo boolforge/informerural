@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Shafton",
+  "geoname_id": 2638156,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPLA3"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "53.59286",
+    "lon": "-1.40925"
+  },
+  "fuente_oficial": "http://www.geonames.org/2638156"
+}

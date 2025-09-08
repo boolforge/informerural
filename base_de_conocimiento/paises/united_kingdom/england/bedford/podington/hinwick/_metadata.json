@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Hinwick",
+  "geoname_id": 12265236,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.24501",
+    "lon": "-0.62993"
+  },
+  "fuente_oficial": "http://www.geonames.org/12265236"
+}

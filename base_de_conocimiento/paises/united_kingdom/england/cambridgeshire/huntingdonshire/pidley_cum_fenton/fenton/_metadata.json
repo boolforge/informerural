@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Fenton",
+  "geoname_id": 13281088,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.39686",
+    "lon": "-0.06168"
+  },
+  "fuente_oficial": "http://www.geonames.org/13281088"
+}

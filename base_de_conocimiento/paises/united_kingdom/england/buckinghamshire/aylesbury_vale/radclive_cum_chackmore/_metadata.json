@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Radclive-cum-Chackmore",
+  "geoname_id": 7296371,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "ADM4"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.00853",
+    "lon": "-1.01251"
+  },
+  "fuente_oficial": "http://www.geonames.org/7296371"
+}

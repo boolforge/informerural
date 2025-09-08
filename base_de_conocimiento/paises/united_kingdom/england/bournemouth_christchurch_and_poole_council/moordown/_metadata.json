@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Moordown",
+  "geoname_id": 11550746,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "50.75066",
+    "lon": "-1.8766"
+  },
+  "fuente_oficial": "http://www.geonames.org/11550746"
+}

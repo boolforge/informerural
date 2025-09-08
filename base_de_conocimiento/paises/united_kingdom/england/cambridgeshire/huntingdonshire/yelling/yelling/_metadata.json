@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Yelling",
+  "geoname_id": 2633385,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 411,
+  "centroide": {
+    "lat": "52.2462",
+    "lon": "-0.15321"
+  },
+  "fuente_oficial": "http://www.geonames.org/2633385"
+}

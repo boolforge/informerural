@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Middle Hulton",
+  "geoname_id": 13275289,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "53.54979",
+    "lon": "-2.45497"
+  },
+  "fuente_oficial": "http://www.geonames.org/13275289"
+}

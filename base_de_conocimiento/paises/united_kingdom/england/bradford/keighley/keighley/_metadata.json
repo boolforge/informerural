@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Keighley",
+  "geoname_id": 2645889,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPLA3"
+  },
+  "poblacion": 50171,
+  "centroide": {
+    "lat": "53.86791",
+    "lon": "-1.90664"
+  },
+  "fuente_oficial": "http://www.geonames.org/2645889"
+}

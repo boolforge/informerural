@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Oxlode",
+  "geoname_id": 13280960,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.45512",
+    "lon": "0.18592"
+  },
+  "fuente_oficial": "http://www.geonames.org/13280960"
+}

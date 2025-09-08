@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Slapton",
+  "geoname_id": 2637667,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.87784",
+    "lon": "-0.64412"
+  },
+  "fuente_oficial": "http://www.geonames.org/2637667"
+}

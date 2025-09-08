@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Harwood",
+  "geoname_id": 2647380,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "53.58333",
+    "lon": "-2.38333"
+  },
+  "fuente_oficial": "http://www.geonames.org/2647380"
+}

@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Heath End",
+  "geoname_id": 13275182,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.75036",
+    "lon": "-0.62423"
+  },
+  "fuente_oficial": "http://www.geonames.org/13275182"
+}

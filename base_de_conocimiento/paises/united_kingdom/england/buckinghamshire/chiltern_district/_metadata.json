@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Chiltern District",
+  "geoname_id": 7290538,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "ADM3"
+  },
+  "poblacion": 95103,
+  "centroide": {
+    "lat": "51.67844",
+    "lon": "-0.63208"
+  },
+  "fuente_oficial": "http://www.geonames.org/7290538"
+}

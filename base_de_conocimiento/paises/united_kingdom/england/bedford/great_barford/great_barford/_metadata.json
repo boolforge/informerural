@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Great Barford",
+  "geoname_id": 2648168,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 2003,
+  "centroide": {
+    "lat": "52.15791",
+    "lon": "-0.35235"
+  },
+  "fuente_oficial": "http://www.geonames.org/2648168"
+}

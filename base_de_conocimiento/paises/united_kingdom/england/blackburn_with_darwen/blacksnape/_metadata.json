@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Blacksnape",
+  "geoname_id": 12263249,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "53.68937",
+    "lon": "-2.4373"
+  },
+  "fuente_oficial": "http://www.geonames.org/12263249"
+}

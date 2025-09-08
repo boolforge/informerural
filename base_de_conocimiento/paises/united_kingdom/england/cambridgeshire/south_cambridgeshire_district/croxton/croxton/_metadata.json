@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Croxton",
+  "geoname_id": 2651825,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.22486",
+    "lon": "-0.17904"
+  },
+  "fuente_oficial": "http://www.geonames.org/2651825"
+}

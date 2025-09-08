@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Bar Hill",
+  "geoname_id": 6284555,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 4032,
+  "centroide": {
+    "lat": "52.24899",
+    "lon": "0.02883"
+  },
+  "fuente_oficial": "http://www.geonames.org/6284555"
+}

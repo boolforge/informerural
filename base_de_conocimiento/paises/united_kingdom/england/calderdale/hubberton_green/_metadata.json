@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Hubberton Green",
+  "geoname_id": 13280222,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "53.70235",
+    "lon": "-1.94731"
+  },
+  "fuente_oficial": "http://www.geonames.org/13280222"
+}

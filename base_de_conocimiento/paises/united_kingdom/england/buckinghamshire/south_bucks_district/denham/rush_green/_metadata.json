@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Rush Green",
+  "geoname_id": 13280493,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.56009",
+    "lon": "-0.51577"
+  },
+  "fuente_oficial": "http://www.geonames.org/13280493"
+}

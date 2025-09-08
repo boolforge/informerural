@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Waddesdon",
+  "geoname_id": 2634925,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 1797,
+  "centroide": {
+    "lat": "51.84675",
+    "lon": "-0.92105"
+  },
+  "fuente_oficial": "http://www.geonames.org/2634925"
+}

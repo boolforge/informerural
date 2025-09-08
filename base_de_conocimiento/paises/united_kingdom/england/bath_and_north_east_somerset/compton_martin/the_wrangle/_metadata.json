@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "The Wrangle",
+  "geoname_id": 13280312,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.30445",
+    "lon": "-2.6563"
+  },
+  "fuente_oficial": "http://www.geonames.org/13280312"
+}

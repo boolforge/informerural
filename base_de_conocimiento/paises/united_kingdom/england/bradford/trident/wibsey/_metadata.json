@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Wibsey",
+  "geoname_id": 2633990,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "53.76778",
+    "lon": "-1.78114"
+  },
+  "fuente_oficial": "http://www.geonames.org/2633990"
+}

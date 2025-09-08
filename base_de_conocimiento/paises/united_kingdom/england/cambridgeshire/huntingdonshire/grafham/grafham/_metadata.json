@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Grafham",
+  "geoname_id": 2648242,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.30801",
+    "lon": "-0.29757"
+  },
+  "fuente_oficial": "http://www.geonames.org/2648242"
+}

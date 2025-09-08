@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Farmborough",
+  "geoname_id": 7296164,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "ADM3"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.33802",
+    "lon": "-2.4939"
+  },
+  "fuente_oficial": "http://www.geonames.org/7296164"
+}

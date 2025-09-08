@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Fordham",
+  "geoname_id": 2649229,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 2712,
+  "centroide": {
+    "lat": "52.31129",
+    "lon": "0.39057"
+  },
+  "fuente_oficial": "http://www.geonames.org/2649229"
+}

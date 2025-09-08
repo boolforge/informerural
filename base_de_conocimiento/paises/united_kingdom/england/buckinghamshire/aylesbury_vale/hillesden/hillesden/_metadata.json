@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Hillesden",
+  "geoname_id": 12262658,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.95502",
+    "lon": "-1.00331"
+  },
+  "fuente_oficial": "http://www.geonames.org/12262658"
+}

@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Hook",
+  "geoname_id": 13279807,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.32561",
+    "lon": "-2.4649"
+  },
+  "fuente_oficial": "http://www.geonames.org/13279807"
+}

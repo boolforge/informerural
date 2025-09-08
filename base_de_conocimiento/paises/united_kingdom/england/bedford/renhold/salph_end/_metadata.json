@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Salph End",
+  "geoname_id": 12266027,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.16211",
+    "lon": "-0.42454"
+  },
+  "fuente_oficial": "http://www.geonames.org/12266027"
+}

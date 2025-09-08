@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Bath",
+  "geoname_id": 2656173,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPLA2"
+  },
+  "poblacion": 101557,
+  "centroide": {
+    "lat": "51.3751",
+    "lon": "-2.36172"
+  },
+  "fuente_oficial": "http://www.geonames.org/2656173"
+}

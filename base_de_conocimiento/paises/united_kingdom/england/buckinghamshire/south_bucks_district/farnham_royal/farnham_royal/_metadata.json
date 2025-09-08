@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Farnham Royal",
+  "geoname_id": 2649657,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 6187,
+  "centroide": {
+    "lat": "51.54208",
+    "lon": "-0.61584"
+  },
+  "fuente_oficial": "http://www.geonames.org/2649657"
+}

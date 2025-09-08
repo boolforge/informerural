@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Aston Abbotts",
+  "geoname_id": 7290777,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "ADM4"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.86916",
+    "lon": "-0.776"
+  },
+  "fuente_oficial": "http://www.geonames.org/7290777"
+}

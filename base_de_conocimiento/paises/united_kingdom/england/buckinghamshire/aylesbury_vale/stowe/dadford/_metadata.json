@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Dadford",
+  "geoname_id": 12262624,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.03895",
+    "lon": "-1.02946"
+  },
+  "fuente_oficial": "http://www.geonames.org/12262624"
+}

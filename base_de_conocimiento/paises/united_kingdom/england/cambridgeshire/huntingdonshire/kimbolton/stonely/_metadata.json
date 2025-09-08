@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Stonely",
+  "geoname_id": 12023507,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.28985",
+    "lon": "-0.37485"
+  },
+  "fuente_oficial": "http://www.geonames.org/12023507"
+}

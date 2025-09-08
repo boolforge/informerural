@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Hebden Bridge",
+  "geoname_id": 2647207,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 4235,
+  "centroide": {
+    "lat": "53.74093",
+    "lon": "-2.01337"
+  },
+  "fuente_oficial": "http://www.geonames.org/2647207"
+}

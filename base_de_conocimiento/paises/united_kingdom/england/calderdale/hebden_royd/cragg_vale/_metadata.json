@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Cragg vale",
+  "geoname_id": 11611428,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 650,
+  "centroide": {
+    "lat": "53.70616",
+    "lon": "-1.99934"
+  },
+  "fuente_oficial": "http://www.geonames.org/11611428"
+}

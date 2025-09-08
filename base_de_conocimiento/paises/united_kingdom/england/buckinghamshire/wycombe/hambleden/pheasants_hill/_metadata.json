@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Pheasant's Hill",
+  "geoname_id": 12265165,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.58093",
+    "lon": "-0.86954"
+  },
+  "fuente_oficial": "http://www.geonames.org/12265165"
+}

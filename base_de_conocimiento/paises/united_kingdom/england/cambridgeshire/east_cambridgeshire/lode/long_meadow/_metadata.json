@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Long Meadow",
+  "geoname_id": 12261602,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.24004",
+    "lon": "0.26234"
+  },
+  "fuente_oficial": "http://www.geonames.org/12261602"
+}

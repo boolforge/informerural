@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Parkstone",
+  "geoname_id": 2640601,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 9593,
+  "centroide": {
+    "lat": "50.72994",
+    "lon": "-1.94492"
+  },
+  "fuente_oficial": "http://www.geonames.org/2640601"
+}

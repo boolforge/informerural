@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Hoddlesden",
+  "geoname_id": 12263306,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "53.69596",
+    "lon": "-2.43122"
+  },
+  "fuente_oficial": "http://www.geonames.org/12263306"
+}

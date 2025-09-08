@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Preston Bisset",
+  "geoname_id": 2639909,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.96251",
+    "lon": "-1.04392"
+  },
+  "fuente_oficial": "http://www.geonames.org/2639909"
+}

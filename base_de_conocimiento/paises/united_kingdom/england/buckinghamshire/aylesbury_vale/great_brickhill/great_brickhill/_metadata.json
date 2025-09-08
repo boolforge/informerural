@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Great Brickhill",
+  "geoname_id": 2648150,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 817,
+  "centroide": {
+    "lat": "51.96622",
+    "lon": "-0.68753"
+  },
+  "fuente_oficial": "http://www.geonames.org/2648150"
+}

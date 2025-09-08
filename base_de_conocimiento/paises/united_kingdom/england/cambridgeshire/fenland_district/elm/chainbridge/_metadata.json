@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Chainbridge",
+  "geoname_id": 13276156,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.58034",
+    "lon": "0.09604"
+  },
+  "fuente_oficial": "http://www.geonames.org/13276156"
+}

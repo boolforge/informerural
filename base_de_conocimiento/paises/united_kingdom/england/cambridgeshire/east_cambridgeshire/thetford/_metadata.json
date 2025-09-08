@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Thetford",
+  "geoname_id": 7298764,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "ADM4"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.35946",
+    "lon": "0.24071"
+  },
+  "fuente_oficial": "http://www.geonames.org/7298764"
+}

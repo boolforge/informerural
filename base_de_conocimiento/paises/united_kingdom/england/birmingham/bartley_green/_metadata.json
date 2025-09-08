@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Bartley Green",
+  "geoname_id": 7302130,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 25473,
+  "centroide": {
+    "lat": "52.43532",
+    "lon": "-1.99707"
+  },
+  "fuente_oficial": "http://www.geonames.org/7302130"
+}

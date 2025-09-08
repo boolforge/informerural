@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Little Kimble",
+  "geoname_id": 2644303,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.7554",
+    "lon": "-0.80846"
+  },
+  "fuente_oficial": "http://www.geonames.org/2644303"
+}

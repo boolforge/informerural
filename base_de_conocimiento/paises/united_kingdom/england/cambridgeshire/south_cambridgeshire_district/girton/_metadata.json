@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Girton",
+  "geoname_id": 7298344,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "ADM4"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.23442",
+    "lon": "0.07122"
+  },
+  "fuente_oficial": "http://www.geonames.org/7298344"
+}

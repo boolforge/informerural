@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Shockerwick",
+  "geoname_id": 13274282,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.41522",
+    "lon": "-2.28438"
+  },
+  "fuente_oficial": "http://www.geonames.org/13274282"
+}

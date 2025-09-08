@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Ben Rhydding",
+  "geoname_id": 2655887,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "53.9245",
+    "lon": "-1.80063"
+  },
+  "fuente_oficial": "http://www.geonames.org/2655887"
+}

@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Wendover",
+  "geoname_id": 2634538,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 7702,
+  "centroide": {
+    "lat": "51.76194",
+    "lon": "-0.73986"
+  },
+  "fuente_oficial": "http://www.geonames.org/2634538"
+}

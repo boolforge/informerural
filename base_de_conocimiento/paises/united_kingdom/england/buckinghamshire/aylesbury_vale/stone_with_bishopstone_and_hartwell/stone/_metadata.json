@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Stone",
+  "geoname_id": 2636824,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 2019,
+  "centroide": {
+    "lat": "51.80246",
+    "lon": "-0.87032"
+  },
+  "fuente_oficial": "http://www.geonames.org/2636824"
+}

@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Littleworth Corner",
+  "geoname_id": 13275575,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.56502",
+    "lon": "-0.65264"
+  },
+  "fuente_oficial": "http://www.geonames.org/13275575"
+}

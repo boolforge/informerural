@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Isleham",
+  "geoname_id": 7298761,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "ADM4"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.355",
+    "lon": "0.40423"
+  },
+  "fuente_oficial": "http://www.geonames.org/7298761"
+}

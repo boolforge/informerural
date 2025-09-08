@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Westcott",
+  "geoname_id": 2634464,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.84665",
+    "lon": "-0.9571"
+  },
+  "fuente_oficial": "http://www.geonames.org/2634464"
+}

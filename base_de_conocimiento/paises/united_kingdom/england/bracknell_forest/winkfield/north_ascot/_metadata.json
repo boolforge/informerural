@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "North Ascot",
+  "geoname_id": 12266550,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.41918",
+    "lon": "-0.69398"
+  },
+  "fuente_oficial": "http://www.geonames.org/12266550"
+}

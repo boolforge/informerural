@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Lydgate",
+  "geoname_id": 2643324,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "53.71667",
+    "lon": "-2.11667"
+  },
+  "fuente_oficial": "http://www.geonames.org/2643324"
+}

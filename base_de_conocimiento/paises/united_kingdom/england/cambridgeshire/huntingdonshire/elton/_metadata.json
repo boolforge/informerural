@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Elton",
+  "geoname_id": 7294269,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "ADM4"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.5339",
+    "lon": "-0.38211"
+  },
+  "fuente_oficial": "http://www.geonames.org/7294269"
+}

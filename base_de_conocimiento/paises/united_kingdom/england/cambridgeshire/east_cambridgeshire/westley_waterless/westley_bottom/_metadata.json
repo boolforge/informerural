@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Westley Bottom",
+  "geoname_id": 13274434,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.19263",
+    "lon": "0.32568"
+  },
+  "fuente_oficial": "http://www.geonames.org/13274434"
+}

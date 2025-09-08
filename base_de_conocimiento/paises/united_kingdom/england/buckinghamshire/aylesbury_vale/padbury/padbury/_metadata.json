@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Padbury",
+  "geoname_id": 2640693,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 810,
+  "centroide": {
+    "lat": "51.97098",
+    "lon": "-0.95281"
+  },
+  "fuente_oficial": "http://www.geonames.org/2640693"
+}

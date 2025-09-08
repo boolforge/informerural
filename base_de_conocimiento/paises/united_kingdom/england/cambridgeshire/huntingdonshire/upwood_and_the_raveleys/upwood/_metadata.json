@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Upwood",
+  "geoname_id": 2635076,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 390,
+  "centroide": {
+    "lat": "52.42608",
+    "lon": "-0.14909"
+  },
+  "fuente_oficial": "http://www.geonames.org/2635076"
+}

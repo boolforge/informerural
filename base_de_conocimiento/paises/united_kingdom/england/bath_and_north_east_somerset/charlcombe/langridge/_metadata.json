@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Langridge",
+  "geoname_id": 13279809,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.4244",
+    "lon": "-2.3724"
+  },
+  "fuente_oficial": "http://www.geonames.org/13279809"
+}

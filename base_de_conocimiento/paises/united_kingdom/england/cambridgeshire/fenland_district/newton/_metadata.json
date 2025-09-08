@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Newton",
+  "geoname_id": 7298772,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "ADM4"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.70434",
+    "lon": "0.10665"
+  },
+  "fuente_oficial": "http://www.geonames.org/7298772"
+}

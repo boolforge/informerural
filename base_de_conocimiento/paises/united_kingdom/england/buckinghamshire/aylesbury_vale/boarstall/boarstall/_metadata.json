@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Boarstall",
+  "geoname_id": 2655301,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.82263",
+    "lon": "-1.0943"
+  },
+  "fuente_oficial": "http://www.geonames.org/2655301"
+}

@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Cotton End",
+  "geoname_id": 8063659,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 838,
+  "centroide": {
+    "lat": "52.0956",
+    "lon": "-0.41741"
+  },
+  "fuente_oficial": "http://www.geonames.org/8063659"
+}

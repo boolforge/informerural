@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Waterside",
+  "geoname_id": 12263307,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "53.70531",
+    "lon": "-2.43516"
+  },
+  "fuente_oficial": "http://www.geonames.org/12263307"
+}

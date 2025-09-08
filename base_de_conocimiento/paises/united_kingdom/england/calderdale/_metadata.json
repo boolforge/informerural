@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Calderdale",
+  "geoname_id": 3333137,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "ADM2"
+  },
+  "poblacion": 211439,
+  "centroide": {
+    "lat": "53.7",
+    "lon": "-2"
+  },
+  "fuente_oficial": "http://www.geonames.org/3333137"
+}

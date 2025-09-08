@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Duxford",
+  "geoname_id": 7298340,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "ADM4"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.08171",
+    "lon": "0.14077"
+  },
+  "fuente_oficial": "http://www.geonames.org/7298340"
+}

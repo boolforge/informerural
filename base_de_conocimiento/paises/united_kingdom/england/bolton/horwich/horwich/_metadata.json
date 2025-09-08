@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Horwich",
+  "geoname_id": 2646542,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 18696,
+  "centroide": {
+    "lat": "53.60126",
+    "lon": "-2.54975"
+  },
+  "fuente_oficial": "http://www.geonames.org/2646542"
+}

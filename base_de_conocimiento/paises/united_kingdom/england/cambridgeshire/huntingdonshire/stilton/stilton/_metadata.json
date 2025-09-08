@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Stilton",
+  "geoname_id": 2636914,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 2455,
+  "centroide": {
+    "lat": "52.48788",
+    "lon": "-0.28894"
+  },
+  "fuente_oficial": "http://www.geonames.org/2636914"
+}

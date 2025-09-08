@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Four Gates",
+  "geoname_id": 12263247,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "53.56507",
+    "lon": "-2.54083"
+  },
+  "fuente_oficial": "http://www.geonames.org/12263247"
+}

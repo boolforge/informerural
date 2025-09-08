@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Turweston",
+  "geoname_id": 7294237,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "ADM4"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.03175",
+    "lon": "-1.11495"
+  },
+  "fuente_oficial": "http://www.geonames.org/7294237"
+}

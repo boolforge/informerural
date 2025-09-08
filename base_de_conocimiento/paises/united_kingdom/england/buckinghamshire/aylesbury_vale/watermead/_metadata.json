@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Watermead",
+  "geoname_id": 7298727,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "ADM4"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.8355",
+    "lon": "-0.80736"
+  },
+  "fuente_oficial": "http://www.geonames.org/7298727"
+}

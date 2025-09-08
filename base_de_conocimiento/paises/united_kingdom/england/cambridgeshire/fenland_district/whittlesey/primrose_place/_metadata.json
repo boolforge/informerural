@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Primrose Place",
+  "geoname_id": 13353776,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 17161,
+  "centroide": {
+    "lat": "52.56061",
+    "lon": "-0.10887"
+  },
+  "fuente_oficial": "http://www.geonames.org/13353776"
+}

@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Branksome",
+  "geoname_id": 8063665,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "50.7321",
+    "lon": "-1.92344"
+  },
+  "fuente_oficial": "http://www.geonames.org/8063665"
+}

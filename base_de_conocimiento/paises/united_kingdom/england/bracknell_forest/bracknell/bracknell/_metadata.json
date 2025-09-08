@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Bracknell",
+  "geoname_id": 2655009,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPLA2"
+  },
+  "poblacion": 76103,
+  "centroide": {
+    "lat": "51.41363",
+    "lon": "-0.75054"
+  },
+  "fuente_oficial": "http://www.geonames.org/2655009"
+}

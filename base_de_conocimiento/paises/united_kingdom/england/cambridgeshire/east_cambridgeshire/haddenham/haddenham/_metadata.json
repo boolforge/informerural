@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Haddenham",
+  "geoname_id": 2647687,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 2937,
+  "centroide": {
+    "lat": "52.35789",
+    "lon": "0.14827"
+  },
+  "fuente_oficial": "http://www.geonames.org/2647687"
+}

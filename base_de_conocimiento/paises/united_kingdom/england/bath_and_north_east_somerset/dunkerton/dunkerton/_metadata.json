@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Dunkerton",
+  "geoname_id": 12265661,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.33272",
+    "lon": "-2.41688"
+  },
+  "fuente_oficial": "http://www.geonames.org/12265661"
+}

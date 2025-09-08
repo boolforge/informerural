@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Ludgershall",
+  "geoname_id": 2643428,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 409,
+  "centroide": {
+    "lat": "51.85359",
+    "lon": "-1.04404"
+  },
+  "fuente_oficial": "http://www.geonames.org/2643428"
+}

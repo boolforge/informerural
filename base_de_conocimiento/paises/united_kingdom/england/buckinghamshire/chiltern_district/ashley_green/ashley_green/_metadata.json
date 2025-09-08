@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Ashley Green",
+  "geoname_id": 11593085,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 690,
+  "centroide": {
+    "lat": "51.73734",
+    "lon": "-0.58743"
+  },
+  "fuente_oficial": "http://www.geonames.org/11593085"
+}

@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Stirtloe",
+  "geoname_id": 13280958,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.28715",
+    "lon": "-0.24977"
+  },
+  "fuente_oficial": "http://www.geonames.org/13280958"
+}

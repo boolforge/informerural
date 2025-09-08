@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Middle Claydon",
+  "geoname_id": 7298712,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "ADM4"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.92186",
+    "lon": "-0.95262"
+  },
+  "fuente_oficial": "http://www.geonames.org/7298712"
+}

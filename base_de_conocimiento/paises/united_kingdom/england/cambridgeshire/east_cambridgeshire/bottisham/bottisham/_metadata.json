@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Bottisham",
+  "geoname_id": 2655123,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 2199,
+  "centroide": {
+    "lat": "52.2228",
+    "lon": "0.25878"
+  },
+  "fuente_oficial": "http://www.geonames.org/2655123"
+}

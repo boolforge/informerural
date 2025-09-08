@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Wyboston, Chawston and Colesden",
+  "geoname_id": 7292852,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "ADM3"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.19321",
+    "lon": "-0.32421"
+  },
+  "fuente_oficial": "http://www.geonames.org/7292852"
+}

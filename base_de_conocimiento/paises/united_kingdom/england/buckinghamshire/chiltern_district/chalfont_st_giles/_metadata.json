@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Chalfont St. Giles",
+  "geoname_id": 7296736,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "ADM4"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.6345",
+    "lon": "-0.57205"
+  },
+  "fuente_oficial": "http://www.geonames.org/7296736"
+}

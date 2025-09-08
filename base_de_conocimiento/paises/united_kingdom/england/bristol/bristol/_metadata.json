@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Bristol",
+  "geoname_id": 2654675,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPLA2"
+  },
+  "poblacion": 465866,
+  "centroide": {
+    "lat": "51.45523",
+    "lon": "-2.59665"
+  },
+  "fuente_oficial": "http://www.geonames.org/2654675"
+}

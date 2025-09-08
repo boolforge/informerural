@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Broomhill",
+  "geoname_id": 12265628,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "53.51964",
+    "lon": "-1.36975"
+  },
+  "fuente_oficial": "http://www.geonames.org/12265628"
+}

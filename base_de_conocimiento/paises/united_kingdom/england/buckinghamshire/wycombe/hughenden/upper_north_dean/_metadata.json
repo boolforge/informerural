@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Upper North Dean",
+  "geoname_id": 12264950,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.67915",
+    "lon": "-0.77191"
+  },
+  "fuente_oficial": "http://www.geonames.org/12264950"
+}

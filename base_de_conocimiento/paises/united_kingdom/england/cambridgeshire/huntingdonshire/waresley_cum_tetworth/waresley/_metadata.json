@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Waresley",
+  "geoname_id": 2634774,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 279,
+  "centroide": {
+    "lat": "52.17509",
+    "lon": "-0.17406"
+  },
+  "fuente_oficial": "http://www.geonames.org/2634774"
+}

@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Clutton",
+  "geoname_id": 2652739,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPLA3"
+  },
+  "poblacion": 2739,
+  "centroide": {
+    "lat": "51.32944",
+    "lon": "-2.54306"
+  },
+  "fuente_oficial": "http://www.geonames.org/2652739"
+}

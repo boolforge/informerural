@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Downley",
+  "geoname_id": 12264896,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.64875",
+    "lon": "-0.77599"
+  },
+  "fuente_oficial": "http://www.geonames.org/12264896"
+}

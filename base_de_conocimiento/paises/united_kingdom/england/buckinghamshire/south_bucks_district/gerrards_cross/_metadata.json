@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Gerrards Cross",
+  "geoname_id": 7299794,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "ADM4"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.58469",
+    "lon": "-0.56558"
+  },
+  "fuente_oficial": "http://www.geonames.org/7299794"
+}

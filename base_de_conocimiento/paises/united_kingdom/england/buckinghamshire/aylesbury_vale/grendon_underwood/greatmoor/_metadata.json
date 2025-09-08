@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Greatmoor",
+  "geoname_id": 13284247,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPLL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.89476",
+    "lon": "-0.9777"
+  },
+  "fuente_oficial": "http://www.geonames.org/13284247"
+}

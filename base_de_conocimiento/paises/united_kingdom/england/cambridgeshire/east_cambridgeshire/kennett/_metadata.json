@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Kennett",
+  "geoname_id": 7299825,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "ADM4"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.28215",
+    "lon": "0.48289"
+  },
+  "fuente_oficial": "http://www.geonames.org/7299825"
+}

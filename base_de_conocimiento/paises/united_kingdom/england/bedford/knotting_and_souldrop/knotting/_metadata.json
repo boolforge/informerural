@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Knotting",
+  "geoname_id": 2645103,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.26002",
+    "lon": "-0.53284"
+  },
+  "fuente_oficial": "http://www.geonames.org/2645103"
+}

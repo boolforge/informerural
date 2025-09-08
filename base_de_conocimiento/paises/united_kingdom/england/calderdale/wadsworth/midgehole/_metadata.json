@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Midgehole",
+  "geoname_id": 13276630,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "53.75656",
+    "lon": "-2.01314"
+  },
+  "fuente_oficial": "http://www.geonames.org/13276630"
+}

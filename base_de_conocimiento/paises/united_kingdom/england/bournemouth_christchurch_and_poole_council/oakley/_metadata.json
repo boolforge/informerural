@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Oakley",
+  "geoname_id": 12558043,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 2400,
+  "centroide": {
+    "lat": "50.78368",
+    "lon": "-1.96822"
+  },
+  "fuente_oficial": "http://www.geonames.org/12558043"
+}

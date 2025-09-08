@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Tetworth",
+  "geoname_id": 10171176,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.16514",
+    "lon": "-0.22303"
+  },
+  "fuente_oficial": "http://www.geonames.org/10171176"
+}

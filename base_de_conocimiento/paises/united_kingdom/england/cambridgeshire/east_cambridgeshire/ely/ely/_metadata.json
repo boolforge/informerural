@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Ely",
+  "geoname_id": 2650023,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 19090,
+  "centroide": {
+    "lat": "52.39964",
+    "lon": "0.26196"
+  },
+  "fuente_oficial": "http://www.geonames.org/2650023"
+}

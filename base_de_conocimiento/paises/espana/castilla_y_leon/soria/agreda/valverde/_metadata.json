@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Valverde",
+  "geoname_id": 3106410,
+  "codigos_geograficos": {
+    "iso_3166_2": "CL",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "41.9145",
+    "lon": "-1.8857"
+  },
+  "fuente_oficial": "http://www.geonames.org/3106410"
+}

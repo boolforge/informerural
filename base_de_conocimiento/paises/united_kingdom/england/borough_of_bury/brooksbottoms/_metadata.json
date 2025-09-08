@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Brooksbottoms",
+  "geoname_id": 12264593,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "53.63037",
+    "lon": "-2.31934"
+  },
+  "fuente_oficial": "http://www.geonames.org/12264593"
+}

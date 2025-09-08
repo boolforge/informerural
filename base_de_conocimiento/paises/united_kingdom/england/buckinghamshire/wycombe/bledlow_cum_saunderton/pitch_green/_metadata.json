@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Pitch Green",
+  "geoname_id": 12262613,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.72082",
+    "lon": "-0.87476"
+  },
+  "fuente_oficial": "http://www.geonames.org/12262613"
+}

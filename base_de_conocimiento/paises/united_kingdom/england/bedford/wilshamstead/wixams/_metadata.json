@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Wixams",
+  "geoname_id": 11888088,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.09094",
+    "lon": "-0.46262"
+  },
+  "fuente_oficial": "http://www.geonames.org/11888088"
+}

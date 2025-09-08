@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Hove",
+  "geoname_id": 2646504,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 75174,
+  "centroide": {
+    "lat": "50.83088",
+    "lon": "-0.1672"
+  },
+  "fuente_oficial": "http://www.geonames.org/2646504"
+}

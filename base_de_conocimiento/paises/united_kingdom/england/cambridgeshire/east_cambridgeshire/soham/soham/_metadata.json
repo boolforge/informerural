@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Soham",
+  "geoname_id": 2637554,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 9834,
+  "centroide": {
+    "lat": "52.33543",
+    "lon": "0.33654"
+  },
+  "fuente_oficial": "http://www.geonames.org/2637554"
+}

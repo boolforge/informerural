@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Meadgate East",
+  "geoname_id": 13265537,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.32633",
+    "lon": "-2.45972"
+  },
+  "fuente_oficial": "http://www.geonames.org/13265537"
+}

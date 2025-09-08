@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "South Widcombe",
+  "geoname_id": 2637281,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.3075",
+    "lon": "-2.6025"
+  },
+  "fuente_oficial": "http://www.geonames.org/2637281"
+}

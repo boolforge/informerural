@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "The Broadway",
+  "geoname_id": 13284262,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPLL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.70615",
+    "lon": "-0.61252"
+  },
+  "fuente_oficial": "http://www.geonames.org/13284262"
+}

@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Bottom o' the Moor",
+  "geoname_id": 13273552,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "53.58925",
+    "lon": "-2.37091"
+  },
+  "fuente_oficial": "http://www.geonames.org/13273552"
+}

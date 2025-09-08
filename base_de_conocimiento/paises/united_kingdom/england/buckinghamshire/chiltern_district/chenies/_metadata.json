@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Chenies",
+  "geoname_id": 7298771,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "ADM4"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.66198",
+    "lon": "-0.53556"
+  },
+  "fuente_oficial": "http://www.geonames.org/7298771"
+}

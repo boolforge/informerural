@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Broad Hill",
+  "geoname_id": 13281756,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.3657",
+    "lon": "0.33656"
+  },
+  "fuente_oficial": "http://www.geonames.org/13281756"
+}

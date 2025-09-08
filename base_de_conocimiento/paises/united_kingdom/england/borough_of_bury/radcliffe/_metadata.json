@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Radcliffe",
+  "geoname_id": 6691227,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 34239,
+  "centroide": {
+    "lat": "53.56178",
+    "lon": "-2.32455"
+  },
+  "fuente_oficial": "http://www.geonames.org/6691227"
+}

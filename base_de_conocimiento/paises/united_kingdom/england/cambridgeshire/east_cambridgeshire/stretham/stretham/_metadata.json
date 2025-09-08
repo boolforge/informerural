@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Stretham",
+  "geoname_id": 2636661,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 1831,
+  "centroide": {
+    "lat": "52.34709",
+    "lon": "0.21852"
+  },
+  "fuente_oficial": "http://www.geonames.org/2636661"
+}

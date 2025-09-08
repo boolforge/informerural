@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Ivinghoe",
+  "geoname_id": 2645989,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 2939,
+  "centroide": {
+    "lat": "51.83602",
+    "lon": "-0.62983"
+  },
+  "fuente_oficial": "http://www.geonames.org/2645989"
+}

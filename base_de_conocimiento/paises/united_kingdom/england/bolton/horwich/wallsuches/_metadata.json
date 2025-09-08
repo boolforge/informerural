@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Wallsuches",
+  "geoname_id": 12262025,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "53.6014",
+    "lon": "-2.52521"
+  },
+  "fuente_oficial": "http://www.geonames.org/12262025"
+}

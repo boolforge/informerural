@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Foul Anchor",
+  "geoname_id": 12262793,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.73662",
+    "lon": "0.16779"
+  },
+  "fuente_oficial": "http://www.geonames.org/12262793"
+}

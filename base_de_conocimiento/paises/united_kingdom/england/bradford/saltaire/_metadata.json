@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Saltaire",
+  "geoname_id": 2638652,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 9000,
+  "centroide": {
+    "lat": "53.83333",
+    "lon": "-1.78333"
+  },
+  "fuente_oficial": "http://www.geonames.org/2638652"
+}

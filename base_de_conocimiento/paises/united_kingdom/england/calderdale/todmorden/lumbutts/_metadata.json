@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Lumbutts",
+  "geoname_id": 12264519,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "53.7069",
+    "lon": "-2.0728"
+  },
+  "fuente_oficial": "http://www.geonames.org/12264519"
+}

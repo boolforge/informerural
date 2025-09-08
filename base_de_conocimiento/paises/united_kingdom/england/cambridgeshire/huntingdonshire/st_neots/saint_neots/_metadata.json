@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Saint Neots",
+  "geoname_id": 2638717,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 30811,
+  "centroide": {
+    "lat": "52.21667",
+    "lon": "-0.26667"
+  },
+  "fuente_oficial": "http://www.geonames.org/2638717"
+}

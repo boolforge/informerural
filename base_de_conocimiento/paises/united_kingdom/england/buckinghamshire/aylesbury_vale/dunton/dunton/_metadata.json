@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Dunton",
+  "geoname_id": 10377172,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.91087",
+    "lon": "-0.80689"
+  },
+  "fuente_oficial": "http://www.geonames.org/10377172"
+}

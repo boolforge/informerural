@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Alconbury",
+  "geoname_id": 2657565,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 1569,
+  "centroide": {
+    "lat": "52.369",
+    "lon": "-0.26009"
+  },
+  "fuente_oficial": "http://www.geonames.org/2657565"
+}

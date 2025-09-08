@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Longwick",
+  "geoname_id": 2643614,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 1143,
+  "centroide": {
+    "lat": "51.73607",
+    "lon": "-0.85676"
+  },
+  "fuente_oficial": "http://www.geonames.org/2643614"
+}

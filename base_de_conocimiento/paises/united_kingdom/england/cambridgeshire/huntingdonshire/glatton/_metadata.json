@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Glatton",
+  "geoname_id": 7292908,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "ADM4"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.46309",
+    "lon": "-0.30461"
+  },
+  "fuente_oficial": "http://www.geonames.org/7292908"
+}

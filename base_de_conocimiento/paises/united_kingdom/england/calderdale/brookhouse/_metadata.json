@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Brookhouse",
+  "geoname_id": 13273629,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "53.7652",
+    "lon": "-1.90614"
+  },
+  "fuente_oficial": "http://www.geonames.org/13273629"
+}

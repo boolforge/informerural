@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Wycombe",
+  "geoname_id": 2633462,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "ADM3"
+  },
+  "poblacion": 176868,
+  "centroide": {
+    "lat": "51.58333",
+    "lon": "-0.9"
+  },
+  "fuente_oficial": "http://www.geonames.org/2633462"
+}

@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Addingham Moorside",
+  "geoname_id": 13283797,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPLL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "53.92614",
+    "lon": "-1.88695"
+  },
+  "fuente_oficial": "http://www.geonames.org/13283797"
+}

@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Studley Green",
+  "geoname_id": 12265002,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.64764",
+    "lon": "-0.85232"
+  },
+  "fuente_oficial": "http://www.geonames.org/12265002"
+}

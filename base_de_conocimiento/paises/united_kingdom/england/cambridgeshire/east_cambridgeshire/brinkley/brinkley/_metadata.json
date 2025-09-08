@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Brinkley",
+  "geoname_id": 2654684,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 391,
+  "centroide": {
+    "lat": "52.1668",
+    "lon": "0.3819"
+  },
+  "fuente_oficial": "http://www.geonames.org/2654684"
+}

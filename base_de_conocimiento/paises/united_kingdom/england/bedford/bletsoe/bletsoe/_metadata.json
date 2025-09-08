@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Bletsoe",
+  "geoname_id": 2655349,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.21222",
+    "lon": "-0.50622"
+  },
+  "fuente_oficial": "http://www.geonames.org/2655349"
+}

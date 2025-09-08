@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Manea",
+  "geoname_id": 2643121,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 2088,
+  "centroide": {
+    "lat": "52.48487",
+    "lon": "0.1793"
+  },
+  "fuente_oficial": "http://www.geonames.org/2643121"
+}

@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "St Leonards",
+  "geoname_id": 12262612,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.7556",
+    "lon": "-0.68256"
+  },
+  "fuente_oficial": "http://www.geonames.org/12262612"
+}

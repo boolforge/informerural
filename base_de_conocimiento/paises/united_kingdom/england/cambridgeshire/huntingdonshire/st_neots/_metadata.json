@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "St. Neots",
+  "geoname_id": 7298797,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "ADM4"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.22676",
+    "lon": "-0.25891"
+  },
+  "fuente_oficial": "http://www.geonames.org/7298797"
+}

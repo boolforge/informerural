@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Duxford",
+  "geoname_id": 2650605,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 2099,
+  "centroide": {
+    "lat": "52.09393",
+    "lon": "0.15917"
+  },
+  "fuente_oficial": "http://www.geonames.org/2650605"
+}

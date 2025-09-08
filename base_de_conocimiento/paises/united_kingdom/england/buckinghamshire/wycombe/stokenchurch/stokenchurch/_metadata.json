@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Stokenchurch",
+  "geoname_id": 2636844,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 4056,
+  "centroide": {
+    "lat": "51.65831",
+    "lon": "-0.8974"
+  },
+  "fuente_oficial": "http://www.geonames.org/2636844"
+}

@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Heptonstall",
+  "geoname_id": 2647078,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "53.74914",
+    "lon": "-2.02093"
+  },
+  "fuente_oficial": "http://www.geonames.org/2647078"
+}

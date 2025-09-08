@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Cheveley",
+  "geoname_id": 2653205,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 884,
+  "centroide": {
+    "lat": "52.22049",
+    "lon": "0.4643"
+  },
+  "fuente_oficial": "http://www.geonames.org/2653205"
+}

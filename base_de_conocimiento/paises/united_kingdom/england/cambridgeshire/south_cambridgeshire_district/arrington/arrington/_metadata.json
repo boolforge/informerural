@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Arrington",
+  "geoname_id": 2657020,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.13502",
+    "lon": "-0.06639"
+  },
+  "fuente_oficial": "http://www.geonames.org/2657020"
+}

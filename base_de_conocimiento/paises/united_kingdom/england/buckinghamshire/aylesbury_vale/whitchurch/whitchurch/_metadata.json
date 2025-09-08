@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Whitchurch",
+  "geoname_id": 2634125,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 932,
+  "centroide": {
+    "lat": "51.8816",
+    "lon": "-0.83784"
+  },
+  "fuente_oficial": "http://www.geonames.org/2634125"
+}

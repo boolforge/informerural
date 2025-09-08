@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Stoke Hammond",
+  "geoname_id": 7294235,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "ADM4"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.96063",
+    "lon": "-0.7285"
+  },
+  "fuente_oficial": "http://www.geonames.org/7294235"
+}

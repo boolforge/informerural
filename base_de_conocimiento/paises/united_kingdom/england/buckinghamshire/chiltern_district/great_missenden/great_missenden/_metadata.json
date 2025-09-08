@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Great Missenden",
+  "geoname_id": 2648057,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 7227,
+  "centroide": {
+    "lat": "51.70419",
+    "lon": "-0.70797"
+  },
+  "fuente_oficial": "http://www.geonames.org/2648057"
+}

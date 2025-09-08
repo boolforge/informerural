@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Chilton",
+  "geoname_id": 2653154,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 302,
+  "centroide": {
+    "lat": "51.79869",
+    "lon": "-1.00379"
+  },
+  "fuente_oficial": "http://www.geonames.org/2653154"
+}

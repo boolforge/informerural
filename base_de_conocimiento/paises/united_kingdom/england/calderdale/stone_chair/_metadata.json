@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Stone Chair",
+  "geoname_id": 12265796,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "53.74755",
+    "lon": "-1.82344"
+  },
+  "fuente_oficial": "http://www.geonames.org/12265796"
+}

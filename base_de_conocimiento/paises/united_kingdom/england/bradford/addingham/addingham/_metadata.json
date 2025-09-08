@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Addingham",
+  "geoname_id": 2657680,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPLA3"
+  },
+  "poblacion": 3730,
+  "centroide": {
+    "lat": "53.94452",
+    "lon": "-1.88424"
+  },
+  "fuente_oficial": "http://www.geonames.org/2657680"
+}

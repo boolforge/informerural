@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Butler's Cross",
+  "geoname_id": 12262384,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.75655",
+    "lon": "-0.78087"
+  },
+  "fuente_oficial": "http://www.geonames.org/12262384"
+}

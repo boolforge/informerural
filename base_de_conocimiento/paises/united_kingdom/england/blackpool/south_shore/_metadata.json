@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "South Shore",
+  "geoname_id": 7289681,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "53.79061",
+    "lon": "-3.05849"
+  },
+  "fuente_oficial": "http://www.geonames.org/7289681"
+}

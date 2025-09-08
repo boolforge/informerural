@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Lane End",
+  "geoname_id": 7299802,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "ADM4"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.62082",
+    "lon": "-0.85386"
+  },
+  "fuente_oficial": "http://www.geonames.org/7299802"
+}

@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Soham",
+  "geoname_id": 7299829,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "ADM4"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.36075",
+    "lon": "0.31817"
+  },
+  "fuente_oficial": "http://www.geonames.org/7299829"
+}

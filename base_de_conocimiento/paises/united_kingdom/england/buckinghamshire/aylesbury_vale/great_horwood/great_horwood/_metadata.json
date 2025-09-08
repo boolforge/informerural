@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Great Horwood",
+  "geoname_id": 2648076,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 1049,
+  "centroide": {
+    "lat": "51.97351",
+    "lon": "-0.88088"
+  },
+  "fuente_oficial": "http://www.geonames.org/2648076"
+}

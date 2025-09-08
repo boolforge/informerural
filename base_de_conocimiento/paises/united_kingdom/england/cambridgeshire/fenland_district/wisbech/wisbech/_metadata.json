@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Wisbech",
+  "geoname_id": 2633771,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 32489,
+  "centroide": {
+    "lat": "52.66622",
+    "lon": "0.15938"
+  },
+  "fuente_oficial": "http://www.geonames.org/2633771"
+}

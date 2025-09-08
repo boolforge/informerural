@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Stibbington",
+  "geoname_id": 11979581,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.57507",
+    "lon": "-0.39745"
+  },
+  "fuente_oficial": "http://www.geonames.org/11979581"
+}

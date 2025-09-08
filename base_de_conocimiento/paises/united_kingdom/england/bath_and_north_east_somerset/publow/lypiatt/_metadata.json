@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Lypiatt",
+  "geoname_id": 13279808,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.38892",
+    "lon": "-2.53212"
+  },
+  "fuente_oficial": "http://www.geonames.org/13279808"
+}

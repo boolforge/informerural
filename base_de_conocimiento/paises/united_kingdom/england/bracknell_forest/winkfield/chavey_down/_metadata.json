@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Chavey Down",
+  "geoname_id": 12266572,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.41865",
+    "lon": "-0.71232"
+  },
+  "fuente_oficial": "http://www.geonames.org/12266572"
+}

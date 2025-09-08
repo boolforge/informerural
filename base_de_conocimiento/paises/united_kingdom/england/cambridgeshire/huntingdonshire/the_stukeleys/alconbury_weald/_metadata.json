@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Alconbury Weald",
+  "geoname_id": 13284178,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPLL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.37353",
+    "lon": "-0.22269"
+  },
+  "fuente_oficial": "http://www.geonames.org/13284178"
+}

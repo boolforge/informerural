@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Double Hill",
+  "geoname_id": 13280485,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.31341",
+    "lon": "-2.40501"
+  },
+  "fuente_oficial": "http://www.geonames.org/13280485"
+}

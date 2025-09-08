@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Podington",
+  "geoname_id": 2640184,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPLA3"
+  },
+  "poblacion": 435,
+  "centroide": {
+    "lat": "52.25424",
+    "lon": "-0.62463"
+  },
+  "fuente_oficial": "http://www.geonames.org/2640184"
+}

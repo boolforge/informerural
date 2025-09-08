@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Tingewick",
+  "geoname_id": 2635796,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 1093,
+  "centroide": {
+    "lat": "51.99031",
+    "lon": "-1.04804"
+  },
+  "fuente_oficial": "http://www.geonames.org/2635796"
+}

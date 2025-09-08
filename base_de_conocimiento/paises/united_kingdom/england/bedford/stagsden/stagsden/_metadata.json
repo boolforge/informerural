@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Stagsden",
+  "geoname_id": 2637136,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPLA3"
+  },
+  "poblacion": 363,
+  "centroide": {
+    "lat": "52.13046",
+    "lon": "-0.56678"
+  },
+  "fuente_oficial": "http://www.geonames.org/2637136"
+}

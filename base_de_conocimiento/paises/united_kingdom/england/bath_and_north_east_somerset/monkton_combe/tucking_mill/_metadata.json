@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Tucking Mill",
+  "geoname_id": 13279862,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.35248",
+    "lon": "-2.33741"
+  },
+  "fuente_oficial": "http://www.geonames.org/13279862"
+}

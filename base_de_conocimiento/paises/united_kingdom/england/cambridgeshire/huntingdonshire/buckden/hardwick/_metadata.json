@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Hardwick",
+  "geoname_id": 13280959,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.29885",
+    "lon": "-0.2524"
+  },
+  "fuente_oficial": "http://www.geonames.org/13280959"
+}

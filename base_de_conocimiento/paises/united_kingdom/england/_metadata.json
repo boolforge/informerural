@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "England",
+  "geoname_id": 6269131,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "ADM1"
+  },
+  "poblacion": 57106398,
+  "centroide": {
+    "lat": "52.16045",
+    "lon": "-0.70312"
+  },
+  "fuente_oficial": "http://www.geonames.org/6269131"
+}

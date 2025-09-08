@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Crowthorne",
+  "geoname_id": 2651831,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 25522,
+  "centroide": {
+    "lat": "51.37027",
+    "lon": "-0.79219"
+  },
+  "fuente_oficial": "http://www.geonames.org/2651831"
+}

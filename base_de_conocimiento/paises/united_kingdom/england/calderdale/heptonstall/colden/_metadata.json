@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Colden",
+  "geoname_id": 12263362,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "53.75427",
+    "lon": "-2.05219"
+  },
+  "fuente_oficial": "http://www.geonames.org/12263362"
+}

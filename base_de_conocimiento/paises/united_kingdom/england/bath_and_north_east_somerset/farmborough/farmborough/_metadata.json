@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Farmborough",
+  "geoname_id": 2649674,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 847,
+  "centroide": {
+    "lat": "51.3439",
+    "lon": "-2.48778"
+  },
+  "fuente_oficial": "http://www.geonames.org/2649674"
+}

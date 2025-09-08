@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Luddenden Foot",
+  "geoname_id": 2643437,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 2190,
+  "centroide": {
+    "lat": "53.71873",
+    "lon": "-1.94582"
+  },
+  "fuente_oficial": "http://www.geonames.org/2643437"
+}

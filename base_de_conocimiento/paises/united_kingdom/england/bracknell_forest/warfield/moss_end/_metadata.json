@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Moss End",
+  "geoname_id": 13281718,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.44643",
+    "lon": "-0.75072"
+  },
+  "fuente_oficial": "http://www.geonames.org/13281718"
+}

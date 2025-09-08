@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Comberton",
+  "geoname_id": 7298338,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "ADM4"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.19383",
+    "lon": "0.02477"
+  },
+  "fuente_oficial": "http://www.geonames.org/7298338"
+}

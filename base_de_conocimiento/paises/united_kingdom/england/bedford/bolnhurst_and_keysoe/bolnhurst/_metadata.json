@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Bolnhurst",
+  "geoname_id": 2655243,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.21718",
+    "lon": "-0.40898"
+  },
+  "fuente_oficial": "http://www.geonames.org/2655243"
+}

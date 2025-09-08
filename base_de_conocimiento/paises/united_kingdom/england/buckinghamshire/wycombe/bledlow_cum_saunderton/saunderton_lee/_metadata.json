@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Saunderton Lee",
+  "geoname_id": 12265055,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.69051",
+    "lon": "-0.83311"
+  },
+  "fuente_oficial": "http://www.geonames.org/12265055"
+}

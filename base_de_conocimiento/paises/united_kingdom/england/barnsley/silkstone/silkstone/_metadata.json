@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Silkstone",
+  "geoname_id": 2637841,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 1764,
+  "centroide": {
+    "lat": "53.54808",
+    "lon": "-1.56381"
+  },
+  "fuente_oficial": "http://www.geonames.org/2637841"
+}

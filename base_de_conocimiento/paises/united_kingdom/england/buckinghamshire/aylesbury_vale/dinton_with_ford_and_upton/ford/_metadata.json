@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Ford",
+  "geoname_id": 12261743,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.77758",
+    "lon": "-0.87407"
+  },
+  "fuente_oficial": "http://www.geonames.org/12261743"
+}

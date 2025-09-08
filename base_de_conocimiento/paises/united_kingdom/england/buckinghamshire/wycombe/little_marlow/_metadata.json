@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Little Marlow",
+  "geoname_id": 7299803,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "ADM4"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.59152",
+    "lon": "-0.74055"
+  },
+  "fuente_oficial": "http://www.geonames.org/7299803"
+}

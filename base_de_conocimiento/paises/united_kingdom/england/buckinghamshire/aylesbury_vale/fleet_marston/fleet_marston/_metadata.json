@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Fleet Marston",
+  "geoname_id": 13274907,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.84117",
+    "lon": "-0.87691"
+  },
+  "fuente_oficial": "http://www.geonames.org/13274907"
+}

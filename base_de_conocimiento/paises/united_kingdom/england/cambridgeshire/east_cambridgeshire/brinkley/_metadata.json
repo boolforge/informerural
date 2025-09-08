@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Brinkley",
+  "geoname_id": 7294250,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "ADM4"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.17343",
+    "lon": "0.3638"
+  },
+  "fuente_oficial": "http://www.geonames.org/7294250"
+}

@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Bromham",
+  "geoname_id": 2654589,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPLA3"
+  },
+  "poblacion": 4670,
+  "centroide": {
+    "lat": "52.14508",
+    "lon": "-0.52906"
+  },
+  "fuente_oficial": "http://www.geonames.org/2654589"
+}

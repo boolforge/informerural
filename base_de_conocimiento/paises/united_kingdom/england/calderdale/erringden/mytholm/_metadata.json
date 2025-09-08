@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Mytholm",
+  "geoname_id": 2641923,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "53.73333",
+    "lon": "-2.03333"
+  },
+  "fuente_oficial": "http://www.geonames.org/2641923"
+}

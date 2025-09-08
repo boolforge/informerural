@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Ingrow",
+  "geoname_id": 2646197,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "53.85432",
+    "lon": "-1.9165"
+  },
+  "fuente_oficial": "http://www.geonames.org/2646197"
+}

@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Fawley",
+  "geoname_id": 2649616,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 258,
+  "centroide": {
+    "lat": "51.57643",
+    "lon": "-0.91041"
+  },
+  "fuente_oficial": "http://www.geonames.org/2649616"
+}

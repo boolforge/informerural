@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Ravensden",
+  "geoname_id": 12238211,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.17644",
+    "lon": "-0.42614"
+  },
+  "fuente_oficial": "http://www.geonames.org/12238211"
+}

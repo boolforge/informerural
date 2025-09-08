@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Carlton",
+  "geoname_id": 7298777,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "ADM4"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.15643",
+    "lon": "0.38085"
+  },
+  "fuente_oficial": "http://www.geonames.org/7298777"
+}

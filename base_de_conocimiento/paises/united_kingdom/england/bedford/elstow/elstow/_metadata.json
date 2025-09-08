@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Elstow",
+  "geoname_id": 2650048,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPLA3"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.10727",
+    "lon": "-0.4649"
+  },
+  "fuente_oficial": "http://www.geonames.org/2650048"
+}

@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Lye Green",
+  "geoname_id": 12262745,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 310,
+  "centroide": {
+    "lat": "51.72042",
+    "lon": "-0.58361"
+  },
+  "fuente_oficial": "http://www.geonames.org/12262745"
+}

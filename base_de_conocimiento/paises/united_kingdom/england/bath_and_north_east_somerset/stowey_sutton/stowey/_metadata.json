@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Stowey",
+  "geoname_id": 2636751,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.33664",
+    "lon": "-2.57936"
+  },
+  "fuente_oficial": "http://www.geonames.org/2636751"
+}

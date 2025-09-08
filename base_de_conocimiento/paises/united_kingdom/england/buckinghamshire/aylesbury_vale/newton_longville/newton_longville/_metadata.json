@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Newton Longville",
+  "geoname_id": 2641545,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 1846,
+  "centroide": {
+    "lat": "51.976",
+    "lon": "-0.76595"
+  },
+  "fuente_oficial": "http://www.geonames.org/2641545"
+}

@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Langsett",
+  "geoname_id": 2644911,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "53.50057",
+    "lon": "-1.68154"
+  },
+  "fuente_oficial": "http://www.geonames.org/2644911"
+}

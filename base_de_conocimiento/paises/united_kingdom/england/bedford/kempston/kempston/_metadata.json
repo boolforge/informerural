@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Kempston",
+  "geoname_id": 2645831,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPLA3"
+  },
+  "poblacion": 19873,
+  "centroide": {
+    "lat": "52.11599",
+    "lon": "-0.50044"
+  },
+  "fuente_oficial": "http://www.geonames.org/2645831"
+}

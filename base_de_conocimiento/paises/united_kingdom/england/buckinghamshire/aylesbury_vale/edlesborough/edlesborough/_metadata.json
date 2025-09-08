@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Edlesborough",
+  "geoname_id": 2650216,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.86648",
+    "lon": "-0.58537"
+  },
+  "fuente_oficial": "http://www.geonames.org/2650216"
+}

@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Swanbourne",
+  "geoname_id": 2636442,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 437,
+  "centroide": {
+    "lat": "51.93818",
+    "lon": "-0.83625"
+  },
+  "fuente_oficial": "http://www.geonames.org/2636442"
+}

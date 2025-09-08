@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Ward Green",
+  "geoname_id": 13280502,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "53.53598",
+    "lon": "-1.48765"
+  },
+  "fuente_oficial": "http://www.geonames.org/13280502"
+}

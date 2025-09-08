@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Buttershaw",
+  "geoname_id": 2654152,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "53.7612",
+    "lon": "-1.79736"
+  },
+  "fuente_oficial": "http://www.geonames.org/2654152"
+}

@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Soulbury",
+  "geoname_id": 7292881,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "ADM4"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.94029",
+    "lon": "-0.70317"
+  },
+  "fuente_oficial": "http://www.geonames.org/7292881"
+}

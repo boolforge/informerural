@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Greenlands",
+  "geoname_id": 13265747,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.56363",
+    "lon": "-0.88293"
+  },
+  "fuente_oficial": "http://www.geonames.org/13265747"
+}

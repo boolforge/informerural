@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Queensbury",
+  "geoname_id": 2639792,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 8912,
+  "centroide": {
+    "lat": "53.76657",
+    "lon": "-1.84912"
+  },
+  "fuente_oficial": "http://www.geonames.org/2639792"
+}

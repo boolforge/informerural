@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Fuentes de Ágreda",
+  "geoname_id": 3121857,
+  "codigos_geograficos": {
+    "iso_3166_2": "CL",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "41.80667",
+    "lon": "-1.92136"
+  },
+  "fuente_oficial": "http://www.geonames.org/3121857"
+}

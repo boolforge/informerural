@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Southbourne",
+  "geoname_id": 2637473,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "50.72211",
+    "lon": "-1.78425"
+  },
+  "fuente_oficial": "http://www.geonames.org/2637473"
+}

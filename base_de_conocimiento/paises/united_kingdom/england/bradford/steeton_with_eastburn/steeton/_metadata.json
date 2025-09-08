@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Steeton",
+  "geoname_id": 2636963,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 4196,
+  "centroide": {
+    "lat": "53.88333",
+    "lon": "-1.95"
+  },
+  "fuente_oficial": "http://www.geonames.org/2636963"
+}

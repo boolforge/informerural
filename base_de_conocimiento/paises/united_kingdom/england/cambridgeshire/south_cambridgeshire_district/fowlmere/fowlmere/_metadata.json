@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Fowlmere",
+  "geoname_id": 2649122,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 1206,
+  "centroide": {
+    "lat": "52.09343",
+    "lon": "0.07433"
+  },
+  "fuente_oficial": "http://www.geonames.org/2649122"
+}

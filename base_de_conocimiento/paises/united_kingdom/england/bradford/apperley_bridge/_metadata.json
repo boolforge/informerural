@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Apperley Bridge",
+  "geoname_id": 2657245,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "53.83592",
+    "lon": "-1.70863"
+  },
+  "fuente_oficial": "http://www.geonames.org/2657245"
+}

@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Gibraltar",
+  "geoname_id": 12265667,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.11037",
+    "lon": "-0.52708"
+  },
+  "fuente_oficial": "http://www.geonames.org/12265667"
+}

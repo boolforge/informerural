@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Midgley",
+  "geoname_id": 12089028,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPLL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "53.7333",
+    "lon": "-1.96006"
+  },
+  "fuente_oficial": "http://www.geonames.org/12089028"
+}

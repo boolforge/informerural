@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Charlcombe",
+  "geoname_id": 9253745,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 422,
+  "centroide": {
+    "lat": "51.40362",
+    "lon": "-2.36313"
+  },
+  "fuente_oficial": "http://www.geonames.org/9253745"
+}

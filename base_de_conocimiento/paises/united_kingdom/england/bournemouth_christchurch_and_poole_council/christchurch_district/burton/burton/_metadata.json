@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Burton",
+  "geoname_id": 2654219,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "50.75079",
+    "lon": "-1.76502"
+  },
+  "fuente_oficial": "http://www.geonames.org/2654219"
+}

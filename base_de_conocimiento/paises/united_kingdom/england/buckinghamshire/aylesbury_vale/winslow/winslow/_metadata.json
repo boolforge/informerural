@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Winslow",
+  "geoname_id": 2633808,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 4407,
+  "centroide": {
+    "lat": "51.94284",
+    "lon": "-0.88131"
+  },
+  "fuente_oficial": "http://www.geonames.org/2633808"
+}

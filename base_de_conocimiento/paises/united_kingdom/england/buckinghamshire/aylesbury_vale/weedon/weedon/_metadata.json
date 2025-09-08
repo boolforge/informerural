@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Weedon",
+  "geoname_id": 2634614,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 275,
+  "centroide": {
+    "lat": "51.85603",
+    "lon": "-0.81951"
+  },
+  "fuente_oficial": "http://www.geonames.org/2634614"
+}

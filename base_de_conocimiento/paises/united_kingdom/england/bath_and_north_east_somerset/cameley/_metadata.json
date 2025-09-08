@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Cameley",
+  "geoname_id": 7296348,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "ADM3"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.31772",
+    "lon": "-2.55374"
+  },
+  "fuente_oficial": "http://www.geonames.org/7296348"
+}

@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Duck's Cross",
+  "geoname_id": 13273418,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.19352",
+    "lon": "-0.37463"
+  },
+  "fuente_oficial": "http://www.geonames.org/13273418"
+}

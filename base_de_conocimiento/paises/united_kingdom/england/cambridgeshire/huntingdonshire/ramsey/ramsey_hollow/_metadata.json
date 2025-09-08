@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Ramsey Hollow",
+  "geoname_id": 13281265,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "52.45794",
+    "lon": "-0.05568"
+  },
+  "fuente_oficial": "http://www.geonames.org/13281265"
+}

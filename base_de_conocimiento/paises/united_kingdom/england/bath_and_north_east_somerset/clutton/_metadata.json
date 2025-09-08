@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Clutton",
+  "geoname_id": 7296161,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "ADM3"
+  },
+  "poblacion": 0,
+  "centroide": {
+    "lat": "51.32964",
+    "lon": "-2.53912"
+  },
+  "fuente_oficial": "http://www.geonames.org/7296161"
+}

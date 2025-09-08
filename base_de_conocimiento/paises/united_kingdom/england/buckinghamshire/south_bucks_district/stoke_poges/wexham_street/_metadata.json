@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Wexham Street",
+  "geoname_id": 12261709,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 670,
+  "centroide": {
+    "lat": "51.54289",
+    "lon": "-0.57303"
+  },
+  "fuente_oficial": "http://www.geonames.org/12261709"
+}

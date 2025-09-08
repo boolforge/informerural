@@ -1,0 +1,14 @@
+{
+  "nombre_oficial": "Swaffham Prior",
+  "geoname_id": 2636462,
+  "codigos_geograficos": {
+    "iso_3166_2": "ENG",
+    "fcode": "PPL"
+  },
+  "poblacion": 841,
+  "centroide": {
+    "lat": "52.25389",
+    "lon": "0.29633"
+  },
+  "fuente_oficial": "http://www.geonames.org/2636462"
+}
