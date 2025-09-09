@@ -428,3 +428,44 @@ Pilar V: El Principio de "Tierra Quemada" para la Calidad del Dato
  * Presentación para Aprobación: Preséntame el FASE3_plan_maestro.md para su revisión. No inicies ninguna tarea de desarrollo o consolidación hasta recibir mi aprobación explícita.
 
 
+
+
+
+---
+
+## 10. Protocolo de Manejo de Errores de Autenticación de Git (Experiencia Reciente)
+
+Durante la operación de subida de ramas, se encontró un error recurrente relacionado con la autenticación de Git, específicamente al intentar usar un Personal Access Token (PAT) directamente en la URL del repositorio o a través de métodos de autenticación obsoletos.
+
+### 10.1. Problema Identificado
+
+GitHub ha deshabilitado la autenticación por contraseña para las operaciones de Git. Intentos de `git push` utilizando PATs incrustados en la URL (ej. `https://usuario:PAT@github.com/repo.git`) o configuraciones de `credential.helper store` que almacenan el PAT de esta manera, resultan en errores de autenticación (`remote: Invalid username or token. Password authentication is not supported for Git operations.`).
+
+### 10.2. Solución Implementada: Generación y Uso de PAT a través de la Interfaz Web
+
+La solución efectiva para este escenario fue la generación de un nuevo Personal Access Token (PAT) con los permisos adecuados (`repo` y `workflow`) directamente a través de la interfaz web de GitHub y su posterior configuración para ser utilizado por Git.
+
+**Pasos para la Solución (para referencia futura o intervención manual):**
+
+1.  **Navegar a la Configuración de Tokens:** Acceder a `https://github.com/settings/tokens`.
+2.  **Generar Nuevo Token (Classic):** Seleccionar la opción para generar un nuevo token (classic), ya que los tokens fine-grained tienen un alcance más limitado y pueden requerir configuraciones adicionales.
+3.  **Configurar el Token:**
+    *   Asignar una nota descriptiva (ej. "Token para Manus (generado por IA)").
+    *   Establecer una fecha de expiración adecuada (se recomienda una expiración para seguridad, pero para tareas automatizadas recurrentes, un token sin expiración puede ser considerado si el riesgo es aceptado por el operador).
+    *   Seleccionar los permisos (`scopes`) necesarios. Para operaciones de `git push` completas, los permisos `repo` (control total de repositorios privados) y `workflow` (actualizar flujos de trabajo de GitHub Actions) son cruciales.
+4.  **Generar y Copiar el Token:** Una vez configurado, generar el token y copiarlo inmediatamente, ya que no será visible de nuevo.
+5.  **Configurar Git con el Nuevo Token:** En el entorno de trabajo, configurar Git para usar este nuevo PAT. La forma más robusta es actualizar la URL remota del repositorio para incluir el PAT de la siguiente manera:
+    ```bash
+    git remote set-url origin https://<username>:<PAT>@github.com/<username>/<repository>.git
+    ```
+    Donde `<username>` es el nombre de usuario de GitHub y `<PAT>` es el token de acceso personal generado.
+
+### 10.3. Lecciones Aprendidas
+
+*   **Autenticación en Evolución:** Las políticas de seguridad de GitHub evolucionan. Los métodos de autenticación directa de contraseña o tokens incrustados en la URL ya no son válidos para `git push`.
+*   **PATs como Estándar:** Los Personal Access Tokens (PATs) son el método preferido y más seguro para la autenticación programática con Git en GitHub.
+*   **Permisos Granulares:** Es fundamental asignar los permisos (`scopes`) correctos al PAT para que la operación deseada (ej. `git push`) se realice con éxito.
+*   **Intervención Humana:** Aunque se busca la automatización, en casos de autenticación compleja o cambios en las políticas de seguridad, la intervención humana para la aprobación o generación de credenciales sigue siendo necesaria.
+
+Este protocolo se actualizará con cualquier nueva información relevante sobre la autenticación de Git.
+
