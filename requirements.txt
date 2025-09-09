@@ -1,0 +1,10 @@
+# Fichero: requirements.txt
+pandas
+numpy
+requests
+beautifulsoup4
+PyPDF2
+pdfplumber
+scikit-learn
+pygadm
+PyYAML
