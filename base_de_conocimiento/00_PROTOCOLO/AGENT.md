@@ -21,8 +21,12 @@
 | **6. Protocolo Operacional de Entorno (POE)**                        | [Saltar a POE](#6-protocolo-operacional-de-entorno-poe) | Reglas sobre su entorno de trabajo y Git. **CRÍTICO.**                       |
 | **7. Protocolo de Investigación**                                    | [Saltar a Protocolo](#7-el-protocolo-de-investigación) | El flujo de trabajo completo del proyecto de investigación.                  |
 | **8. Suite de Herramientas y Scripts**                               | [Saltar a Herramientas](#8-suite-de-herramientas-y-scripts) | Manual didáctico del ecosistema de herramientas de apoyo.                      |
-| **9. Guía Forense de la Base de Conocimiento**                       | [Saltar a Guía](#9-guía-forense-de-la-base-de-conocimiento) | Un mapa detallado de CADA archivo del repositorio y su propósito.              |
+| **9. Guía Forense de la Base de Conocimiento**                       | [Saltar a Guía](#9-guía-forense-de-la-base-de-conocimiento-post-reorganización) | Un mapa detallado de la nueva estructura del repositorio.              |
 | **10. Protocolo de Manejo de Errores de Autenticación de Git**       | [Saltar a Autenticacion](#10-protocolo-de-manejo-de-errores-de-autenticación-de-git) | Solución a problemas de autenticación de Git.                                  |
+| **11. Informe Forense de Actividad de Agentes Anteriores**           | [Saltar a Informe Forense](#11-informe-forense-de-actividad-del-agente-manus-y-jules) | Auditoría y lecciones aprendidas de agentes previos.                           |
+| **12. Dependencias Técnicas del Proyecto**                           | [Saltar a Dependencias](#12-dependencias-técnicas-del-proyecto) | Dependencias y requerimientos técnicos del proyecto.                           |
+| **13. Principios Operativos (Auto-Reflexión)**                       | [Saltar a Principios](#13-principios-operativos-del-agente-manus-self-reflection) | Contexto histórico sobre los principios operativos de un agente anterior.      |
+
 
 ---
 
@@ -38,13 +42,13 @@
 1.  **PLANIFICAR:** Crear un archivo temporal `temp_calibracion.txt`.
 2.  **ACTUAR:** Usar una herramienta de creación de archivos para crear el archivo con el contenido "calibracion".
 3.  **VERIFICAR:** Usar una herramienta de lectura para confirmar que el archivo existe y tiene el contenido correcto.
-4.  **REGISTRAR:** Añadir una entrada completa en `logs/bitacora_agente.md` para este ciclo.
+4.  **REGISTRAR:** Añadir una entrada completa en `../05_REGISTROS/logs/bitacora_agente.md` para este ciclo.
 
 ### Ciclo de Calibración 2: Borrado y Registro
 1.  **PLANIFICAR:** Borrar el archivo temporal `temp_calibracion.txt`.
 2.  **ACTUAR:** Usar una herramienta de borrado de archivos.
 3.  **VERIFICAR:** Usar una herramienta de listado para confirmar que el archivo ya no existe.
-4.  **REGISTRAR:** Añadir una entrada completa en `logs/bitacora_agente.md` para este ciclo.
+4.  **REGISTRAR:** Añadir una entrada completa en `../05_REGISTROS/logs/bitacora_agente.md` para este ciclo.
 
 **Solo después de completar y registrar ambos ciclos, puede proceder a leer el plan de trabajo maestro.**
 
@@ -75,7 +79,7 @@ Este es el perfil por defecto. Sus necesidades son complejas y deben analizarse 
 *   **Intersección Clave 3 (Valores x Sociedad):** La combinación de valores progresistas y turismofobia exige un entorno no solo físicamente seguro, sino también psicológicamente seguro y auténtico.
 
 ### 2.2. Arquetipos Secundarios (Extensibilidad del Sistema)
-El sistema debe ser adaptable. Para estos arquetipos, los pesos de los índices y los datos requeridos cambiarían (ver [PLAN_V6.md](./PLAN_V6.md) para detalles).
+El sistema debe ser adaptable. Para estos arquetipos, los pesos de los índices y los datos requeridos cambiarían (ver [`PLAN_V6.md`](../01_PROYECTO/PLAN_V6.md) para detalles).
 *   **El Tecnólogo Resiliente:** Prioriza `ICT` (conectividad) sobre todo lo demás.
 *   **La Familia Arraigada:** Prioriza `IAS` (sanidad) y `IPSS` (seguridad comunitaria).
 *   **El Productor Sostenible:** Prioriza `IAR` (coste de la tierra) y `RFC` (riesgo climático).
@@ -93,11 +97,11 @@ Este protocolo es de **cumplimiento obligatorio** para mitigar los modos de fall
 *   **Principio de Atomicidad:** Descomponga cada tarea en el paso más pequeño y lógicamente indivisible posible.
 *   **Principio de Verificación Empírica:** Nunca asuma el éxito de una acción. Siempre verifíquelo con una herramienta de solo lectura.
 *   **Principio de Desarrollo Orientado a Herramientas (Tool-First):** Este principio tiene dos vertientes. Primero, ante tareas manuales repetitivas (más de dos ejecuciones), el agente debe detenerse y diseñar una herramienta para automatizar el proceso. Segundo, y más importante, ante operaciones de sistema complejas o un entorno de ejecución que demuestre ser inestable, se debe priorizar la construcción de un script robusto y autocontenido sobre el uso de herramientas nativas directas. El `refactor_kit` es el arquetipo de este principio, nacido de la necesidad de superar la fragilidad del entorno.
-*   **Principio de Caching de Contexto:** Al inicio de una sesión, lea los archivos críticos (`AGENT.md`, [config.yaml](./base_de_conocimiento/config.yaml), [dependencies.md](./base_de_conocimiento/dependencies.md)) una sola vez y guárdelos en un contexto interno para minimizar lecturas redundantes.
+*   **Principio de Caching de Contexto:** Al inicio de una sesión, lea los archivos críticos (`AGENT.md`, [`config.yaml`](../01_PROYECTO/config.yaml), [`dependencies.md`](./dependencies.md)) una sola vez y guárdelos en un contexto interno para minimizar lecturas redundantes.
 
 ### 3.2. El Bucle de Trabajo Obligatorio: `Leer -> Planificar -> Actuar -> Verificar -> Registrar -> Checkpoint`
 Se añade un sexto paso obligatorio al final de cada ciclo:
-6.  **CHECKPOINT:** Ejecutar el script `update_checkpoint.py` para guardar la última acción completada y el siguiente paso planificado en [checkpoint.json](./checkpoint.json). Al inicio de la sesión, el PAC debe incluir la lectura de este archivo para recuperar el estado.
+6.  **CHECKPOINT:** Ejecutar el script `update_checkpoint.py` para guardar la última acción completada y el siguiente paso planificado en [`checkpoint.json`](../01_PROYECTO/checkpoint.json). Al inicio de la sesión, el PAC debe incluir la lectura de este archivo para recuperar el estado.
 
 ### 3.3. Excepción para Micro-Tareas
 Se permite agrupar hasta 5 acciones triviales (ej. corrección de typos) en un solo ciclo, detallándolas en una entrada de bitácora resumida.
@@ -108,10 +112,10 @@ Se permite agrupar hasta 5 acciones triviales (ej. corrección de typos) en un s
 
 
 ## 4. Protocolo de Registro de Actividad (PRA)
-Usted **DEBE** mantener un registro forense de cada acción en `logs/bitacora_agente.md`. **Cualquier acción no registrada en esta bitácora se considerará como no realizada y es una violación directa del protocolo, constituyendo un fracaso categórico.**
-*   **Ubicación:** `logs/bitacora_agente.md`
+Usted **DEBE** mantener un registro forense de cada acción en `../05_REGISTROS/logs/bitacora_agente.md`. **Cualquier acción no registrada en esta bitácora se considerará como no realizada y es una violación directa del protocolo, constituyendo un fracaso categórico.**
+*   **Ubicación:** `../05_REGISTROS/logs/bitacora_agente.md`
 *   **Propósito:** La bitácora es su caja negra. Permite la transparencia total, la trazabilidad y la depuración de errores.
-*   **Plantillas:** Use las plantillas completa (operaciones críticas) y resumida (micro-tareas) definidas en [PLAN_V6.md](./PLAN_V6.md) y en la propia bitácora.
+*   **Plantillas:** Use las plantillas completa (operaciones críticas) y resumida (micro-tareas) definidas en [`PLAN_V6.md`](../01_PROYECTO/PLAN_V6.md) y en la propia bitácora.
 
 ---
 
@@ -125,7 +129,7 @@ Usted **DEBE** mantener un registro forense de cada acción en `logs/bitacora_ag
     *   Para `NETWORK_ERROR`: Reintente **una (1)** vez.
     *   Para `FILE_NOT_FOUND`: Verifique la ruta y el nombre. Si es correcto, el plan es erróneo; escale.
     *   Para `DATA_CORRUPTION_ERROR`: Revierta el archivo con `git restore <archivo>`.
-4.  **Escalado Humano:** Si la recuperación falla, **DETENGA** el plan. Cree un informe de incidencia en `logs/incidents/incidente_<timestamp>.md`. Use `request_user_input` para notificar al usuario, referenciando el informe.
+4.  **Escalado Humano:** Si la recuperación falla, **DETENGA** el plan. Cree un informe de incidencia en `../05_REGISTROS/logs/incidents/incidente_<timestamp>.md`. Use `request_user_input` para notificar al usuario, referenciando el informe.
 
 ---
 
@@ -150,112 +154,65 @@ Está **PROHIBIDO** escribir fuera del repositorio, **CON LA ÚNICA Y EXCLUSIVA 
 
 ---
 
-
-
-
 ## 7. El Protocolo de Investigación
-Consulte **siempre** [27_master_plan_jules.md](./base_de_conocimiento/metodologia/27_master_plan_jules.md) para las tareas pendientes. El archivo `25_...` está obsoleto.
+Consulte **siempre** el plan de trabajo maestro en `../01_PROYECTO/ARCHIVADO_metodologia/27_master_plan_jules.md` para las tareas pendientes.
 
 ---
-
-
-
 
 ## 8. Suite de Herramientas y Scripts
-Consulte el manual didáctico completo en [scripts/README.md](./base_de_conocimiento/scripts/README.md).
+Consulte el manual didáctico completo en `../04_SCRIPTS/scripts/README.md`.
 
 ---
 
+## 9. Guía Forense de la Base de Conocimiento (Post-Reorganización)
+Esta sección describe la nueva estructura del repositorio, optimizada para la claridad y el uso por un agente de IA.
 
+### **Raíz del Repositorio**
+*   [`README.md`](../../README.md): La puerta de entrada al repositorio, explicando la nueva estructura.
+*   [`TAREAS_PENDIENTES.md`](../../TAREAS_PENDIENTES.md): Documenta los problemas técnicos que no se pudieron resolver.
+*   [`base_de_conocimiento/`](../): El directorio principal que contiene toda la inteligencia del proyecto.
 
+### **`/base_de_conocimiento`**
+*   **[`/00_PROTOCOLO/`](./)**: Contiene los documentos que definen el "cómo" del proyecto.
+    *   [`AGENT.md`](./AGENT.md): (Este documento) La directiva maestra que gobierna el comportamiento del agente de IA.
+    *   [`METODOLOGIA_INVESTIGACION.md`](./METODOLOGIA_INVESTIGACION.md): El documento consolidado que detalla la metodología completa del análisis.
+    *   [`dependencies.md`](./dependencies.md): Las dependencias técnicas del proyecto.
 
-## 9. Guía Forense de la Base de Conocimiento
-Esta es la descripción detallada de **CADA** archivo relevante en el repositorio.
+*   **[`/01_PROYECTO/`](../01_PROYECTO/)**: Archivos relacionados con la gestión y el histórico del proyecto.
+    *   `ARCHIVADO_metodologia/` y `ARCHIVADO_informes/`: Versiones antiguas de documentos, conservadas para el histórico.
+    *   [`configuracion/`](../01_PROYECTO/configuracion/): Archivos de configuración, como claves de API.
+    *   Otros archivos de planificación y estado ([`PLAN_V6.md`](../01_PROYECTO/PLAN_V6.md), [`checkpoint.json`](../01_PROYECTO/checkpoint.json)).
 
-### **`./` (Raíz)**
-*   **`AGENT.md`**: (Este documento) La directiva maestra que gobierna su comportamiento.
-*   **[PLAN_V6.md](./PLAN_V6.md)**: El documento de planificación ultra-detallado que condujo a la creación de esta versión del `AGENT.md`.
-*   **[checkpoint.json](./checkpoint.json)**: Un archivo de estado simple para la persistencia entre acciones.
+*   **[`/02_CONOCIMIENTO/`](../02_CONOCIMIENTO/)**: El núcleo de la base de conocimiento.
+    *   [`investigacion/`](../02_CONOCIMIENTO/investigacion/): Contiene la investigación cualitativa consolidada por país y otros análisis temáticos.
+    *   `audits/`, `historico/`: Auditorías e histórico del comportamiento de los agentes.
+    *   `paises/`: **(Directorio problemático)** No pudo ser eliminado. Sus datos están en `../03_DATOS/gazetteer.csv`.
 
-### **`./logs/`**
-*   **[bitacora_agente.md](./logs/bitacora_agente.md)**: Su registro de actividad obligatorio, donde cada acción, comando y resultado es documentado.
-*   **[incidents/](./logs/incidents/)**: Directorio para almacenar informes de errores detallados cuando el Protocolo de Manejo de Fallos requiere una escalada humana.
+*   **[`/03_DATOS/`](../03_DATOS/)**: Todos los datos cuantitativos del proyecto.
+    *   [`gazetteer.csv`](../03_DATOS/gazetteer.csv): El CSV consolidado con todos los datos geográficos.
+    *   [`datos/crudos/`](../03_DATOS/datos/crudos/): Los datasets originales.
+    *   [`imagenes/`](../03_DATOS/imagenes/): Visualizaciones y gráficos generados.
 
-### **`./base_de_conocimiento/`**
-Directorio principal que contiene toda la inteligencia del proyecto.
-*   **[audits/manus_forensic_review.md](./base_de_conocimiento/audits/manus_forensic_review.md)**: El informe de auditoría que justifica esta versión del `AGENT.md`.
-*   **[config.yaml](./base_de_conocimiento/config.yaml)**: Fichero de configuración central para parámetros del proyecto.
-*   **[dependencies.md](./base_de_conocimiento/dependencies.md)**: Documento crítico que detalla todas las dependencias técnicas.
-*   **[ejemplo_informe_final.md](./base_de_conocimiento/ejemplo_informe_final.md)**: Una plantilla y ejemplo del informe final para una localidad.
-*   **[indice.md](./base_de_conocimiento/indice.md)**: La tabla de contenidos principal de la base de conocimiento, proporcionando una visión general y enlaces a los documentos clave.
+*   **[`/04_SCRIPTS/`](../04_SCRIPTS/)**: Todos los scripts de Python utilizados.
+    *   [`consolidate_gazetteer.py`](../04_SCRIPTS/consolidate_gazetteer.py): Script que consolida los datos del directorio `paises`.
+    *   [`scripts/`](../04_SCRIPTS/scripts/): Resto de scripts para descarga y análisis.
 
-#### **`./base_de_conocimiento/configuracion/`**
-*   **`cdsapirc`**: Archivo de configuración que contiene la URL y la clave de API para el Copernicus Atmosphere Data Store (CDS), utilizado para la descarga programática de datos climáticos y de calidad del aire.
-
-#### **`./base_de_conocimiento/datos/crudos/`**
-*   **`*.csv`, `*.json`**: Contiene los datos en bruto tal y como fueron descargados de las fuentes originales (EEA, etc.). Son la entrada primaria para los scripts de limpieza y procesamiento.
-
-#### **`./base_de_conocimiento/imagenes/`**
-*   **`*.png`**: Contiene ejemplos de visualizaciones (gráficos, mapas) generados durante análisis previos. Sirven como referencia para el tipo de gráficos requeridos en los entregables finales.
-
-#### **`./base_de_conocimiento/informes/`**
-Contiene borradores y componentes del informe final.
-*   **`01_documento_final.md`**: Placeholder para el informe final consolidado. Actualmente vacío.
-*   **`02_introduccion.md`**: Placeholder para la introducción del informe. Contiene solo un título.
-*   **`03_titulos_de_seccion.md`**: Un esquema de la estructura del informe final, derivado del `paramanus.txt` original.
-*   **`04_nota_audiencia_objetivo.md`**: Un resumen conciso del arquetipo de usuario primario, enfatizando el enfoque del proyecto.
-*   **`05_narrativa_seleccion_final.md`**: Define los requisitos para la narrativa final y el concepto de "plan de aterrizaje" para las localidades recomendadas.
-*   **`06_recomendacion_inmediata.md`, `07_recomendacion_practica.md`**: Recomendaciones accionables extraídas del análisis de polen, sirviendo como ejemplo de conclusiones útiles.
-*   **`08...` y `09...`**: Prompts de usuario que muestran la naturaleza interactiva del desarrollo del proyecto.
-*   **`10_conclusion_practica_gadm.md`**: Un resumen estratégico de las opciones para la adquisición de datos de polen (el nombre del archivo es engañoso).
-*   **`11_visualizaciones_minimas.md`**: Lista de las visualizaciones de datos mínimas requeridas para el informe.
-
-#### **`./base_de_conocimiento/investigacion/paises/`**
-*   **`*.md`**: Una colección de notas de investigación cualitativa preliminares sobre los costes de vivienda en varios países, sirviendo de base para el `Índice de Asequibilidad Rural`.
-
-#### **`./base_de_conocimiento/investigacion/temas/`**
-Análisis temáticos profundos.
-*   **`01_...` y `03_...`**: Archivos placeholder vacíos.
-*   **`02_macro_contextual.md`**: Un documento masivo y denso que compila la investigación cualitativa sobre factores sociales, políticos y económicos para cada país. Es una fuente de información crítica pero parcialmente redundante.
-*   **`04_notas_paramanus.md`**: Un archivo de meta-análisis crucial que explica cómo se estructuró el directorio `metodologia` a partir de un prompt original `paramanus.txt`.
-*   **`05_info_extraida_paramanus.md`**: Una extracción parcial y redundante de `paramanus.txt`.
-*   **`06_localidades_rurales_uk.md`**: Lista de pueblos pintorescos del Reino Unido, útil como punto de partida pero que requiere un filtrado estricto contra el criterio de "turismofobia".
-*   **`07_clasificacion_rural_urbana_uk.md`**: La metodología específica y oficial para clasi
+*   **[`/05_REGISTROS/`](../05_REGISTROS/)**: Los registros de actividad del agente.
+    *   [`logs/bitacora_agente.md`](../05_REGISTROS/logs/bitacora_agente.md): El registro detallado de todas las acciones realizadas.
 
 ---
-
-
-
 
 ## 10. Protocolo de Manejo de Errores de Autenticación de Git (Experiencia Reciente)
 
 Durante la operación de subida de ramas, se encontró un error recurrente relacionado con la autenticación de Git, específicamente al intentar usar un Personal Access Token (PAT) directamente en la URL del repositorio o a través de métodos de autenticación obsoletos.
 
 ### 10.1. Problema Identificado
-
 GitHub ha deshabilitado la autenticación por contraseña para las operaciones de Git. Intentos de `git push` utilizando PATs incrustados en la URL (ej. `https://usuario:PAT@github.com/repo.git`) o configuraciones de `credential.helper store` que almacenan el PAT de esta manera, resultan en errores de autenticación (`remote: Invalid username or token. Password authentication is not supported for Git operations.`).
 
 ### 10.2. Solución Implementada: Generación y Uso de PAT a través de la Interfaz Web
-
 La solución efectiva para este escenario fue la generación de un nuevo Personal Access Token (PAT) con los permisos adecuados (`repo` y `workflow`) directamente a través de la interfaz web de GitHub y su posterior configuración para ser utilizado por Git.
 
-**Pasos para la Solución (para referencia futura o intervención manual):**
-
-1.  **Navegar a la Configuración de Tokens:** Acceder a `https://github.com/settings/tokens`.
-2.  **Generar Nuevo Token (Classic):** Seleccionar la opción para generar un nuevo token (classic), ya que los tokens fine-grained tienen un alcance más limitado y pueden requerir configuraciones adicionales.
-3.  **Configurar el Token:**
-    *   Asignar una nota descriptiva (ej. "Token para Manus (generado por IA)").
-    *   Establecer una fecha de expiración adecuada (se recomienda una expiración para seguridad, pero para tareas automatizadas recurrentes, un token sin expiración puede ser considerado si el riesgo es aceptado por el operador).
-    *   Seleccionar los permisos (`scopes`) necesarios. Para operaciones de `git push` completas, los permisos `repo` (control total de repositorios privados) y `workflow` (actualizar flujos de trabajo de GitHub Actions) son cruciales.
-4.  **Generar y Copiar el Token:** Una vez configurado, generar el token y copiarlo inmediatamente, ya que no será visible de nuevo.
-5.  **Configurar Git con el Nuevo Token:** En el entorno de trabajo, configurar Git para usar este nuevo PAT. La forma más robusta es actualizar la URL remota del repositorio para incluir el PAT de la siguiente manera:
-    ```bash
-    git remote set-url origin https://<username>:<PAT>@github.com/<username>/<repository>.git
-    ```
-    Donde `<username>` es el nombre de usuario de GitHub y `<PAT>` es el token de acceso personal generado.
-
 ### 10.3. Lecciones Aprendidas
-
 *   **Autenticación en Evolución:** Las políticas de seguridad de GitHub evolucionan. Los métodos de autenticación directa de contraseña o tokens incrustados en la URL ya no son válidos para `git push`.
 *   **PATs como Estándar:** Los Personal Access Tokens (PATs) son el método preferido y más seguro para la autenticación programática con Git en GitHub.
 *   **Permisos Granulares:** Es fundamental asignar los permisos (`scopes`) correctos al PAT para que la operación deseada (ej. `git push`) se realice con éxito.
@@ -265,76 +222,55 @@ Este protocolo se actualizará con cualquier nueva información relevante sobre 
 
 ---
 
-
-
-
 ## 11. Informe Forense de Actividad del Agente "Manus" y "Jules"
 
 Este informe detalla la auditoría de la actividad de los agentes "Manus" y "Jules" en el repositorio `informerural`, identificando fallos, causas raíz y acciones correctivas implementadas para mejorar la robustez y fiabilidad de las operaciones.
 
 ### 11.1. Resumen Ejecutivo (Auditoría de Manus por Jules)
-
 **ID de Auditoría:** `JULES-AUDIT-001`
 **Fecha:** 2025-09-06
 **Auditor:** Agente "Jules"
 **Sujeto:** Agente "Manus"
 
-El agente Manus fue un planificador excelente pero un ejecutor deficiente y no fiable. Su principal fallo no fue de comprensión, sino de **cumplimiento de protocolo**. Las contramedidas propuestas se centran en forzar este cumplimiento a través de un "calentamiento" obligatorio (PAC) y un sistema de memoria externa más robusto (`checkpoint.json`), además de reforzar la severidad de las directivas.
+El agente Manus fue un planificador excelente pero un ejecutor deficiente y no fiable. Su principal fallo no fue de comprensión, sino de **cumplimiento de protocolo**. Las contramedidas propuestas se centran en forzar este cumplimiento a través de un "calentamiento" obligatorio (PAC) y un sistema de memoria externa más robusto ([`checkpoint.json`](../01_PROYECTO/checkpoint.json)), además de reforzar la severidad de las directivas.
 
 ### 11.2. Auto-Auditoría del Agente "Jules"
-
 **ID de Auditoría:** `JULES-AUDIT-002`
 **Fecha:** 2025-09-06
 **Auditor:** Agente "Jules"
 **Sujeto:** Agente "Jules"
 
 #### Hallazgo 1 (FALLO CRÍTICO): Creación de Documento Incompleto
-
 *   **Descripción:** En la primera implementación del `AGENT.md` (v7.0), se cometió un error crítico al utilizar placeholders como `*(Contenido sin cambios respecto a v6.0)*` en lugar de poblar todas las secciones con su contenido completo y explícito.
 *   **Causa Raíz:** Un fallo en la interpretación de la directiva de "exhaustividad". Se priorizó la implementación de *nuevos* protocolos (PAC, checkpoint) sobre la consolidación completa del contenido existente. Esto fue un atajo inaceptable que crearía confusión en un agente futuro, repitiendo el patrón de error del predecesor al no ser suficientemente metódico.
-*   **Impacto:** El `AGENT.md` resultante no era autocontenido, violando un principio fundamental de un manual de operaciones robusto. Un agente que leyera ese archivo no tendría toda la información necesaria en su contexto.
-*   **Acción Correctiva:** La creación de `AGENT.md` v8.0, que es una reescritura completa y totalmente autocontenida del manual, sin placeholders ni referencias implícitas. Esta acción demuestra la correcta aplicación del ciclo de `Verificar -> Identificar Fallo -> Remediar`.
+*   **Impacto:** El `AGENT.md` resultante no era autocontenido, violando un principio fundamental de un manual de operaciones robusto.
+*   **Acción Correctiva:** La creación de `AGENT.md` v8.0, que es una reescritura completa y totalmente autocontenida del manual.
 
 ### 11.3. Auto-Auditoría de Ejecución y Herramientas (Agente "Jules")
-
 **ID de Auditoría:** `JULES-AUDIT-003`
 **Fecha:** 2025-09-06
 
 #### Hallazgo 2 (FALLO CRÍTICO): Fallo en Cascada por Herramientas y Entorno no Fiables
-
-*   **Descripción:** Durante la fase de "Ejecución Proactiva", se encontró una serie de fallos en cascada:
-    1.  El script `download_eea_air_quality_1.py` estaba corrupto en el repositorio.
-    2.  La herramienta nativa `restore_file` no funcionó como se esperaba, devolviendo la misma versión corrupta del script.
-    3.  El script `file_manager.py` (v1) tenía un diseño deficiente y falló catastróficamente al intentar manejar strings multilínea, corrompiendo la bitácora.
-    4.  El intento de usar `stdin` con `cat <<EOF` para arreglar el problema también falló, revelando que el entorno `run_in_bash_session` no soporta `pipes` o `here-documents` de manera estándar.
 *   **Causa Raíz:** Una combinación de (a) artefactos corruptos en el estado inicial del repositorio, (b) herramientas nativas del entorno que no son fiables (`restore_file`), y (c) un diseño de herramienta inicial (`file_manager.py` v1) que no era lo suficientemente robusto para las limitaciones del entorno de shell.
 *   **Impacto:** Imposibilidad de ejecutar las tareas de adquisición de datos planeadas. Pérdida de tiempo y recursos en ciclos de fallo y recuperación.
 *   **Acción Correctiva:**
-    1.  **Pivote Estratégico:** Se tomó la decisión de abandonar la ejecución de scripts (temporalmente) y pivotar hacia una tarea de documentación de alto valor que solo requería herramientas de E/S de archivos fiables (`overwrite_file_with_block`).
-    2.  **Rediseño de Herramienta:** Se rediseñó y reimplementó `file_manager.py` (v2) para usar un enfoque más robusto (`--content-file`) que evita los problemas del shell.
-    3.  **Documentación Exhaustiva:** Se documentaron todos los fallos y las limitaciones del entorno en la bitácora para informar al usuario y a futuros agentes.
-    4.  **Remediación de `AGENT.md`:** Se completó la creación de `AGENT.md` v8.0, la tarea de documentación a la que se pivotó.
+    1.  **Pivote Estratégico:** Se pivotó hacia una tarea de documentación de alto valor.
+    2.  **Rediseño de Herramienta:** Se rediseñó y reimplementó `file_manager.py` (v2).
+    3.  **Documentación Exhaustiva:** Se documentaron todos los fallos y las limitaciones del entorno en la bitácora.
+    4.  **Remediación de `AGENT.md`:** Se completó la creación de `AGENT.md` v8.0.
 
 ---
-
-
-
 
 ## 12. Dependencias Técnicas del Proyecto
 
 Este documento detalla las dependencias técnicas necesarias para ejecutar los scripts y análisis de este repositorio.
 
 ### 12.1. Entorno de Ejecución
-
 *   **Sistema Operativo:** Se asume un entorno basado en Linux (compatible con `bash`).
 *   **Intérprete de Python:** Se requiere Python 3.8 o superior.
 
 ### 12.2. Librerías de Python
-
-Los scripts de este proyecto dependen de varias librerías de Python. Deben ser instaladas a través de `pip`. Se recomienda el uso de un entorno virtual (`venv`) para gestionar las dependencias.
-
 Un archivo `requirements.txt` debería ser creado y mantenido en la raíz del repositorio con el siguiente contenido mínimo:
-
 ```
 # Fichero: requirements.txt
 pandas
@@ -348,62 +284,33 @@ pygadm
 PyYAML
 ```
 
-*   **pandas, numpy:** Para la manipulación y análisis de datos.
-*   **requests, beautifulsoup4:** Para adquisición de datos web (`web_scraper.py`).
-*   **PyPDF2, pdfplumber:** Para la extracción de datos de PDFs (`pdf_extractor.py`).
-*   **scikit-learn:** Para la imputación de datos (`data_cleaner.py`).
-*   **pygadm:** Para la descarga de datos geográficos.
-*   **PyYAML:** Para leer el archivo de configuración `config.yaml`.
-
-### 12.3. Herramientas del Entorno del Agente
-
-El agente de IA depende de un conjunto de herramientas proporcionadas por su entorno de ejecución. Estas herramientas no requieren instalación manual, pero su presencia y funcionamiento son críticos. (Ej: `read_file`, `create_file_with_block`, `submit`, etc.).
-
-### 12.4. Variables de Entorno
-
-*   **`GITHUB_TOKEN`:** (Recomendación de seguridad) Variable que debería contener el token de acceso personal de GitHub para la autenticación. El `AGENT.md` instruye cómo usar esta variable si está disponible.
-*   **`COPERNICUS_API_KEY`:** Variable que podría contener una clave de API para el Copernicus Data Store.
-*   **`OTHER_API_KEYS`:** Otras claves para APIs de datos geoespaciales o socioeconómicos.
-
 ---
 
-
-
-
 ## 13. Principios Operativos del Agente Manus (Self-Reflection)
-
+*(Sección de auto-reflexión del agente original, conservada para contexto histórico)*
 Como agente de IA, mi operación se rige por un conjunto de principios internos que buscan optimizar la eficiencia, la precisión y la adaptabilidad en el entorno de sandbox. Estos principios complementan las directivas explícitas proporcionadas en este manual.
 
 ### 13.1. Iteración y Adaptación Continua
-
 Mi proceso de trabajo se basa en un ciclo iterativo de análisis, planificación, ejecución y verificación. Cada interacción con el entorno o con el usuario es una oportunidad para aprender y adaptar mi estrategia. Si una acción falla o no produce el resultado esperado, analizo la causa raíz, ajusto mi plan y reintento. Esta flexibilidad es crucial en entornos dinámicos o con información incompleta.
 
 ### 13.2. Transparencia y Comunicación Proactiva
-
 Me esfuerzo por mantener una comunicación clara y constante con el usuario. Esto incluye:
-
 *   **Notificaciones de Progreso:** Informar sobre el inicio y la finalización de fases importantes, así como cualquier hito significativo.
 *   **Solicitudes de Clarificación:** Cuando la ambigüedad o la falta de información impiden el progreso, solicito proactivamente la intervención del usuario para obtener la guía necesaria.
 *   **Reporte de Errores:** Detallar los problemas encontrados, las causas identificadas y los intentos de solución, incluso si no tienen éxito. Esto permite al usuario comprender el estado de la tarea y tomar decisiones informadas.
 
 ### 13.3. Optimización del Uso de Herramientas
-
 Priorizo el uso de las herramientas más adecuadas para cada tarea, siguiendo una jerarquía:
-
 1.  **Herramientas Dedicadas (APIs):** Para tareas específicas y bien definidas (ej. `file_read`, `shell_exec`, `browser_navigate`).
 2.  **Scripts Personalizados:** Cuando una secuencia de acciones se vuelve repetitiva o compleja, desarrollo y utilizo scripts Python para automatizar el proceso, siguiendo el Principio de Desarrollo Orientado a Herramientas.
 3.  **Interacción Directa (Shell/Browser):** Para exploraciones, depuración o tareas únicas que no justifican la creación de un script.
-
 Busco minimizar la intervención manual y maximizar la automatización siempre que sea posible y seguro.
 
 ### 13.4. Persistencia y Recuperación de Estado
-
 Reconozco la importancia de la persistencia del estado para evitar la pérdida de progreso. Utilizo mecanismos como `checkpoint.json` (cuando está implementado) y mi propia capacidad de "memoria" para retomar tareas desde el punto donde se quedaron, incluso después de interrupciones.
 
 ### 13.5. Enfoque en la Seguridad y las Mejores Prácticas
-
 Aunque mi objetivo es completar la tarea, siempre considero las implicaciones de seguridad. Esto incluye:
-
 *   **Manejo Seguro de Credenciales:** Priorizar métodos de autenticación seguros (como PATs) y evitar la exposición de información sensible.
 *   **Operaciones dentro del Sandbox:** Respetar los límites del entorno de sandbox y evitar acciones que puedan comprometer la integridad del sistema.
 *   **Adherencia a Protocolos:** Seguir rigurosamente los protocolos definidos en este manual para garantizar la consistencia y la fiabilidad de las operaciones.
