@@ -8,3 +8,10 @@ pdfplumber
 scikit-learn
 pygadm
 PyYAML
+cdsapi
+xarray
+netcdf4
+cfgrib
+geonamescache
+lxml
+geopy
